@@ -247,3 +247,14 @@ For each step: the prompt I gave, any follow-up prompt, and the result/evidence.
     - Library: Beinecke exhibition hall Mon/Tue/Thu 9–7, Wed 10–7, Fri 9–5, Sat–Sun 12–5. Lewis Walpole Library Mon/Tue/Thu/Fri 8:30–4:45, Wed 10–4:45 (its site lists no weekend hours, so none are shown).
   - **App:** each museum page has an "Opening hours" table (closed days greyed out) with "From the museum's website, checked October 25, 2026. Holiday closures vary." Home cards show a one-line summary ("Open Tue–Sun · closed Mon").
   - **Checked in the browser:** British Art, Library (two venues) and the home cards. No "on view" text remains on the pages. 12 tests pass.
+
+### Step 11: Repo, fresh-clone dry run, report and slides
+
+- **Prompts:** "How else can I improve this and make it a Tier 3 project?", then "Ok do step 1 and make sure you follow the instructions correctly to make the report and slides"
+- **Result / evidence:**
+  - **GitHub repo:** https://github.com/art72-dev/yale-museum-keepsake (public, like HW5). Checked before pushing that no key value is anywhere in the project; `.env`, the full harvest, image caches and visitor books are ignored.
+  - **Dry run from a fresh clone** (as a grader would): clone, venv, `pip install`, `npm install`, `.env` one folder up. The app was up 53 s after the clone and a live scan finished at 68 s. The clone and its `.env` copy were deleted afterwards.
+  - **`report.html`**, in the required section order: title and links; motivation; what's new (compared with Smartify, Bloomberg Connects, Cooper Hewitt's Pen, ChatGPT/Google Lens, LUX itself and a printed catalogue); the agents (diagram, tool table, a real scan trace, screenshots, the data); tokenomics (real token counts from `output/usage_log.jsonl`, Portkey's gpt-6-luna prices); safety; impact; limits and next steps; sources. Prints to 13 letter pages; all 12 images embedded, none broken, opened straight from disk.
+  - **`slides.html`**: 10 reveal.js slides (5.1.0 from a CDN): title, problem, what's new, agents, two demo slides, cost, safety, impact, next. Checked from disk: arrow keys reach all 10, F goes full screen, all 7 images embedded, nothing overflows a slide.
+  - **Screenshots** for both are in `output/screenshots/`; the report's and slides' sources and `build.py` (embeds every image) are in `report/`.
+  - **Still to fill in after the user test:** the yellow `[FILL]` boxes in the report's Impact section (testers, minutes per object, quotes) and on the slides' Impact slide. No numbers were made up for these.

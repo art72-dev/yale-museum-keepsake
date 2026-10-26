@@ -4,6 +4,8 @@ A website for people visiting Yale's museums. While you walk the galleries, you 
 
 **Status:** The app runs on the test dataset of 160 objects from 6 museums. The full harvest from Yale's [LUX](https://lux.collections.yale.edu) platform is approved and waiting for LUX to lift a rate-limit block (see "Getting the data").
 
+**Report and slides:** open [`report.html`](report.html) (prints to 13 letter pages) and [`slides.html`](slides.html) (10 slides; arrow keys to move, F for full screen) straight from the folder. Every image is embedded, so each is a single file. To change them, edit `report/report_src.html` or `report/slides_src.html` and run `python3 build.py` in `report/`.
+
 ## What's in it
 
 - **Frontend** (`frontend/`, React + Vite + TypeScript). The palette is soft and muted (linen, dusty rose, sage, teal, ochre, plum). Animated art pieces drawn in SVG appear on the pages: a Calder-style mobile, a marble bust in a beret, a dinosaur skeleton, a violin, paintings and a library book.
@@ -25,6 +27,9 @@ A website for people visiting Yale's museums. While you walk the galleries, you 
 Final Project/
 ├── AI_prompts.md              # every prompt, follow-ups and results
 ├── README.md
+├── report.html                # final report (self-contained, images embedded)
+├── slides.html                # final slides (reveal.js, self-contained)
+├── report/                    # sources for both: report_src.html, slides_src.html, img/, build.py
 ├── requirements.txt
 ├── .env.example               # key names only, no values
 ├── .gitignore
@@ -56,6 +61,7 @@ Final Project/
     ├── harness.md             # how the system works: agent, tools, safety, costs
     ├── usage_log.jsonl        # real token counts for every description request
     ├── sample_book.pdf        # a 7-object book printed from the app
+    ├── screenshots/           # full-size app screenshots used in the report and slides
     ├── scan_examples.json     # real scans of the test photos: what was read, each tool step, the outcome
     ├── lux_data_report.md     # LUX: API, counts, coverage, image rights, oddities, harvest options
     ├── lux_report_samples.md  # auto-generated coverage and rights tables for the samples

@@ -427,5 +427,17 @@
    "credit_line",
    "museum"
   ]
+ },
+ "cfaf541f-bce7-41aa-8a1a-34d8267b15ca|gpt-6-luna|3163709b|b5a98271": {
+  "headline": "Vermilion inside, green outside",
+  "blurb": "Made in 1906 by Chickering & Sons, this clavichord was the first product of the company’s collaboration with Arnold Dolmetsch, who directed its department for early instruments. Its five-octave keyboard spans FF to f’’’. The maple case and lid are painted dark green outside, with vermilion inside the lid and keywell; gilt mouldings highlight the case. Its decorative scheme reinterprets mid-18th-century northern European decoration. The painted nameboard identifies Chickering & Sons, Boston, and marks the instrument “No 1.”",
+  "look_closer": "Notice the contrast between the dark green exterior and the vermilion-painted interior of the lid and keywell.",
+  "facts_used": [
+   "title",
+   "maker",
+   "date",
+   "description",
+   "notes"
+  ]
  }
 }
