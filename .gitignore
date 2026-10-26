@@ -10,6 +10,8 @@ data/lux/thumbs/
 data/lux/images/
 # Visitors' books (object IDs per random visitor ID)
 data/books/
+# Objects visitors added themselves (private to each visitor)
+data/added/
 
 # Environments, dependencies and builds
 .venv/

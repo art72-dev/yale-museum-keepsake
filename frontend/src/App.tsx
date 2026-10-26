@@ -1,6 +1,7 @@
 import { Link, NavLink, Route, Routes } from 'react-router-dom'
 import { Dino } from './components/Art'
 import { useFavorites } from './favorites'
+import AddObject from './pages/AddObject'
 import Browse from './pages/Browse'
 import Home from './pages/Home'
 import MyBook from './pages/MyBook'
@@ -32,6 +33,8 @@ export default function App() {
           <Route path="/museum/:slug" element={<Browse />} />
           <Route path="/object/:id" element={<ObjectPage />} />
           <Route path="/scan" element={<Scan />} />
+          <Route path="/add" element={<AddObject />} />
+          <Route path="/add/:id" element={<AddObject />} />
           <Route path="/book" element={<MyBook />} />
           <Route path="/book/print" element={<PrintBook />} />
           <Route path="*" element={

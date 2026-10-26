@@ -151,7 +151,8 @@ export default function Browse() {
         </p>
       )}
       {results && results.total === 0 && (
-        <p className="empty">Nothing here yet. Try another word, or turn off a filter.</p>
+        <p className="empty">Nothing here yet. Try another word, or turn off a filter. Not in the app?{' '}
+          <Link to="/add">Add it to your book yourself</Link>.</p>
       )}
 
       <div className="grid">

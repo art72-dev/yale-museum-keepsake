@@ -439,5 +439,63 @@
    "description",
    "notes"
   ]
+ },
+ "18ef18ee-bde3-4e57-b589-e05a038d2c87|gpt-6-luna|3163709b|c396ec33": {
+  "headline": "A plant specimen in the Botany collection",
+  "blurb": "This plant specimen is identified as Polygonum cespitosum, classified by the museum among plants. John Yen Wong collected it on October 17, 1973. It is part of the Botany collection at the Yale Peabody Museum, where it is listed as YU.051948.",
+  "look_closer": null,
+  "facts_used": [
+   "title",
+   "classification",
+   "collectors",
+   "date",
+   "museum",
+   "department",
+   "accession_number"
+  ]
+ },
+ "8ede57c9-b056-43a8-a997-dadb2f25838f|gpt-6-luna|3163709b|0b668919": {
+  "headline": "A family portrait in oil",
+  "blurb": "The Buckley-Boar Family is an oil painting on canvas, made between 1758 and 1760. The museum records an unknown artist and Arthur Devis as its makers. The canvas measures 38 3/4 by 43 1/2 inches (98.4 by 110.5 cm). The painting is part of the Paul Mellon Collection at the Yale Center for British Art.",
+  "look_closer": null,
+  "facts_used": [
+   "title",
+   "maker",
+   "date",
+   "medium",
+   "dimensions",
+   "credit_line",
+   "museum"
+  ]
+ },
+ "6dad003f-5794-49b5-82da-b1422f72c62d|gpt-6-luna|3163709b|32ebb645": {
+  "headline": "A biblical scene in mezzotint",
+  "blurb": "John Simon made this intaglio print, The Miraculous Draught of Fishes, in mezzotint on beige laid paper. The date is not recorded. Lettering beneath the image names “Raphael Urbin pinx.” and “J. Simon fec.”, and gives the biblical reference Luke, chapter 5. The sheet measures 10 3/16 by 13 13/16 inches, with an image measuring 9 3/4 by 13 5/8 inches. The print is held by the Yale Center for British Art.",
+  "look_closer": "Look for the lettering along the lower edge, including the title and the names Raphael Urbin and J. Simon.",
+  "facts_used": [
+   "title",
+   "maker",
+   "date",
+   "type",
+   "medium",
+   "dimensions",
+   "notes",
+   "museum"
+  ]
+ },
+ "6d9f91f7-a98e-42fc-b7f0-70d262a2b187|gpt-6-luna|3163709b|190f0fe0": {
+  "headline": "A fallen tree, marked in graphite",
+  "blurb": "Robert Hills made this watercolor in 1804, using watercolor and graphite on cream wove paper with a medium, slightly textured surface. The sheet measures 9 3/4 by 11 5/8 inches. Extensive graphite writing and shorthand appear at the lower right; on the back, a graphite inscription notes, “Dated 1804 on mount.” The work is part of the Paul Mellon Collection at the Yale Center for British Art.",
+  "look_closer": "Look for the extensive graphite inscriptions at the lower right and the note on the verso.",
+  "facts_used": [
+   "title",
+   "maker",
+   "date",
+   "medium",
+   "dimensions",
+   "notes",
+   "credit_line",
+   "museum"
+  ]
  }
 }

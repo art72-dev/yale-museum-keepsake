@@ -1,15 +1,21 @@
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { api, byline, type ObjectDetail } from '../api'
+import { api, byline, type ObjectCard, type ObjectDetail } from '../api'
 import { Mobile } from '../components/Art'
 import ObjectImage from '../components/ObjectImage'
 import { useFavorites } from '../favorites'
 import { useOwnPhotos } from '../ownPhotos'
 
 export default function MyBook() {
-  const { ids, move, remove, clear, book, setBook } = useFavorites()
+  const { ids, add, move, remove, clear, book, setBook } = useFavorites()
   const { photos, clearAll } = useOwnPhotos()
   const [objects, setObjects] = useState<Record<string, ObjectDetail>>({})
+  const [mine, setMine] = useState<ObjectCard[]>([])        // objects this visitor added themselves
+
+  useEffect(() => {
+    api.addedList().then(setMine).catch(() => undefined)
+  }, [])
+  const setAside = mine.filter((m) => !ids.includes(m.id))
 
   useEffect(() => {
     ids.filter((id) => !objects[id]).forEach((id) =>
@@ -22,7 +28,11 @@ export default function MyBook() {
         <div>
           <h1>My book</h1>
           <p className="lede">Nothing saved yet. Tap ♡ on anything you like and it will appear here, ready to print.</p>
-          <Link className="btn btn-pink" to="/">Browse the museums</Link>
+          <p className="scan-actions">
+            <Link className="btn btn-pink" to="/">Browse the museums</Link>
+            <Link className="btn" to="/add">+ Add an object yourself</Link>
+          </p>
+          <SetAside items={setAside} add={add} />
         </div>
         <Mobile />
       </div>
@@ -61,6 +71,7 @@ export default function MyBook() {
               <div className="book-item-text">
                 {o ? <Link to={`/object/${id}`}><b>{o.title}</b></Link> : <b>Loading…</b>}
                 {o && <span className="muted">{byline(o)} · {o.museum}</span>}
+                {o?.added_by_visitor && <span className="added-tag small">Added by you</span>}
               </div>
               <div className="book-item-actions">
                 <button onClick={() => move(id, -1)} disabled={i === 0} aria-label="Move up">↑</button>
@@ -72,6 +83,10 @@ export default function MyBook() {
         })}
       </ol>
 
+      <p className="muted add-line">Something you saw isn't in the app? <Link to="/add">Add it yourself</Link>: only you
+        will see it, and its page says the details came from you.</p>
+      <SetAside items={setAside} add={add} />
+
       <div className="book-actions">
         <Link className="btn btn-pink" to="/book/print">Preview and print my book</Link>
         <button className="btn" onClick={() => {
@@ -81,6 +96,24 @@ export default function MyBook() {
           }
         }}>Start over</button>
       </div>
+    </div>
+  )
+}
+
+/** Objects the visitor added and later took out of the book: one tap puts them back. */
+function SetAside({ items, add }: { items: ObjectCard[]; add: (id: string) => void }) {
+  if (items.length === 0) return null
+  return (
+    <div className="set-aside">
+      <p className="muted">You added these, but they aren't in your book now:</p>
+      <ul>
+        {items.map((m) => (
+          <li key={m.id}>
+            <Link to={`/object/${m.id}`}>{m.title}</Link> <span className="muted">{byline(m)}</span>{' '}
+            <button className="linkish" onClick={() => add(m.id)}>Put back</button>
+          </li>
+        ))}
+      </ul>
     </div>
   )
 }

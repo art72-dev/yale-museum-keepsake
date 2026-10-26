@@ -3,8 +3,10 @@ import { useOwnPhotos } from '../ownPhotos'
 import { toJpeg } from '../photo'
 
 /** For a work whose museum image can't be printed: add, replace or remove the visitor's own photo.
- *  `offer` is a photo already in hand (e.g. the one just scanned), offered with one tap. */
-export default function OwnPhotoControls({ id, rights, offer }: { id: string; rights: string; offer?: string | null }) {
+ *  `offer` is a photo already in hand (e.g. the one just scanned), offered with one tap.
+ *  `added`: an object the visitor typed in themselves, which has no museum image at all. */
+export default function OwnPhotoControls({ id, rights, offer, added = false }:
+  { id: string; rights: string; offer?: string | null; added?: boolean }) {
   const { photos, save, remove } = useOwnPhotos()
   const [error, setError] = useState('')
   const camera = useRef<HTMLInputElement>(null)
@@ -26,7 +28,12 @@ export default function OwnPhotoControls({ id, rights, offer }: { id: string; ri
 
   return (
     <div className="own-photo-box">
-      {mine ? (
+      {added ? (
+        <p>
+          <b>{mine ? 'Your photo' : 'Add your own photo'}</b> {mine ? 'is on this page of your book.' : 'of it for this page.'} It
+          stays in this browser only.
+        </p>
+      ) : mine ? (
         <p>
           <b>Your photo</b> is on this page of your book. The museum's own image isn't cleared for reuse ({rights}).
           It stays in this browser only.

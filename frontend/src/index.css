@@ -306,10 +306,51 @@ input:focus, select:focus { outline: 2px solid var(--rose); outline-offset: 1px;
 .sheet-blurb { font-size: 16px; line-height: 1.55; margin: 6px 0; }
 .sheet-look { font-size: 15px; margin: 6px 0; }
 .sheet-look b { color: var(--rose-deep); }
+.sheet-note { font-size: 15px; font-style: italic; margin: 8px 0; padding-left: 10px; border-left: 2px solid var(--plum); }
+.sheet-note b { font-style: normal; color: var(--plum); }
 .sheet-details, .sheet-credit { font: 12.5px/1.45 var(--sans); color: #6d5862; margin: 8px 0 0; }
 .colophon { font-size: 15px; line-height: 1.6; }
 .colophon h2 { font-size: 26px; }
 .muted-print { color: #8a7480; font: 13px var(--sans); margin-top: auto; }
+
+/* ---- add an object yourself ---- */
+.add-page { max-width: 900px; }
+.add-head { display: grid; grid-template-columns: 1fr 190px; gap: 24px; align-items: center; }
+.add-head h1 { font-size: 38px; line-height: 1.1; margin: 6px 0 10px; }
+.add-head .art { width: 190px; }
+.add-form { display: grid; grid-template-columns: 1fr 1fr; gap: 14px 18px; margin: 18px 0 30px; padding: 22px;
+  border-radius: 20px; background: var(--surface); border: 1px solid var(--line); box-shadow: var(--shadow); }
+.add-form label { display: flex; flex-direction: column; gap: 6px; font-size: 14px; color: var(--ink-soft); font-weight: 600; }
+.add-form .wide { grid-column: 1 / -1; }
+.add-form .req > span::after, .req-mark { content: " *"; color: var(--rose-deep); }
+.add-form label { min-width: 0; }
+.add-form input, .add-form select, .add-form textarea { font-weight: 400; width: 100%; min-width: 0; }
+textarea { font: 15px var(--sans); color: var(--ink); background: var(--surface); border: 1px solid var(--line-strong);
+  border-radius: 12px; padding: 10px 12px; resize: vertical; }
+textarea:focus { outline: 2px solid var(--rose); outline-offset: 1px; }
+.add-photo { display: grid; grid-template-columns: 120px 1fr; gap: 16px; align-items: center; padding: 14px; border-radius: 16px;
+  background: color-mix(in srgb, var(--plum) 8%, var(--surface)); border: 1px solid var(--line); }
+.add-photo img, .add-photo .img-placeholder { width: 120px; height: 120px; object-fit: contain; border-radius: 12px; background: #ece4d9; }
+.add-photo p { margin: 0 0 10px; }
+.add-actions { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+.btn-danger { color: #a3423a; border-color: #e3b7b0; }
+.btn-danger:hover { background: #f8e4e0; }
+.added-tag { display: inline-block; margin: 0 0 8px; padding: 3px 12px; border-radius: 999px; font-size: 13px; font-weight: 700;
+  color: var(--plum); background: color-mix(in srgb, var(--plum) 12%, var(--surface)); }
+.added-tag.small { margin: 4px 0 0; padding: 1px 8px; font-size: 11px; width: fit-content; }
+.visitor-note { margin: -8px 0 18px; padding: 10px 14px; border-left: 3px solid var(--plum); background: var(--surface); border-radius: 0 12px 12px 0; }
+.label-text { margin: 14px 0 0; color: var(--ink-soft); }
+.label-text summary { cursor: pointer; font-size: 14px; }
+.label-text p { white-space: pre-wrap; margin: 8px 0 0; }
+.add-line { margin: 4px 0 14px; }
+.set-aside { margin: 0 0 18px; padding: 10px 14px; border-radius: 14px; border: 1px dashed var(--line-strong); }
+.set-aside p { margin: 0 0 4px; }
+.set-aside ul { margin: 0; padding-left: 18px; }
+@media (max-width: 860px) {
+  .add-head { grid-template-columns: 1fr; }
+  .add-head .art { display: none; }
+  .add-form { grid-template-columns: 1fr; padding: 16px; }
+}
 
 @media (max-width: 860px) {
   .hero { grid-template-columns: 1fr; }
@@ -322,6 +363,11 @@ input:focus, select:focus { outline: 2px solid var(--rose); outline-offset: 1px;
   main { padding: 18px 16px 48px; }
 }
 
+@media (max-width: 600px) {
+  .nav { flex-wrap: wrap; row-gap: 6px; padding: 10px 16px; }
+  .brand { font-size: 18px; }
+  .nav nav { width: 100%; gap: 0; justify-content: space-between; }
+}
 @media (prefers-reduced-motion: reduce) {
   .bg-blobs span, .brand-mark i, .save-btn.saved, .shimmer { animation: none !important; }
   .card:hover, .museum-card:hover { transform: none; }

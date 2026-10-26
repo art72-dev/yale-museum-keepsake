@@ -1,10 +1,11 @@
 import { useEffect, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { api, byline, type ObjectCard as Card, type ScanResponse } from '../api'
+import { api, byline, type ObjectCard as Card, type PhotoReading, type ScanResponse } from '../api'
 import { Painting } from '../components/Art'
 import ObjectImage from '../components/ObjectImage'
 import OwnPhotoControls from '../components/OwnPhotoControls'
 import { useFavorites } from '../favorites'
+import { handOff } from '../handoff'
 import { toJpeg } from '../photo'
 
 const WORKING = ['Reading the photo…', 'Looking through the collection…', 'Writing the page…', 'Adding it to your book…']
@@ -157,7 +158,10 @@ export default function Scan() {
               <div className="grid">
                 {result.candidates.map((c) => <Pick key={c.id} c={c} onPick={choose} />)}
               </div>
-              <button className="btn more" onClick={reset}>None of these: scan again</button>
+              <div className="scan-actions">
+                <button className="btn" onClick={reset}>None of these: scan again</button>
+                <AddYourself photo={photo} reading={result.reading} />
+              </div>
             </>
           ) : (
             <>
@@ -174,6 +178,7 @@ export default function Scan() {
                 {result.reading?.title && (
                   <Link className="btn" to={`/museum/all?q=${encodeURIComponent(result.reading.title)}`}>Search by hand</Link>
                 )}
+                <AddYourself photo={photo} reading={result.reading} />
               </div>
             </>
           )}
@@ -187,5 +192,14 @@ export default function Scan() {
         </section>
       )}
     </div>
+  )
+}
+
+/** Not in the app: open the add form with what the label said (and the photo) already filled in. */
+function AddYourself({ photo, reading }: { photo: string | null; reading: PhotoReading | null }) {
+  return (
+    <Link className="btn" to="/add" state={{ fromScan: true }} onClick={() => handOff(photo, reading)}>
+      + Add it yourself
+    </Link>
   )
 }

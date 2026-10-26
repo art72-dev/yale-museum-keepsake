@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { imageUrl } from '../api'
+import { ADDED, imageUrl } from '../api'
 import { useOwnPhotos } from '../ownPhotos'
 
 type Props = {
@@ -36,9 +36,9 @@ export default function ObjectImage({ id, title, usable, rights, size = 'thumb',
     <div className={`obj-img obj-img-${size} img-placeholder`} role="img" aria-label={`No image: ${title}`}>
       <span className="ph-mark">◇</span>
       <span className="ph-text">
-        {failed ? 'Image unavailable right now' : rights === 'No image' ? 'No photograph yet' : 'Image not shown'}
+        {failed ? 'Image unavailable right now' : rights === 'No image' || rights === ADDED ? 'No photograph yet' : 'Image not shown'}
       </span>
-      {!failed && rights !== 'No image' && <span className="ph-why">Rights: {rights}</span>}
+      {!failed && rights !== 'No image' && rights !== ADDED && <span className="ph-why">Rights: {rights}</span>}
       {museumUrl && !failed && (
         <a className="ph-link" href={museumUrl} target="_blank" rel="noreferrer">See it on the museum's site</a>
       )}

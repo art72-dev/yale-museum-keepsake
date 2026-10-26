@@ -37,7 +37,8 @@ export default function Home() {
           </form>
           <p className="scan-cta">
             <Link className="btn btn-pink" to="/scan">📷 Scan an artwork</Link>
-            <span className="muted">Snap a wall label and it's added to your book.</span>
+            <span className="muted">Snap a wall label and it's added to your book. Not in the app?{' '}
+              <Link to="/add">Add it yourself</Link>.</span>
           </p>
           <ul className="steps">
             <li><b>Save</b> objects as you go</li>

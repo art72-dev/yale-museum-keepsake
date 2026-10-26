@@ -48,12 +48,14 @@ export default function ObjectPage() {
 
   if (error) return <p className="error">Couldn't load this object: {error}</p>
   if (!o) return <p className="muted">Loading…</p>
+  const mine = Boolean(o.added_by_visitor)
 
   return (
     <div className="object-page">
       <p className="crumbs">
         <Link to="/">Museums</Link> / <Link to={`/museum/${o.museum_slug}`}>{o.museum}</Link> /{' '}
-        <Link to={`/museum/${o.museum_slug}?dept=${encodeURIComponent(o.department)}`}>{o.department}</Link>
+        {mine ? <span>Added by you</span>
+          : <Link to={`/museum/${o.museum_slug}?dept=${encodeURIComponent(o.department)}`}>{o.department}</Link>}
       </p>
       <div className="object-layout">
         <div className="object-media">
@@ -68,16 +70,18 @@ export default function ObjectPage() {
               ) : o.rights}
             </p>
           )}
-          {!o.image_usable && o.rights !== 'No image' && <OwnPhotoControls id={o.id} rights={o.rights} />}
+          {mine && <OwnPhotoControls id={o.id} rights={o.rights} added />}
+          {!mine && !o.image_usable && o.rights !== 'No image' && <OwnPhotoControls id={o.id} rights={o.rights} />}
           {!o.image_usable && o.rights === 'No image' && <OwnPhotoControls id={o.id} rights="the museum has no photograph" />}
         </div>
         <div className="object-text">
+          {mine && <p className="added-tag">Added by you · only you can see it</p>}
           <h1>{o.title}</h1>
           <SaveButton id={o.id} big />
 
           <section className="blurb-panel" aria-live="polite">
             {!blurb && (
-              <div className="writing"><Bust /><p className="muted shimmer">Writing a short description from the museum's records…</p></div>
+              <div className="writing"><Bust /><p className="muted shimmer">Writing a short description from {mine ? 'the details you entered' : "the museum's records"}…</p></div>
             )}
             {blurb && (
               <>
@@ -87,17 +91,28 @@ export default function ObjectPage() {
                 <p className="blurb-source">
                   {blurb.source === 'fallback'
                     ? blurb.note
+                    : mine ? `Written by AI (${blurb.model}) only from the details you entered, not from the museum's record.`
                     : `Written by AI (${blurb.model}) using only this museum's records.`}
                 </p>
               </>
             )}
           </section>
 
+          {o.visitor_note && <p className="visitor-note"><b>Your note:</b> {o.visitor_note}</p>}
+
           <Facts o={o} />
+
+          {o.label_text && (
+            <details className="label-text">
+              <summary>Label text you entered</summary>
+              <p>{o.label_text}</p>
+            </details>
+          )}
 
           <p className="links">
             {o.museum_page_url && <a href={o.museum_page_url} target="_blank" rel="noreferrer">Museum page ↗</a>}
-            <a href={o.lux_url} target="_blank" rel="noreferrer">LUX record ↗</a>
+            {o.lux_url && <a href={o.lux_url} target="_blank" rel="noreferrer">LUX record ↗</a>}
+            {mine && <Link className="btn" to={`/add/${o.id}`}>Edit details</Link>}
           </p>
         </div>
       </div>

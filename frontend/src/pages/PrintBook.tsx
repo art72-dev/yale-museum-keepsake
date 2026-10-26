@@ -60,6 +60,7 @@ export default function PrintBook() {
   const museums = useMemo(() => [...new Set(pages?.map((p) => p.o.museum) ?? [])], [pages])
   const museumList = new Intl.ListFormat('en', { type: 'conjunction' }).format(museums)
   const models = useMemo(() => [...new Set(pages?.map((p) => p.b?.model).filter(Boolean) ?? [])], [pages])
+  const anyAdded = pages?.some((p) => p.o.added_by_visitor) ?? false
   const today = new Date().toLocaleDateString(undefined, { year: 'numeric', month: 'long', day: 'numeric' })
 
   if (ids.length === 0) {
@@ -97,7 +98,7 @@ export default function PrintBook() {
 
           {pages.map(({ o, b }, i) => (
             <section className="paper object-sheet" key={o.id}>
-              <div className="sheet-image">
+              {(o.image_usable || photos[o.id] || !o.added_by_visitor) && <div className="sheet-image">
                 {o.image_usable ? (
                   <img src={imageUrl(o.id, 'large')} alt={o.alt_text || o.title} />
                 ) : photos[o.id] ? (
@@ -111,7 +112,7 @@ export default function PrintBook() {
                     {o.museum_page_url && <p>See it at <span className="url">{o.museum_page_url}</span></p>}
                   </div>
                 )}
-              </div>
+              </div>}
               <div className="sheet-text">
                 <p className="sheet-no">{i + 1}</p>
                 <h2>{o.title}</h2>
@@ -119,6 +120,7 @@ export default function PrintBook() {
                 {b && b.source !== 'fallback' && <h3>{b.headline}</h3>}
                 {b && <p className="sheet-blurb">{b.blurb}</p>}
                 {b?.look_closer && <p className="sheet-look"><b>Look closer:</b> {b.look_closer}</p>}
+                {o.visitor_note && <p className="sheet-note"><b>My note:</b> {o.visitor_note}</p>}
                 <p className="sheet-details">
                   {[o.medium, o.dimensions].filter(Boolean).join('. ')}
                 </p>
@@ -126,10 +128,12 @@ export default function PrintBook() {
                   {o.museum.includes(o.department) ? o.museum : `${o.museum}, ${o.department}`}
                   {o.accession_number && ` · ${o.accession_number}`}
                   {o.credit_line && <><br />{o.credit_line}</>}
+                  {o.added_by_visitor && <><br />Details entered by the visitor, not taken from the museum's record
+                    {b && b.source !== 'fallback' ? '; the description was written by AI from those details only' : ''}.</>}
                   {o.image_usable && <><br />Image: {o.museum}, {o.rights === OPEN_ACCESS
                     ? "public domain (made before 1900), used under Yale's Open Access policy" : o.rights}</>}
-                  {!o.image_usable && photos[o.id] && <><br />Image: your own photo, for personal use. The museum's image
-                    isn't cleared for reuse ({o.rights}).</>}
+                  {!o.image_usable && photos[o.id] && (o.added_by_visitor ? <><br />Image: your own photo, for personal use.</>
+                    : <><br />Image: your own photo, for personal use. The museum's image isn't cleared for reuse ({o.rights}).</>)}
                 </p>
               </div>
             </section>
@@ -138,7 +142,8 @@ export default function PrintBook() {
           <section className="paper colophon">
             <h2>About this book</h2>
             <p>
-              The objects, their details and their photographs come from the collections of {museumList}, through
+              {anyAdded ? 'Except for objects the visitor added themselves, the' : 'The'} objects, their details and their
+              photographs come from the collections of {museumList}, through
               Yale's LUX collections platform (lux.collections.yale.edu).
             </p>
             <p>
@@ -152,6 +157,13 @@ export default function PrintBook() {
               the museum's own records for that object, then checked so that every date, number and name appears in
               those records. Where the AI text wasn't available, the page shows the museum's details instead.
             </p>
+            {anyAdded && (
+              <p>
+                Pages marked "Details entered by the visitor" are for objects the visitor added themselves. Their
+                details are what the visitor typed in, not the museum's record, and their descriptions were written by
+                AI from those details only.
+              </p>
+            )}
             <p className="muted-print">Made with Yale Museum Keepsake, {today}.</p>
           </section>
         </div>

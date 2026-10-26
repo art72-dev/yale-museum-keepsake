@@ -31,6 +31,7 @@ class Blurb(BaseModel):
 class BlurbDeps:
     object_id: str
     catalog: object                                    # catalog.Catalog (kept loose to avoid an import cycle)
+    facts: dict | None = None                          # a visitor-added object's details (else the catalogue's)
     source_text: str = ""                              # every fact the tools returned, for the grounding check
     warnings: list[str] = field(default_factory=list)
 

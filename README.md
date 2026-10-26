@@ -14,6 +14,7 @@ A website for people visiting Yale's museums. While you walk the galleries, you 
   - **My book:** saved objects, reorder, book title and your name.
   - **Print view:** a cover, one page per object and a sources page. Prints as letter pages, or saves as a PDF.
   - **Your own photo:** for a work whose museum image can't be printed, you can use the photo you just scanned, take one, or upload one. It's kept only in your browser (IndexedDB), never sent to the server. It prints marked "Your photo", with a personal-use credit.
+  - **Add an object yourself** (`/add`): for something that isn't in the app yet. Museum, title, artist or maker, date and type are required; materials, size, department, object number, the label's text, your own note and your photo are optional. It first checks whether the object is already in the collection and offers the museum's record. The object is private to you (kept under your browser's random visitor ID, never in anyone's browsing or search), goes straight into your book, and its page, on screen and printed, says the details came from you. The AI writes its description only from what you typed (not your note), with the same fact checker. Offered after a scan that finds nothing (prefilled from the label), on empty searches, on My book and on the home page.
 - **Backend** (`backend/`, FastAPI):
   - Serves the collection data and images. It refuses any image whose rights don't allow reuse.
   - Runs the description writer.
@@ -39,12 +40,13 @@ Final Project/
 │   ├── images.py              # image proxy + cache, rights enforced
 │   ├── museum_info.json       # each museum's info card (from its own website; sources listed)
 │   ├── books.py               # each visitor's book (object IDs) on the server, so add_to_book can add
+│   ├── added.py               # objects a visitor adds themselves (private; data/added/, not committed)
 │   ├── scanner.py             # the scanner + photo-reader agents: photo -> object -> page -> book
 │   ├── agent.py               # ┐ the description writer: model, limits, checker, cache, usage log
 │   ├── tools.py               # │ all tools: get_object_facts; read_photo, search_collection, write_blurb, add_to_book
 │   ├── models.py              # │ data types
 │   ├── prompts/               # ┘ blurb.md, scanner.md, photo_reader.md
-│   └── tests/                 # test_offline.py + test_scanner.py (scripted model, no key needed),
+│   └── tests/                 # test_offline.py, test_scanner.py, test_added.py (scripted model, no key needed),
 │                              # run_scan_examples.py + scan_photos/ (real scans for the report)
 ├── frontend/                  # React + Vite + TypeScript
 ├── harvest/

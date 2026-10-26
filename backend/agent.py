@@ -8,6 +8,8 @@ Safety and cost, all in this file:
 - Daily token budget and a per-visitor rate limit. When either is hit, or the model fails, the page gets a
   plain caption built from the museum's own fields instead (`fallback`), and the visitor is told why.
 - Every run is logged with its real token counts to output/usage_log.jsonl.
+- Objects a visitor adds themselves (added.py) get the same writer and checks, from the details they
+  typed; the text is kept with the object, not in the shared cache.
 """
 
 from __future__ import annotations
@@ -32,6 +34,7 @@ from pydantic_ai.models.openai import OpenAIResponsesModel, OpenAIResponsesModel
 from pydantic_ai.providers.openai import OpenAIProvider
 from pydantic_ai.usage import UsageLimits
 
+import added
 import tools
 from catalog import ROOT, Catalog
 from models import Blurb, BlurbDeps, BlurbResponse, UsageRecord
@@ -85,6 +88,9 @@ blurb_agent = Agent(
 )
 
 NUMBER_RE = re.compile(r"\d+(?:[.,]\d+)?")
+# Talking about the data instead of the object ("the recorded details identify the artist")
+META_RE = re.compile(r"\b(?:the|these|those|recorded|given|provided|available|listed|entered) "
+                     r"(?:details|information|facts|records?|fields|data)\b", re.I)
 CAPITALISED_RE = re.compile(r"\b[A-Z][a-zà-ÿ'’\-]{2,}")
 COMMON_WORDS = {"The", "This", "These", "Its", "It", "Yale", "University", "Museum", "Gallery", "Center", "Centre",
                 "Art", "British", "Collection", "Library", "Peabody", "Look", "Find", "Notice", "See", "Made", "From",
@@ -124,6 +130,10 @@ def validate(ctx: RunContext[BlurbDeps], out: Blurb) -> Blurb:
         send_back(f"The blurb has {words} words. Keep it between 35 and 110 words.")
     if re.search(r"https?://|www\.", out.blurb + (out.look_closer or "")):
         send_back("Don't include links.")
+    meta = META_RE.search(" ".join(filter(None, [out.blurb, out.look_closer])))
+    if meta:
+        send_back(f"Write about the object, not about the facts you were given: remove \"{meta.group()}\" and "
+                  "anything else about what the details say or leave out. A short page is fine.")
     numbers, names = check_grounding(out, ctx.deps.source_text)
     if numbers:
         send_back(f"These numbers aren't in the facts: {', '.join(numbers)}. Remove them or use the facts' "
@@ -229,7 +239,70 @@ def fallback_caption(catalog: Catalog, oid: str, note: str) -> BlurbResponse:
                          source="fallback", model=None, note=note)
 
 
-# ---- the one entry point -----------------------------------------------------------------------
+# ---- running the writer ------------------------------------------------------------------------
+
+TASK = "Write the keepsake-book page for this object."
+ADDED_TASK = ("Write the keepsake-book page for this object. The visitor typed these facts in themselves (from the "
+              "wall label and what they saw); they are not the museum's record. Use only them, and don't say the "
+              "museum describes or records anything. Visitors often give only a few details: then write a short page "
+              "of two or three sentences (30 to 60 words) from what is there. Don't describe how the object looks "
+              "unless the label text or materials say so, and never comment on what the details include or leave out.")
+ADDED_VERSION = hashlib.sha1((PROMPT + ADDED_TASK).encode()).hexdigest()[:8]
+
+REFUSALS = {
+    "budget": "Today's AI budget is used up, so this page shows {whose} details. The written description will be "
+              "back tomorrow.",
+    "rate": "You've asked for a lot of descriptions in a few minutes. This page shows {whose} details; try again "
+            "shortly.",
+    "no_key": "The AI writer isn't set up on this server (no API key), so this page shows {whose} details.",
+    "failed": "The AI description couldn't be written for this object, so this page shows {whose} details.",
+}
+
+
+def _refusal(oid: str, visitor: str, model: Model | None) -> str | None:
+    """Why the AI shouldn't run now (a REFUSALS key), or None. Refusals are logged."""
+    if tokens_spent_today() >= DAILY_TOKEN_BUDGET:
+        log_usage(UsageRecord(time=_now(), object_id=oid, model=MODEL_NAME, outcome="refused_budget"))
+        return "budget"
+    if not _visitor_allowed(visitor):
+        log_usage(UsageRecord(time=_now(), object_id=oid, model=MODEL_NAME, outcome="refused_rate"))
+        return "rate"
+    if model is None and not key_present():
+        return "no_key"
+    return None
+
+
+async def _write(deps: BlurbDeps, task: str, model: Model | None) -> Blurb | None:
+    """One run of the writer, logged with its real token counts. None if it failed."""
+    start = time.monotonic()
+    rec = UsageRecord(time=_now(), object_id=deps.object_id, model=MODEL_NAME, outcome="ok")
+    async with _runs:
+        try:
+            result = await blurb_agent.run(
+                task, deps=deps, model=model or get_model(), usage_limits=RUN_LIMITS,
+                model_settings=OpenAIResponsesModelSettings(max_tokens=MAX_OUTPUT_TOKENS, timeout=60,
+                                                            openai_reasoning_effort=REASONING_EFFORT))
+        except Exception as exc:                      # limits, model errors, content filter, network
+            rec.outcome, rec.error = "fallback", f"{type(exc).__name__}: {str(exc)[:300]}"
+            rec.seconds = round(time.monotonic() - start, 2)
+            log_usage(rec)
+            return None
+    u = result.usage
+    rec.input_tokens, rec.cache_read_tokens, rec.output_tokens = u.input_tokens, u.cache_read_tokens, u.output_tokens
+    rec.requests, rec.tool_calls = u.requests, u.tool_calls
+    rec.retries = sum(isinstance(p, RetryPromptPart) for m in result.all_messages() for p in getattr(m, "parts", []))
+    rec.seconds, rec.warnings = round(time.monotonic() - start, 2), deps.warnings
+    log_usage(rec)
+    out: Blurb = result.output
+    return out.model_copy(update={k: plain(getattr(out, k)) for k in ("headline", "blurb", "look_closer")})
+
+
+def _from_cache(oid: str, b: dict) -> BlurbResponse:
+    return BlurbResponse(object_id=oid, source="cache", model=MODEL_NAME,
+                         **{k: plain(b[k]) for k in ("headline", "blurb", "look_closer")})
+
+
+# ---- the entry points --------------------------------------------------------------------------
 
 async def get_blurb(catalog: Catalog, oid: str, visitor: str = "anon", model: Model | None = None) -> BlurbResponse:
     if oid not in catalog.by_id:
@@ -238,50 +311,58 @@ async def get_blurb(catalog: Catalog, oid: str, visitor: str = "anon", model: Mo
     cached = _load_cache().get(key)
     if cached:
         log_usage(UsageRecord(time=_now(), object_id=oid, model=MODEL_NAME, outcome="cache"))
-        return BlurbResponse(object_id=oid, source="cache", model=MODEL_NAME,
-                             **{k: plain(cached[k]) for k in ("headline", "blurb", "look_closer")})
+        return _from_cache(oid, cached)
 
     async with _object_locks[oid]:                     # two visitors saving the same object: write it once
         cached = _load_cache().get(key)
         if cached:
-            return BlurbResponse(object_id=oid, source="cache", model=MODEL_NAME,
-                                 **{k: plain(cached[k]) for k in ("headline", "blurb", "look_closer")})
-        if tokens_spent_today() >= DAILY_TOKEN_BUDGET:
-            log_usage(UsageRecord(time=_now(), object_id=oid, model=MODEL_NAME, outcome="refused_budget"))
-            return fallback_caption(catalog, oid, "Today's AI budget is used up, so this page shows the museum's "
-                                                  "own details. The written description will be back tomorrow.")
-        if not _visitor_allowed(visitor):
-            log_usage(UsageRecord(time=_now(), object_id=oid, model=MODEL_NAME, outcome="refused_rate"))
-            return fallback_caption(catalog, oid, "You've asked for a lot of descriptions in a few minutes. "
-                                                  "This page shows the museum's details; try again shortly.")
-        if model is None and not key_present():
-            return fallback_caption(catalog, oid, "The AI writer isn't set up on this server (no API key), so "
-                                                  "this page shows the museum's own details.")
-
-        deps = BlurbDeps(object_id=oid, catalog=catalog)
-        start = time.monotonic()
-        rec = UsageRecord(time=_now(), object_id=oid, model=MODEL_NAME, outcome="ok")
-        async with _runs:
-            try:
-                result = await blurb_agent.run(
-                    "Write the keepsake-book page for this object.", deps=deps, model=model or get_model(),
-                    usage_limits=RUN_LIMITS,
-                    model_settings=OpenAIResponsesModelSettings(max_tokens=MAX_OUTPUT_TOKENS, timeout=60,
-                                                                openai_reasoning_effort=REASONING_EFFORT))
-            except Exception as exc:                  # limits, model errors, content filter, network
-                rec.outcome, rec.error = "fallback", f"{type(exc).__name__}: {str(exc)[:300]}"
-                rec.seconds = round(time.monotonic() - start, 2)
-                log_usage(rec)
-                return fallback_caption(catalog, oid, "The AI description couldn't be written for this object, "
-                                                      "so this page shows the museum's own details.")
-        u = result.usage
-        rec.input_tokens, rec.cache_read_tokens, rec.output_tokens = u.input_tokens, u.cache_read_tokens, u.output_tokens
-        rec.requests, rec.tool_calls = u.requests, u.tool_calls
-        rec.retries = sum(isinstance(p, RetryPromptPart) for m in result.all_messages() for p in getattr(m, "parts", []))
-        rec.seconds, rec.warnings = round(time.monotonic() - start, 2), deps.warnings
-        log_usage(rec)
-        out: Blurb = result.output
-        out = out.model_copy(update={k: plain(getattr(out, k)) for k in ("headline", "blurb", "look_closer")})
+            return _from_cache(oid, cached)
+        reason = _refusal(oid, visitor, model)
+        if reason:
+            return fallback_caption(catalog, oid, REFUSALS[reason].format(whose="the museum's own"))
+        out = await _write(BlurbDeps(object_id=oid, catalog=catalog), TASK, model)
+        if out is None:
+            return fallback_caption(catalog, oid, REFUSALS["failed"].format(whose="the museum's own"))
         _save_to_cache(key, out)
+        return BlurbResponse(object_id=oid, headline=out.headline, blurb=out.blurb, look_closer=out.look_closer,
+                             source="ai", model=MODEL_NAME)
+
+
+def added_caption(rec: dict, museum_name: str, note: str) -> BlurbResponse:
+    """A visitor-added object's own details as a sentence or two. Nothing is generated."""
+    first = rec["title"].rstrip(".")
+    if rec["maker"].strip().lower() not in ("unknown", ""):
+        first += f", by {rec['maker']}"
+    parts = [f"{first}, {rec['date']}."]
+    if rec["medium"]:
+        parts.append(rec["medium"][0].upper() + rec["medium"][1:].rstrip(".") + ".")
+    parts.append(f"{rec['department']}, {museum_name}.".lstrip(", "))
+    return BlurbResponse(object_id=rec["id"], headline=rec["title"], blurb=" ".join(parts), source="fallback",
+                         model=None, note=note)
+
+
+async def get_added_blurb(catalog: Catalog, visitor: str, oid: str, model: Model | None = None) -> BlurbResponse:
+    """The page text for an object the visitor added: written only from what they typed, kept with the object."""
+    rec = added.get(visitor, oid)
+    if rec is None:
+        raise KeyError(oid)
+    museum = catalog.museums[rec["museum"]].name if rec["museum"] in catalog.museums else rec["museum"]
+    facts = added.facts(rec, museum)
+    key = f"{MODEL_NAME}|{ADDED_VERSION}|{hashlib.sha1(json.dumps(facts, sort_keys=True).encode()).hexdigest()[:8]}"
+    if rec.get("blurb") and rec.get("blurb_key") == key:
+        log_usage(UsageRecord(time=_now(), object_id=oid, model=MODEL_NAME, outcome="cache"))
+        return _from_cache(oid, rec["blurb"])
+
+    async with _object_locks[f"{visitor}/{oid}"]:
+        rec = added.get(visitor, oid) or rec
+        if rec.get("blurb") and rec.get("blurb_key") == key:
+            return _from_cache(oid, rec["blurb"])
+        reason = _refusal(oid, visitor, model)
+        if reason:
+            return added_caption(rec, museum, REFUSALS[reason].format(whose="your own"))
+        out = await _write(BlurbDeps(object_id=oid, catalog=catalog, facts=facts), ADDED_TASK, model)
+        if out is None:
+            return added_caption(rec, museum, REFUSALS["failed"].format(whose="your own"))
+        added.save_blurb(visitor, oid, key, out.model_dump())
         return BlurbResponse(object_id=oid, headline=out.headline, blurb=out.blurb, look_closer=out.look_closer,
                              source="ai", model=MODEL_NAME)
