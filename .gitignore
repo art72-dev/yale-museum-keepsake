@@ -1,0 +1,28 @@
+# Secrets
+.env
+
+# Full LUX harvest: large, rebuilt by `python harvest/lux_harvest.py harvest ...` (see README)
+# The small test dataset in data/lux/samples/ IS committed.
+data/lux/full/
+data/lux/raw/
+# Downloaded museum images (re-fetched on demand; many are not ours to redistribute)
+data/lux/thumbs/
+data/lux/images/
+# Visitors' books (object IDs per random visitor ID)
+data/books/
+
+# Environments, dependencies and builds
+.venv/
+venv/
+node_modules/
+dist/
+__pycache__/
+*.pyc
+*.tmp
+*.tsbuildinfo
+.pytest_cache/
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/

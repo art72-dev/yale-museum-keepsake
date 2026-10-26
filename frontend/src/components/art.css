@@ -1,0 +1,82 @@
+/* Motion for the SVG art pieces in Art.tsx. Slow, small movements; nothing flashes. */
+.art { display: block; width: 100%; height: auto; overflow: visible; }
+.art * { transform-box: view-box; }
+.art .wire { stroke: var(--ink-soft); stroke-width: 1.6; fill: none; stroke-linecap: round; }
+
+/* mobile: two arms turn at their pivots, every shape swings on its own string */
+.m-arm1 { transform-origin: 150px 28px; animation: m-sway 9s ease-in-out infinite alternate; }
+.m-arm2 { transform-origin: 250px 34px; animation: m-sway2 6.5s ease-in-out infinite alternate; }
+.m-h1 { transform-origin: 40px 36px; animation: m-swing 4.2s ease-in-out infinite alternate; }
+.m-h2 { transform-origin: 100px 27px; animation: m-swing 5.1s ease-in-out -1s infinite alternate; }
+.m-h3 { transform-origin: 196px 70px; animation: m-swing 3.8s ease-in-out -2s infinite alternate; }
+.m-h4 { transform-origin: 302px 66px; animation: m-swing 4.6s ease-in-out -.5s infinite alternate; }
+@keyframes m-sway { from { transform: rotate(-4deg); } to { transform: rotate(4deg); } }
+@keyframes m-sway2 { from { transform: rotate(7deg); } to { transform: rotate(-7deg); } }
+@keyframes m-swing { from { transform: rotate(-7deg); } to { transform: rotate(7deg); } }
+
+/* bust: a slow head tilt, a blink every few seconds, a beret that slips a little */
+.b-head { transform-origin: 80px 110px; animation: b-tilt 7s ease-in-out infinite alternate; }
+.b-eyes { transform-origin: 80px 71px; animation: b-blink 4.6s infinite; }
+.b-beret { transform-origin: 74px 36px; animation: b-beret 7s ease-in-out infinite alternate; }
+@keyframes b-tilt { from { transform: rotate(-3deg); } to { transform: rotate(3deg); } }
+@keyframes b-blink { 0%, 91%, 100% { transform: scaleY(1); } 94% { transform: scaleY(.1); } }
+@keyframes b-beret { from { transform: rotate(-3deg) translateY(0); } to { transform: rotate(4deg) translateY(-1px); } }
+
+/* dinosaur skeleton: drawn in sepia like a museum plate; the tail swishes and the head nods */
+.art-dino .spine { fill: none; stroke: var(--sepia); stroke-width: 8; stroke-linecap: round; stroke-dasharray: .1 10; }
+.art-dino .bone path { fill: none; stroke: var(--sepia); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+.art-dino .bone ellipse, .art-dino .skull { fill: var(--bone); stroke: var(--sepia); stroke-width: 2.4; }
+.d-tail { transform-origin: 100px 88px; animation: d-tail 3.6s ease-in-out infinite alternate; }
+.d-neck { transform-origin: 185px 78px; animation: d-neck 4.4s ease-in-out infinite alternate; }
+@keyframes d-tail { from { transform: rotate(-6deg); } to { transform: rotate(5deg); } }
+@keyframes d-neck { 0% { transform: rotate(3deg); } 60% { transform: rotate(-6deg); } 100% { transform: rotate(-2deg); } }
+
+/* violin: strings hum, the body sways, notes drift up */
+.v-body { transform-origin: 62px 190px; animation: v-sway 3.2s ease-in-out infinite alternate; }
+.v-strings line { animation: v-hum .14s linear infinite alternate; }
+.v-strings line:nth-child(2n) { animation-delay: -.07s; }
+.v-note { font: 22px Georgia, serif; fill: var(--ochre); opacity: 0; animation: v-note 3.6s ease-out infinite; }
+.v-n2 { fill: var(--rose); animation-delay: 1.2s; }
+.v-n3 { fill: var(--teal); animation-delay: 2.4s; }
+@keyframes v-sway { from { transform: rotate(-2.5deg); } to { transform: rotate(2.5deg); } }
+@keyframes v-hum { from { transform: translateX(-.35px); } to { transform: translateX(.35px); } }
+@keyframes v-note { 0% { opacity: 0; transform: translateY(8px); } 25% { opacity: .9; } 100% { opacity: 0; transform: translateY(-46px) rotate(12deg); } }
+
+/* paintings: cut-outs drift; in the landscape the clouds cross and the sun breathes */
+.p-drift1, .p-drift2, .p-drift3, .p-spin, .p-sun, .p-tree { transform-box: fill-box; transform-origin: center; }
+.p-drift1 { animation: p-wave 6s ease-in-out infinite alternate; }
+.p-drift2 { animation: p-bob 4.8s ease-in-out infinite alternate; }
+.p-drift3 { animation: p-bob 5.6s ease-in-out -2s infinite alternate-reverse; }
+.p-spin { animation: p-spin 28s linear infinite; }
+.p-sun { animation: p-sun 5s ease-in-out infinite alternate; }
+.p-tree { animation: p-wave 4s ease-in-out infinite alternate; }
+.p-cloud { animation: p-cloud 22s linear infinite; }
+.p-cloud2 { animation-duration: 30s; animation-delay: -12s; }
+@keyframes p-wave { from { transform: rotate(-6deg); } to { transform: rotate(6deg); } }
+@keyframes p-bob { from { transform: translateY(-5px); } to { transform: translateY(5px); } }
+@keyframes p-spin { to { transform: rotate(360deg); } }
+@keyframes p-sun { from { transform: scale(.94) translateY(2px); } to { transform: scale(1.06) translateY(-3px); } }
+@keyframes p-cloud { from { transform: translateX(-90px); } to { transform: translateX(210px); } }
+.art-painting:hover { animation: p-tilt .6s ease-in-out; }
+@keyframes p-tilt { 30% { transform: rotate(-2deg); } 70% { transform: rotate(1.5deg); } }
+
+/* book: a page turns back and forth, as if someone is browsing */
+.bk-flip { transform-origin: 100px 76px; animation: bk-flip 4.5s ease-in-out infinite alternate; }
+@keyframes bk-flip { 0%, 25% { transform: scaleX(1); } 75%, 100% { transform: scaleX(-1); } }
+
+/* the home page's gallery wall */
+.gallery-scene { position: relative; width: 100%; aspect-ratio: 1 / .86; }
+.gs-wall { position: absolute; inset: 0 0 12% 0; border-radius: 28px;
+           background: radial-gradient(120% 90% at 30% 20%, #f6e6dc 0%, #ecdfe6 45%, #dfe6df 100%); }
+.gs-floor { position: absolute; left: 0; right: 0; bottom: 0; height: 13%; border-radius: 0 0 28px 28px;
+            background: linear-gradient(#e2d3c3, #d8c7b5); }
+.gallery-scene .art { position: absolute; }
+.gs-mobile { width: 50%; left: 40%; top: 0; z-index: 2; }
+.gs-painting { width: 30%; left: 6%; top: 12%; }
+.gs-painting2 { width: 22%; left: 9%; top: 47%; transform: rotate(-2deg); }
+.gs-bust { width: 21%; right: 7%; bottom: 7%; }
+.gs-dino { width: 40%; left: 30%; bottom: 9%; }
+
+@media (prefers-reduced-motion: reduce) {
+  .art *, .art { animation: none !important; }
+}

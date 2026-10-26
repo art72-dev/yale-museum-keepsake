@@ -1,0 +1,205 @@
+{
+  "_about": "Short visitor blurbs and opening hours for each museum page. Every fact comes from the museum's own website (see sources), checked 2026-10-25. Counts shown beside the blurb come from the app's data, not from here.",
+  "yuag": {
+    "tagline": "The oldest university art museum in America",
+    "blurb": "Founded in 1832, the Yale University Art Gallery is the oldest university art museum in America. Its collection of nearly 300,000 objects covers art in every medium, from all regions of the globe and across time, from ancient coins to modern painting.",
+    "address": "1111 Chapel Street, New Haven",
+    "admission": "Free",
+    "status": "",
+    "website": "https://artgallery.yale.edu/visit",
+    "sources": [
+      "https://artgallery.yale.edu/about",
+      "https://artgallery.yale.edu/visit"
+    ],
+    "hours_summary": "Open Tue–Sun · closed Mon",
+    "hours": [
+      {
+        "place": "",
+        "rows": [
+          {
+            "days": "Monday",
+            "time": "Closed"
+          },
+          {
+            "days": "Tuesday–Friday",
+            "time": "10 am – 5 pm"
+          },
+          {
+            "days": "Thursday (Sept.–June)",
+            "time": "10 am – 8 pm"
+          },
+          {
+            "days": "Saturday–Sunday",
+            "time": "11 am – 5 pm"
+          }
+        ]
+      }
+    ],
+    "hours_source": "https://artgallery.yale.edu/visit",
+    "hours_note": "",
+    "hours_checked": "2026-10-25"
+  },
+  "ycba": {
+    "tagline": "British art in Louis Kahn's last building",
+    "blurb": "Opened in 1977 through the generosity of Yale graduate Paul Mellon, the Yale Center for British Art holds the largest collection of British art outside the United Kingdom, spanning more than five centuries. It lives in the last building designed by the architect Louis I. Kahn.",
+    "address": "1080 Chapel Street, New Haven",
+    "admission": "Free",
+    "status": "",
+    "website": "https://britishart.yale.edu",
+    "sources": [
+      "https://britishart.yale.edu/about-us",
+      "https://britishart.yale.edu/hours-and-visitor-information"
+    ],
+    "hours_summary": "Open Tue–Sun · closed Mon",
+    "hours": [
+      {
+        "place": "",
+        "rows": [
+          {
+            "days": "Monday",
+            "time": "Closed"
+          },
+          {
+            "days": "Tuesday",
+            "time": "10 am – 5 pm"
+          },
+          {
+            "days": "Wednesday",
+            "time": "10 am – 7 pm"
+          },
+          {
+            "days": "Thursday–Saturday",
+            "time": "10 am – 5 pm"
+          },
+          {
+            "days": "Sunday",
+            "time": "11 am – 5 pm"
+          }
+        ]
+      }
+    ],
+    "hours_source": "https://britishart.yale.edu/hours-and-visitor-information",
+    "hours_note": "",
+    "hours_checked": "2026-10-25"
+  },
+  "peabody": {
+    "tagline": "Natural history and culture, 14 million objects strong",
+    "blurb": "A part of Yale and New Haven for more than 150 years, the Yale Peabody Museum cares for over 14 million specimens and objects across 10 curatorial divisions, from fossils and minerals to anthropology and the Babylonian Collection's clay tablets. A major renovation has recently been completed.",
+    "address": "170 Whitney Ave., New Haven",
+    "admission": "Free",
+    "status": "",
+    "website": "https://peabody.yale.edu/visit",
+    "sources": [
+      "https://peabody.yale.edu/about",
+      "https://peabody.yale.edu/visit"
+    ],
+    "hours_summary": "Open Tue–Sun · closed Mon",
+    "hours": [
+      {
+        "place": "",
+        "rows": [
+          {
+            "days": "Monday",
+            "time": "Closed"
+          },
+          {
+            "days": "Tuesday–Friday",
+            "time": "10 am – 5 pm"
+          },
+          {
+            "days": "Saturday–Sunday",
+            "time": "12 pm – 5 pm"
+          }
+        ]
+      }
+    ],
+    "hours_note": "The museum's site also lists Saturday as 10 am – 5 pm in one place; check before a Saturday visit.",
+    "hours_source": "https://peabody.yale.edu/visit",
+    "hours_checked": "2026-10-25"
+  },
+  "musical_instruments": {
+    "tagline": "More than 1,000 instruments, from antiquity to today",
+    "blurb": "The collection began in 1900, when Morris Steinert gave Yale his private collection, mostly keyboard instruments. Today it holds more than 1,000 instruments from many cultures and periods, and some restored instruments are still played in demonstrations and concerts.",
+    "address": "15 Hillhouse Avenue, New Haven",
+    "admission": "Free",
+    "status": "Closed for renovation, projected to reopen in spring 2027. The online gallery is still available.",
+    "website": "https://music.yale.edu/plan-your-visit-collection",
+    "sources": [
+      "https://music.yale.edu/collection"
+    ],
+    "hours_summary": "Closed for renovation until spring 2027",
+    "hours": [],
+    "hours_source": "https://music.yale.edu/collection",
+    "hours_note": "",
+    "hours_checked": "2026-10-25"
+  },
+  "campus_art": {
+    "tagline": "Portraits and art in Yale's halls and colleges",
+    "blurb": "The Campus Art Collection is Yale's own collection of art and artifacts, separate from its museums and libraries: paintings, sculpture, furniture and prints that live in schools, colleges and offices across campus, including a treasure trove of portraits of members of the Yale community.",
+    "address": "Across the Yale campus",
+    "admission": "",
+    "status": "Many works hang in campus buildings; to see one, ask the collection at CampusArtCollection@yale.edu.",
+    "website": "https://campusartcollection.yale.edu",
+    "sources": [
+      "https://campusartcollection.yale.edu"
+    ],
+    "hours_summary": "No set hours · by appointment",
+    "hours": [],
+    "hours_note": "",
+    "hours_source": "https://campusartcollection.yale.edu",
+    "hours_checked": "2026-10-25"
+  },
+  "yale_library": {
+    "tagline": "Prints, letters and rare books from Yale's libraries",
+    "blurb": "The objects here come from Yale University Library's special collections. The Beinecke Rare Book & Manuscript Library's exhibition areas are free and open to the public. The Lewis Walpole Library, a department of Yale Library in Farmington, Connecticut, collects Horace Walpole and his contemporaries, including a Hogarth Collection, for the study of Britain in the long eighteenth century.",
+    "address": "Beinecke: 121 Wall Street, New Haven · Lewis Walpole: 154 Main Street, Farmington",
+    "admission": "Beinecke exhibitions free",
+    "status": "",
+    "website": "https://walpole.library.yale.edu",
+    "sources": [
+      "https://walpole.library.yale.edu",
+      "https://library.yale.edu/events/beinecke-library-tour",
+      "https://beinecke.library.yale.edu/hours-libraries"
+    ],
+    "hours_summary": "Beinecke open daily",
+    "hours": [
+      {
+        "place": "Beinecke exhibition hall",
+        "rows": [
+          {
+            "days": "Monday, Tuesday, Thursday",
+            "time": "9 am – 7 pm"
+          },
+          {
+            "days": "Wednesday",
+            "time": "10 am – 7 pm"
+          },
+          {
+            "days": "Friday",
+            "time": "9 am – 5 pm"
+          },
+          {
+            "days": "Saturday–Sunday",
+            "time": "12 pm – 5 pm"
+          }
+        ]
+      },
+      {
+        "place": "Lewis Walpole Library",
+        "rows": [
+          {
+            "days": "Monday, Tuesday, Thursday, Friday",
+            "time": "8:30 am – 4:45 pm"
+          },
+          {
+            "days": "Wednesday",
+            "time": "10 am – 4:45 pm"
+          }
+        ]
+      }
+    ],
+    "hours_source": "https://beinecke.library.yale.edu/hours-libraries",
+    "hours_note": "",
+    "hours_checked": "2026-10-25"
+  }
+}

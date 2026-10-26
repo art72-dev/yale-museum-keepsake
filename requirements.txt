@@ -1,0 +1,12 @@
+# App backend
+fastapi==0.143.0
+uvicorn==0.54.0
+pydantic-ai-slim[openai]==2.49.0
+python-dotenv==1.2.4
+
+# LUX harvester + image downloads
+requests>=2.32
+
+# Tests (backend/tests)
+pytest>=8
+httpx>=0.27

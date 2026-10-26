@@ -1,0 +1,520 @@
+{
+ "checked_at": "2026-10-24T21:47:13Z",
+ "total_objects_in_lux": 14807311,
+ "units": [
+  {
+   "unit_uri": "https://lux.collections.yale.edu/data/group/d07b9b86-0a1e-4026-aa4c-8ecba8bbd9c9",
+   "label": "Yale University Library",
+   "display_name": "Yale University Library",
+   "slug": "yale_library",
+   "objects": 12007256,
+   "all_record_types": 17406134,
+   "departments": [
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/4b2b3586-7eaf-4b47-9af5-476e41a5f38c",
+     "label": "Offsite Storage, Yale University Library",
+     "objects": 3844428
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/d1b8a867-8be7-4325-ad78-1f3abda76056",
+     "label": "Sterling Memorial Library, Yale University Library",
+     "objects": 2548132
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/feb70d01-0cfc-4c01-a643-5eec58b311b6",
+     "label": "Beinecke Library, Yale University Library",
+     "objects": 1603878
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/f282d839-387f-44b6-b63a-d1170bf210ff",
+     "label": "Manuscripts and Archives, Yale University Library",
+     "objects": 1001072
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/17c68b0b-5865-4eaa-b558-e5c72b5eaf29",
+     "label": "Divinity Library, Yale University Library",
+     "objects": 613408
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/9a2014c8-6036-4b48-9133-565384112f62",
+     "label": "Law Library, Yale University Library",
+     "objects": 495069
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/68743654-fee9-47d2-bceb-94a8bbe3677c",
+     "label": "Haas Arts Library, Yale University Library",
+     "objects": 477963
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/812660f3-946a-4941-aa85-6ac4fffaa22a",
+     "label": "Music Library, Yale University Library",
+     "objects": 463779
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/a09304e9-0b15-46e8-a465-0d0d14047b20",
+     "label": "Marx Library, Yale University Library",
+     "objects": 432345
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/c2fd5776-5a04-4c73-95ad-ca40f10f005e",
+     "label": "Cushing/Whitney Medical Library, Yale University Library",
+     "objects": 310487
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/42a51f80-bb5d-446f-9cb9-bfa3a367012d",
+     "label": "Lewis Walpole Library, Yale University Library",
+     "objects": 69350
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/a50b5fc9-ff30-4b67-91be-d67c90391a1a",
+     "label": "Bass Library, Yale University Library",
+     "objects": 68585
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/9ccacfdc-9e8d-46d0-a8d8-fdaa09d6e4df",
+     "label": "Yale University Library",
+     "objects": 39858
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/9a200e93-b6a3-4587-a2a5-43433e51512b",
+     "label": "Classics Library, Yale University Library",
+     "objects": 20022
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/0bb74e43-4482-47de-ba72-9764ad976f91",
+     "label": "Film Archive, Yale University Library",
+     "objects": 18332
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/cdb33a7b-30aa-486c-b6d5-7035483715bc",
+     "label": "Oral History of American Music, Yale University Library",
+     "objects": 240
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/aa587858-ad6a-41da-a698-7fc6fbdfc7fd",
+     "label": "Yale New Haven Hospital Archives",
+     "objects": 226
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/6d9380fb-9991-4b70-be7c-1bb701e8351b",
+     "label": "Lillian Goldman Law Library",
+     "objects": 82
+    }
+   ]
+  },
+  {
+   "unit_uri": "https://lux.collections.yale.edu/data/group/0a5ed086-396b-4cc2-8120-fdc3f8953ce2",
+   "label": "Peabody Museum of Natural History",
+   "display_name": "Yale Peabody Museum",
+   "slug": "peabody",
+   "objects": 2311647,
+   "all_record_types": 2311647,
+   "departments": [
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/3eeb2ec0-cd90-4ccc-b7bf-2672bdfbc442",
+     "label": "Invertebrate Paleontology Collection, Yale Peabody Museum",
+     "objects": 571225
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/9b3042fc-dbcc-44ac-b0a9-88369803b0bb",
+     "label": "Entomology Collection, Yale Peabody Museum",
+     "objects": 451044
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/00db6d99-fc28-4e41-b5b1-aa619f75e59a",
+     "label": "Anthropology Collection, Yale Peabody Museum",
+     "objects": 304788
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/2f0972ac-59de-4e3e-a0a6-f679fdee097d",
+     "label": "Botany Collection, Yale Peabody Museum",
+     "objects": 215729
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/6b66437e-d5ad-40da-b70e-821edb47eb7b",
+     "label": "Vertebrate Zoology Collection (Ornithology), Yale Peabody Museum",
+     "objects": 164737
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/ef0600bb-ce93-4435-8fa4-d4ea6586a181",
+     "label": "Invertebrate Zoology Collection, Yale Peabody Museum",
+     "objects": 150641
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/6f0fd787-d46a-4058-9009-9f0e08092bbe",
+     "label": "Paleobotany Collection, Yale Peabody Museum",
+     "objects": 98722
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/1c73bc57-c1e1-4797-9e82-3ffadf51bdb0",
+     "label": "Vertebrate Paleontology Collection, Yale Peabody Museum",
+     "objects": 80116
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/af5f3b46-7e58-4df9-b3bf-f3a258c93b25",
+     "label": "Vertebrate Zoology Collection (Herpetology), Yale Peabody Museum",
+     "objects": 79990
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/a9ac59e7-178f-4f25-9bae-a0d27661f241",
+     "label": "Vertebrate Zoology Collection (Ichthyology), Yale Peabody Museum",
+     "objects": 78515
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/3e12ac07-30b7-44cd-8b09-c5d9e4ed1562",
+     "label": "Mineralogy & Meteoritics Collection, Yale Peabody Museum",
+     "objects": 40521
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/a996e468-616e-47b3-966a-ced654bc53a6",
+     "label": "Babylonian Collection, Yale Peabody Museum",
+     "objects": 40319
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/37ca7b12-c19b-48f1-b0fb-8e4dd2c46b7b",
+     "label": "Vertebrate Zoology Collection (Mammalogy), Yale Peabody Museum",
+     "objects": 18989
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/ba8b778a-193f-491d-bfbe-559b35c42ecf",
+     "label": "History of Science & Technology Collection, Yale Peabody Museum",
+     "objects": 8491
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/2a4df0b9-9eac-45ab-b67c-b0bc13a89df7",
+     "label": "Yale Peabody Museum",
+     "objects": 7820
+    }
+   ]
+  },
+  {
+   "unit_uri": "https://lux.collections.yale.edu/data/group/41310ca5-8137-45fe-ac2c-a6a04e2235f1",
+   "label": "Yale University Art Gallery",
+   "display_name": "Yale University Art Gallery",
+   "slug": "yuag",
+   "objects": 223609,
+   "all_record_types": 223609,
+   "departments": [
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/b5f07ff8-1274-4e75-a90c-e3fddd76b0b6",
+     "label": "Numismatics Collection, Yale University Art Gallery",
+     "objects": 95927
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/4b80230d-f931-4853-8241-d331955338f0",
+     "label": "Prints and Drawings Collection, Yale University Art Gallery",
+     "objects": 36418
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/b787282b-f687-4bff-8c58-22290ce489f2",
+     "label": "Dura-Europos Collection, Yale University",
+     "objects": 20901
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/de6f3f1a-6b88-4b17-9933-796cf745a30b",
+     "label": "Photography Collection, Yale University Art Gallery",
+     "objects": 20726
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/5e9b7f70-82d9-4f3e-8f72-ef5bf6b17d9e",
+     "label": "Ancient Art Collection, Yale University Art Gallery",
+     "objects": 16822
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/cb466280-c7f2-4edd-8ec2-bf84c64b9150",
+     "label": "American Decorative Arts Collection, Yale University Art Gallery",
+     "objects": 15562
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/5d41d8d9-3009-4e46-b8a5-6e376dd8537e",
+     "label": "Asian Art Collection, Yale University Art Gallery",
+     "objects": 8677
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/7a8ea77e-f2c9-43cf-9ca7-23c84d92d1fb",
+     "label": "Indo-Pacific Art Collection, Yale University Art Gallery",
+     "objects": 4302
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/cbad2d3e-1aa6-4a07-b005-86f3456e7a33",
+     "label": "Gerasa Collection, Yale University",
+     "objects": 3443
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/382a8630-df53-4b1b-90fb-81b6c81fbf77",
+     "label": "Yale University Art Gallery",
+     "objects": 3309
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/68a04911-0631-4924-94f2-4d32838d6d2a",
+     "label": "African Art Collection, Yale University Art Gallery",
+     "objects": 2992
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/f4ab70fc-0d86-4234-bd8f-f0c7c2e55423",
+     "label": "Modern and Contemporary Art Collection, Yale University Art Gallery",
+     "objects": 2622
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/4aadad7e-0bce-4b00-a057-757a027b1c20",
+     "label": "American Paintings and Sculpture Collection, Yale University Art Gallery",
+     "objects": 2500
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/77eeb665-b6c3-4462-8fd3-f2c26d6cf000",
+     "label": "Art of the Ancient Americas Collection, Yale University Art Gallery",
+     "objects": 2288
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/703438a0-4a84-4bc8-8c9c-28e8d3e944f8",
+     "label": "European Art Collection, Yale University Art Gallery",
+     "objects": 1717
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/1f8f20d5-a5e1-4422-8624-42debfe14eba",
+     "label": "Paintings and Sculpture Collection, Yale Center for British Art",
+     "objects": 1
+    }
+   ]
+  },
+  {
+   "unit_uri": "https://lux.collections.yale.edu/data/group/0e8bc04a-6538-4792-b82a-9e0751857e7d",
+   "label": "Yale Center for British Art",
+   "display_name": "Yale Center for British Art",
+   "slug": "ycba",
+   "objects": 134343,
+   "all_record_types": 135511,
+   "departments": [
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/56dc1a97-4dfa-4a30-b028-f816575da1ab",
+     "label": "Prints and Drawings Collection, Yale Center for British Art",
+     "objects": 57251
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/ca413fe8-95ac-4388-91f1-4b8ee09d6b7c",
+     "label": "Reference Library, Yale Center for British Art",
+     "objects": 39760
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/6d003cce-882b-45e2-896d-6462d7f0114c",
+     "label": "Rare Books and Manuscripts, Yale Center for British Art",
+     "objects": 24509
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/8213a9a7-cd80-47fc-9858-0cd019b360ff",
+     "label": "Institutional Archives, Yale Center for British Art",
+     "objects": 8573
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/1f8f20d5-a5e1-4422-8624-42debfe14eba",
+     "label": "Paintings and Sculpture Collection, Yale Center for British Art",
+     "objects": 2463
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/99a7eb27-1f6e-4f0a-a731-9ea1aa79fe53",
+     "label": "Frames Collection, Yale Center for British Art",
+     "objects": 1787
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/f4ab70fc-0d86-4234-bd8f-f0c7c2e55423",
+     "label": "Modern and Contemporary Art Collection, Yale University Art Gallery",
+     "objects": 1
+    }
+   ]
+  },
+  {
+   "unit_uri": "https://lux.collections.yale.edu/data/group/263b99d2-c169-4802-b72d-f59a96bf2aac",
+   "label": "Paul Mellon Centre for Studies in British Art (London)",
+   "display_name": "Paul Mellon Centre (UK)",
+   "slug": "paul_mellon_centre",
+   "objects": 58376,
+   "all_record_types": 58376,
+   "departments": [
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/55d8fe4d-31da-4b33-9f0a-1738b78aa24e",
+     "label": "Paul Mellon Centre for Studies in British Art Library",
+     "objects": 57057
+    },
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/ee7b948a-2921-434f-89f7-7a04874a6a5f",
+     "label": "Paul Mellon Centre for Studies in British Art Archive",
+     "objects": 1319
+    }
+   ]
+  },
+  {
+   "unit_uri": "https://lux.collections.yale.edu/data/group/6e15bc74-fc7c-425f-9ae0-0123c1adf405",
+   "label": "Lens Media Lab",
+   "display_name": "Lens Media Lab",
+   "slug": "lens_media_lab",
+   "objects": 7249,
+   "all_record_types": 7249,
+   "departments": [
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/44dab710-06f3-43ca-82da-7929d89c6d40",
+     "label": "Lens Media Lab Collection",
+     "objects": 7249
+    }
+   ]
+  },
+  {
+   "unit_uri": "https://lux.collections.yale.edu/data/group/b03fe2c1-df68-4216-9e2e-85baa1d8f766",
+   "label": "Yale University. Collection of Musical Instruments",
+   "display_name": "Yale Morris Steinert Collection of Musical Instruments",
+   "slug": "musical_instruments",
+   "objects": 979,
+   "all_record_types": 979,
+   "departments": [
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/be6dd5a8-86d5-4411-9720-10f18ad48b16",
+     "label": "Morris Steinert Collection of Musical Instruments",
+     "objects": 979
+    }
+   ]
+  },
+  {
+   "unit_uri": "https://lux.collections.yale.edu/data/group/13a31506-6070-4c15-99cd-fcb5ce75ea1b",
+   "label": "Elizabethan Club",
+   "display_name": "Elizabethan Club",
+   "slug": "elizabethan_club",
+   "objects": 452,
+   "all_record_types": 452,
+   "departments": [
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/92e30c6b-6b10-46f9-b460-9c2ec2914e16",
+     "label": "Elizabethan Club Collection",
+     "objects": 452
+    }
+   ]
+  },
+  {
+   "unit_uri": "https://lux.collections.yale.edu/data/group/df7794f9-0254-4c12-bd30-04ea9836ec88",
+   "label": "Yale Campus Art",
+   "display_name": "Yale Campus Art",
+   "slug": "campus_art",
+   "objects": 188,
+   "all_record_types": 188,
+   "departments": [
+    {
+     "set_uri": "https://lux.collections.yale.edu/data/set/a4d0c767-160d-4aef-8ae3-5abe0180eb82",
+     "label": "Campus Art Collection",
+     "objects": 188
+    }
+   ]
+  }
+ ],
+ "museums": [
+  {
+   "slug": "yale_library",
+   "kind": "unit",
+   "unit_uri": "https://lux.collections.yale.edu/data/group/d07b9b86-0a1e-4026-aa4c-8ecba8bbd9c9",
+   "unit_label": "Yale University Library",
+   "label": "Yale University Library",
+   "count_all": 12007256,
+   "count_images": 89196,
+   "count_on_view_estimate": 180
+  },
+  {
+   "slug": "peabody",
+   "kind": "unit",
+   "unit_uri": "https://lux.collections.yale.edu/data/group/0a5ed086-396b-4cc2-8120-fdc3f8953ce2",
+   "unit_label": "Yale Peabody Museum",
+   "label": "Yale Peabody Museum",
+   "count_all": 2311647,
+   "count_images": 742355,
+   "count_on_view_estimate": 2111
+  },
+  {
+   "slug": "yuag",
+   "kind": "unit",
+   "unit_uri": "https://lux.collections.yale.edu/data/group/41310ca5-8137-45fe-ac2c-a6a04e2235f1",
+   "unit_label": "Yale University Art Gallery",
+   "label": "Yale University Art Gallery",
+   "count_all": 223609,
+   "count_images": 195901,
+   "count_on_view_estimate": 4104
+  },
+  {
+   "slug": "ycba",
+   "kind": "unit",
+   "unit_uri": "https://lux.collections.yale.edu/data/group/0e8bc04a-6538-4792-b82a-9e0751857e7d",
+   "unit_label": "Yale Center for British Art",
+   "label": "Yale Center for British Art",
+   "count_all": 134343,
+   "count_images": 48775,
+   "count_on_view_estimate": 589
+  },
+  {
+   "slug": "paul_mellon_centre",
+   "kind": "unit",
+   "unit_uri": "https://lux.collections.yale.edu/data/group/263b99d2-c169-4802-b72d-f59a96bf2aac",
+   "unit_label": "Paul Mellon Centre (UK)",
+   "label": "Paul Mellon Centre (UK)",
+   "count_all": 58376,
+   "count_images": 0,
+   "count_on_view_estimate": 12
+  },
+  {
+   "slug": "lens_media_lab",
+   "kind": "unit",
+   "unit_uri": "https://lux.collections.yale.edu/data/group/6e15bc74-fc7c-425f-9ae0-0123c1adf405",
+   "unit_label": "Lens Media Lab",
+   "label": "Lens Media Lab",
+   "count_all": 7249,
+   "count_images": 7240,
+   "count_on_view_estimate": 0
+  },
+  {
+   "slug": "musical_instruments",
+   "kind": "unit",
+   "unit_uri": "https://lux.collections.yale.edu/data/group/b03fe2c1-df68-4216-9e2e-85baa1d8f766",
+   "unit_label": "Yale Morris Steinert Collection of Musical Instruments",
+   "label": "Yale Morris Steinert Collection of Musical Instruments",
+   "count_all": 979,
+   "count_images": 791,
+   "count_on_view_estimate": 0
+  },
+  {
+   "slug": "elizabethan_club",
+   "kind": "unit",
+   "unit_uri": "https://lux.collections.yale.edu/data/group/13a31506-6070-4c15-99cd-fcb5ce75ea1b",
+   "unit_label": "Elizabethan Club",
+   "label": "Elizabethan Club",
+   "count_all": 452,
+   "count_images": 75,
+   "count_on_view_estimate": 0
+  },
+  {
+   "slug": "campus_art",
+   "kind": "unit",
+   "unit_uri": "https://lux.collections.yale.edu/data/group/df7794f9-0254-4c12-bd30-04ea9836ec88",
+   "unit_label": "Yale Campus Art",
+   "label": "Yale Campus Art",
+   "count_all": 188,
+   "count_images": 187,
+   "count_on_view_estimate": 1
+  },
+  {
+   "slug": "babylonian_collection",
+   "kind": "sub_collection",
+   "set_uri": "https://lux.collections.yale.edu/data/set/a996e468-616e-47b3-966a-ced654bc53a6",
+   "unit_uri": "https://lux.collections.yale.edu/data/group/0a5ed086-396b-4cc2-8120-fdc3f8953ce2",
+   "unit_label": "Yale Peabody Museum",
+   "label": "Babylonian Collection, Yale Peabody Museum",
+   "count_all": 40319,
+   "count_images": 27353,
+   "count_on_view_estimate": 176
+  },
+  {
+   "slug": "lewis_walpole_library",
+   "kind": "sub_collection",
+   "set_uri": "https://lux.collections.yale.edu/data/set/42a51f80-bb5d-446f-9cb9-bfa3a367012d",
+   "unit_uri": "https://lux.collections.yale.edu/data/group/d07b9b86-0a1e-4026-aa4c-8ecba8bbd9c9",
+   "unit_label": "Yale University Library",
+   "label": "Lewis Walpole Library, Yale University Library",
+   "count_all": 69350,
+   "count_images": 22991,
+   "count_on_view_estimate": 51
+  }
+ ]
+}
