@@ -1,10 +1,10 @@
-# Yale Museum Keepsake (working title): Final Project
+# Yale Museum Keepsake: Final Project
 
 A website for people visiting Yale's museums. While you walk the galleries, you save the art, instruments, fossils and artifacts you like, by tapping ♡ or by **snapping a photo of the wall label**. An AI agent writes a short, true description of each piece using only the museum's own records. Then your favorites become a book you can print and take home.
 
 **Status:** The app runs on the test dataset of 160 objects from 6 museums (20 per museum, refreshed from LUX on October 26). Yale's [LUX](https://lux.collections.yale.edu) platform blocked our address from October 24 until October 26 at 1:24 PM. The approved full harvest (option A, about 8,200 objects) started then and takes about 10 hours at one request every 2 seconds, so it finishes after the deadline. To use it, set `KEEPSAKE_DATA=data/lux/full` (see "Test data vs. full data").
 
-**Report and slides:** open [`report.html`](report.html) (prints to 14 letter pages) and [`slides.html`](slides.html) (10 slides; arrow keys to move, F for full screen) straight from the folder. Every image is embedded, so each is a single file. To change them, edit `report/report_src.html` or `report/slides_src.html` and run `python3 build.py` in `report/`.
+**Report and slides:** open [`report.html`](report.html) (prints to 13 letter pages) and [`slides.html`](slides.html) (10 slides; arrow keys to move, F for full screen) straight from the folder. Every image is embedded, so each is a single file. To change them, edit `report/report_src.html` or `report/slides_src.html` and run `python3 build.py` in `report/`.
 
 ## What's in it
 
@@ -25,7 +25,7 @@ A website for people visiting Yale's museums. While you walk the galleries, you 
 ## Folder structure
 
 ```
-Final Project/
+yale-museum-keepsake/       (the Final Project folder)
 ├── AI_prompts.md              # every prompt, follow-ups and results
 ├── README.md
 ├── report.html                # final report (self-contained, images embedded)
@@ -72,7 +72,7 @@ Final Project/
 
 ## How to run the app
 
-You need Python 3.10+ and Node 20.19+. Run the commands from this `Final Project/` folder unless a step says otherwise.
+You need Python 3.10+ and Node 20.19+. Run the commands from the repo's top folder (the one with this README; `yale-museum-keepsake/` if you cloned it from GitHub) unless a step says otherwise.
 
 ### 1. Keys
 

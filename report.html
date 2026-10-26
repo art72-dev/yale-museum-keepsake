@@ -36,7 +36,6 @@
   figcaption b { color: var(--ink); }
   .callout { background: var(--wash); border-left: 4px solid var(--teal); padding: 10px 14px; border-radius: 6px; font-size: 13.5px; margin: 12px 0; break-inside: avoid; }
   .callout.rose { border-left-color: var(--rose); }
-  .fill { background: #fff3b0; border: 1px dashed #c9a400; padding: 1px 6px; border-radius: 4px; font-family: system-ui, sans-serif; font-size: 13px; }
   code { font-size: 12.5px; background: var(--wash); padding: 1px 5px; border-radius: 4px; }
   ol.trace { padding-left: 20px; } ol.trace li { margin: 6px 0; }
   .diagram { width: 100%; height: auto; display: block; margin: 8px 0 4px; }
@@ -251,17 +250,19 @@
   <div class="kpi"><b>$0.014</b><span>worst-case AI cost per visitor per month</span></div>
   <div class="kpi"><b>119 / 160</b><span>test objects with a printable picture; the rest can use the visitor's photo</span></div>
 </div>
-<p><b>Time.</b> Our measurement: from tapping Scan to a finished, saved page takes about 8 seconds of processing (7.7 s average over 17 real scans), and the printed book is laid out in the browser from saved pages. The alternative today is photographing the label, searching for it later, and copying the details into a document.</p>
-<h3>Real users</h3>
-<p><span class="fill">[FILL after tests: number of people, who they were, where they tested (e.g. 4 classmates with printed labels on Oct 26)]</span></p>
+<p><b>Time.</b> Our measurement: from tapping Scan to a finished, saved page takes about 8 seconds of processing (7.7 s average over 17 real scans), and the printed book is laid out in the browser from saved pages. The alternative today is photographing the label, searching for it later, and copying the details into a document. We have not timed real visitors doing either, so we claim no minutes saved per person (see below).</p>
+<h3>What we measured</h3>
+<p>Every number below comes from the app's own logs and tests in the repository, not from estimates.</p>
 <table>
-  <tr><th>Measure</th><th class="num">Today's way (photo + look up + copy)</th><th class="num">With Keepsake (scan + book)</th><th>Source</th></tr>
-  <tr><td>Time per object, median</td><td class="num"><span class="fill">[FILL]</span></td><td class="num"><span class="fill">[FILL]</span></td><td>Timed user test</td></tr>
-  <tr><td>Time for a 5-object keepsake</td><td class="num"><span class="fill">[FILL]</span></td><td class="num"><span class="fill">[FILL]</span></td><td>Timed user test</td></tr>
-  <tr><td>Objects correctly identified</td><td class="num">—</td><td class="num"><span class="fill">[FILL]</span></td><td>User test</td></tr>
-  <tr><td>Would use it on a visit (yes / total)</td><td class="num">—</td><td class="num"><span class="fill">[FILL]</span></td><td>User test</td></tr>
+  <tr><th>Measure</th><th class="num">Result</th><th>Source</th></tr>
+  <tr><td>Label photo → object found, page written, saved</td><td class="num">7.7 s average, 17 real scans</td><td><code>output/usage_log.jsonl</code></td></tr>
+  <tr><td>Right object added to the book</td><td class="num">6 of 6 adds; 0 wrong in 17 scans</td><td><code>output/scan_examples.json</code>, browser checks</td></tr>
+  <tr><td>Descriptions that passed the fact checker on the first try</td><td class="num">38 of 42 (the other 4 passed after one rewrite)</td><td>usage log</td></tr>
+  <tr><td>Descriptions shown with a name or number not in the record</td><td class="num">0 of 42</td><td>usage log warnings</td></tr>
+  <tr><td>Injection attempts that changed anything</td><td class="num">None (2 kinds tried: a photographed card, and text typed into the add form)</td><td>Section 6</td></tr>
+  <tr><td>Page views served from the cache, at no AI cost</td><td class="num">274, against 42 paid runs</td><td>usage log</td></tr>
 </table>
-<p><span class="fill">[FILL: one or two quotes from testers]</span></p>
+<p><b>Not yet measured: real visitors.</b> No visitor has used Keepsake yet, so this report has no time saved per person and no visitor quotes, and the evidence above is about the system, not about people. The test is designed and ready (section 8): 3 to 5 people, 5 printed wall labels each, timed the usual way (photograph, look up, copy into a document) and then with Scan and the book, and asked whether they would use it on a visit and what they would change.</p>
 <p><b>Reach and quality, beyond money.</b> The book puts Yale's scholarship in the hands of people who will never search LUX: children, school groups, older visitors who prefer paper. Every page is grounded in the museum's own record and fact-checked, so what they take home is accurate. Pictures are only reused where the museums allow it, which protects artists and the museums. And because the service costs well under a cent per visitor per month, a museum could offer it to every visitor for less than the price of one printed catalogue.</p>
 
 <!-- 8. LIMITS AND NEXT STEPS -->
@@ -269,7 +270,7 @@
 <p><b>What doesn't work yet.</b></p>
 <ul>
   <li><b>Data coverage.</b> The app currently uses a test set of 160 objects. The full harvest (everything on view, about 8,200 objects, about 10 hours at one request every 2 seconds) is built, tested and approved. LUX's servers blocked our address from October 24 (after about 1,000 requests) until October 26 at 1:24 PM; we did not try to evade the block. The full harvest started then and finishes after the deadline. Until the app switches to it, most real labels in a gallery would get "not in the collection yet".</li>
-  <li><b>Not yet tested in a real gallery</b> with real phone photos under gallery lighting; the scan tests used clean label images.</li>
+  <li><b>Not yet tested with real visitors.</b> Speed, accuracy and cost are measured on the system itself (section 7), but no visitor has used it, and the scan tests used clean label images rather than phone photos under gallery lighting.</li>
   <li><b>The fact checker is a heuristic.</b> It catches invented numbers and unfamiliar names, but not every unsupported claim (for example, an invented meaning).</li>
   <li><b>Objects visitors add can't be verified.</b> Their pages are only as accurate as what the visitor typed. They are labelled as such and private, so a mistake reaches no one else.</li>
   <li><b>41 of the 160 test objects</b> have no reusable image (mostly 20th-century works the museums have not cleared). Visitors can add their own photo, which lives only in that browser.</li>
@@ -277,7 +278,8 @@
 </ul>
 <p><b>With another month.</b></p>
 <ul>
-  <li>Work with Yale's LUX and museum teams for full, sanctioned data access (or a nightly export), then test in the galleries with real visitors.</li>
+  <li><b>First, a timed test with 3 to 5 real visitors</b> (the usual way vs. Scan and the book), then a test in the galleries with phone photos.</li>
+  <li>Work with Yale's LUX and museum teams for full, sanctioned data access, or a nightly export.</li>
   <li>A <b>class-trip mode</b>: a teacher shares a code, each student scans one object, and the class gets one book.</li>
   <li>A large-print and audio edition using the Art Gallery's alt-text descriptions, and books in other languages.</li>
   <li>Host it at a short URL printed on a card at each museum entrance, with a QR code on each printed page linking back to the object.</li>

@@ -332,3 +332,27 @@ For each problem, record the problem number and title, the prompt I gave, a foll
   - **Tests:** 8 new offline tests in `backend/tests/test_added.py`; **20 pass**. Checked in the browser: duplicate check, add, AI page, My book tag, print page, edit, delete (book back to 7), and another visitor getting 404. The report's safety section and `output/harness.md` were updated: visitors now do send text to the AI, through this form.
 - **Follow-up prompt 2:** "Yes, commit the add-an-object feature and push it to GitHub."
 - **Follow-up result 2:** commit `c0f05f5` ("Let visitors add objects that aren't in the app"), 29 files, pushed to https://github.com/art72-dev/yale-museum-keepsake. No key value was in any staged file.
+
+### Problem 14: Drop the user test from the report and slides
+
+- **Prompt:** "We might have to skip the user test part. let's redo the material without it"
+- **Follow-up prompt:** None needed.
+- **Result / evidence:**
+  - **Before this,** "except for the user test, does everthing else look good to go?" was checked against the course page:
+    - A fresh clone from GitHub, with `.env` one folder up, was running in 29 s and did a real violin scan with an add at 66 s. The clone and its key copy were deleted.
+    - No key value is in any of the 4 commits, and `.env` was never committed. The repo is public.
+    - The report has its sections in order and prints to 14 pages. The slides have 10 slides, the keys work, and the images are embedded.
+    - The README now names the clone's folder (`yale-museum-keepsake/`) instead of "Final Project/", and drops "(working title)".
+  - **No more placeholders:** all 8 yellow `[FILL]` boxes in the report and all 5 in the slides are gone, with nothing made up in their place.
+  - **Report, section 7 (Impact):** "Real users" became **"What we measured"**, a table of numbers from the app's own logs and tests:
+    - 7.7 s per scan (17 real scans)
+    - 6 of 6 adds right, 0 wrong
+    - 38 of 42 AI pages passed the fact checker on the first try; the other 4 passed after one rewrite
+    - 0 pages shown with a name or number not in the record
+    - no injection changed anything (2 kinds tried)
+    - 274 cached page views against 42 paid runs
+  - **Said plainly:** a "Not yet measured: real visitors" paragraph says no visitor has used it, so there is no time saved per person and no quotes, and it describes the ready test (3 to 5 people, 5 labels each, timed both ways).
+  - **Section 8 (Limits and next steps):** "Not yet tested with real visitors" is now a limit, and the timed visitor test is the first next step.
+  - **Slides:** slide 9 shows 38 / 42 (fact checker) and 0 / 2 (injection) instead of the user-test boxes, with the note "All measured from the app's logs and tests. Not yet tried by real visitors: that test is the first next step." Slide 10's first next step is the visitor test.
+  - **Checked:** the report prints to 13 pages with all 12 images, and the slides are 10 with all 7 images and nothing running off a slide.
+
