@@ -7,10 +7,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "773.06.00.51",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22821741210008651",
   "title": "[Human passions delineated]. 3 [graphic]",
-  "creators": "Thomas Sanders (printmaker, engraver) | Tim Bobbin (artist, 1708–1786)",
-  "creator_roles": "printmaker, engraver | artist",
-  "creator_uris": "",
+  "creators": "Thomas Sanders (engraver) | Tim Bobbin (artist, 1708–1786)",
+  "creator_names": "Thomas Sanders | Tim Bobbin",
+  "creator_roles": "engraver | artist",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/37f16197-d1ef-4484-a4eb-f5aabb582207 | https://lux.collections.yale.edu/data/person/f49ba8d3-8b48-48e7-955f-72188aa9e60e",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "publish'd as the act directs, June 1773.",
@@ -43,23 +46,50 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1773, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: none",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:01:35Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:40:51Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/37f16197-d1ef-4484-a4eb-f5aabb582207",
+    "label": "Sanders, Thomas (Engraver)",
+    "role": "printmaker"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/f49ba8d3-8b48-48e7-955f-72188aa9e60e",
+    "label": "Bobbin, Tim, 1708-1786",
+    "role": "artist"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1773, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: none",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: Attribution Statement": [
+    "J. Collier inv. del. ; T. Sanders sculpt."
+   ],
+   "Linked work: Note": [
+    "Title assigned by cataloger.",
+    "Tim Bobbin is John Collier's pseudonym.",
+    "Other prints in the series were designed and etched by either Tim Bobbin or Thomas Sanders.",
+    "Plate from: Human passions delineated. Manchester : Printed and published by John Heywood, 1773.",
+    "Not in the Catalogue of prints and drawings in the British Museum."
+   ],
+   "Linked work: Imprint Statement": [
+    "[Manchester, England] : [John Heywood], publish'd as the act directs, June 1773."
+   ],
+   "Linked work: Abstract": [
+    "\"Plate numbered 3 of Tim Bobbin [pseudonym of John Collier], \"Human Passions Delineated\", 1773, with a wife pulling her husband's hair as he attacks her with a ladle.\"--British Museum online catalogue."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/eaa0cbf2-0b0a-4283-8307-a05343a65708",
   "_manifest_notes": {
    "Abstract": "\"Plate numbered 3 of Tim Bobbin [pseudonym of John Collier], \"Human Passions Delineated\", 1773, with a wife pulling her husband's hair as he attacks her with a ladle.\"--British Museum online catalogue",
    "Description": "Title assigned by cataloger. Tim Bobbin is John Collier's pseudonym. Other prints in the series were designed and etched by either Tim Bobbin or Thomas Sanders. Plate from: Human passions delineated. Manchester : Printed and published by John Heywood, 1773. Not in the Catalogue of prints and drawings in the British Museum."
   },
-  "_creators_raw": "Sanders, Thomas (Engraver), printmaker | Bobbin, Tim, 1708-1786, artist.",
-  "_creator_roles_raw": "",
-  "creator_names": "Thomas Sanders | Tim Bobbin"
+  "_creators_raw": "Sanders, Thomas (Engraver) | Bobbin, Tim, 1708-1786",
+  "_creator_roles_raw": "printmaker | artist",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/27a91932-f06b-40e9-9b14-c8d17e1ee1d9",
@@ -69,10 +99,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "791.08.01.02",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22896603690008651",
   "title": "Jerry Sneak I.O.D. taking French leave of the Revolution Society [graphic]",
   "creators": "Samuel Collings (printmaker) | W. Locke (publisher, active 1791–1792)",
+  "creator_names": "Samuel Collings | W. Locke",
   "creator_roles": "printmaker | publisher",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/a5022a98-ae6a-4a59-a6bd-f9e6a67b885e | https://lux.collections.yale.edu/data/person/ea0a691f-d29f-4382-b95e-113e3fd7994d",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "Augt. 1, 1791.",
@@ -105,23 +138,51 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1791, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:01:37Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:41:02Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/a5022a98-ae6a-4a59-a6bd-f9e6a67b885e",
+    "label": "Collings, Samuel",
+    "role": "printmaker"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/ea0a691f-d29f-4382-b95e-113e3fd7994d",
+    "label": "Locke, W. active 1791-1792",
+    "role": "publisher"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1791, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: Attribution Statement": [
+    "Annabal Scratch fecit."
+   ],
+   "Linked work: Note": [
+    "Title etched below image.",
+    "Caricatures published under the pseudonym Annibal Scratch have been attributed to Samuel Collings.",
+    "Series title and number from British Museum catalogue.",
+    "Sheet trimmed within plate mark, resulting in loss of series title.",
+    "Plate from: Attic miscellany, v. ii, p. 395.",
+    "With a literaturea llusion to Samuel Foote's The Mayor of Garret and referencing the Revolution Society."
+   ],
+   "Linked work: Imprint Statement": [
+    "[London] : Published as the act directs, by W. Locke, Augt. 1, 1791."
+   ],
+   "Linked work: Abstract": [
+    "\"Lord Stanhope, stooping in profile to the left, hurries furtively from an open doorway into the street, his right hand raised, his left hand holding his hat behind his back. Rolled documents project from his pocket inscribed 'Toasts'.\"--British Museum online catalogue."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/76f286d1-f1d7-4f8f-88ad-c7fc805afc74",
   "_manifest_notes": {
    "Abstract": "\"Lord Stanhope, stooping in profile to the left, hurries furtively from an open doorway into the street, his right hand raised, his left hand holding his hat behind his back. Rolled documents project from his pocket inscribed 'Toasts'.\"--British Museum online catalogue",
    "Description": "Title etched below image. Caricatures published under the pseudonym Annibal Scratch have been attributed to Samuel Collings. Series title and number from British Museum catalogue. Sheet trimmed within plate mark, resulting in loss of series title. Plate from: Attic miscellany, v. ii, p. 395. With a literaturea llusion to Samuel Foote's The Mayor of Garret and referencing the Revolution Society."
   },
-  "_creators_raw": "Collings, Samuel, printmaker | Locke, W. active 1791-1792, publisher.",
-  "_creator_roles_raw": "",
-  "creator_names": "Samuel Collings | W. Locke"
+  "_creators_raw": "Collings, Samuel | Locke, W. active 1791-1792",
+  "_creator_roles_raw": "printmaker | publisher",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/dfb6ecfb-259f-4c48-94e1-9e001499d803",
@@ -131,10 +192,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "Quarto 66 726 T675",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22852059350008651",
   "title": "Thos. Nowell, coffin plate chaser, at the Angel, the Corner of Snow-hhill, without Newgate, London ... [graphic].",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "[approximately 1757]",
@@ -167,18 +231,28 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1757, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:01:39Z",
+  "harvested_at": "2026-10-26T17:41:07Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1757, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
+  "_statements": {
+   "Linked work: Note": [
+    "Title from item.",
+    "Title continues: Makes & sells all sorts of ornaments for coffins, in copper, brass, pewter, lead or tinn, chased or engraved, after the best & newest fashion, at the lowest prices. N.B. Coffin furniture for exportation.",
+    "Sheet trimmed within plate mark."
+   ],
+   "Linked work: Imprint Statement": [
+    "[London] : [Thos. Nowell], [approximately 1757]"
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/b59f7171-1326-4758-844d-4285396fa7a7",
   "_manifest_notes": {
    "Description": "Title from item. Title continues: Makes & sells all sorts of ornaments for coffins, in copper, brass, pewter, lead or tinn, chased or engraved, after the best & newest fashion, at the lowest prices. N.B. Coffin furniture for exportation. Sheet trimmed within plate mark."
-  }
+  },
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/30c69bd9-e46f-44d1-9d8f-0d4b1d11569d",
@@ -188,10 +262,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "780.08.01.04",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22929131610008651",
   "title": "The mob destroying & setting fire to the Kings Bench Prison & House of Correction in St. Georges Fields [graphic].",
   "creators": "Fielding and Walker (publisher)",
+  "creator_names": "Fielding and Walker",
   "creator_roles": "publisher",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/group/86150fb1-8e4b-4445-8e76-35ee9715b295",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "[1 August 1780]",
@@ -224,25 +301,46 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1780, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:01:42Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:41:16Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/group/86150fb1-8e4b-4445-8e76-35ee9715b295",
+    "label": "Fielding and Walker",
+    "role": "publisher"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "mob destroying & setting fire to the Kings Bench Prison & House of Correction in St. Georges Fields [graphic]."
   ],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1780, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: provenance description": [
+    "Comerford, James Ownership."
+   ],
+   "Linked work: Citation": [
+    "Crace, J. Catalogue of maps, plans and views of London, Westminster and Southwark, no. 40, page 626"
+   ],
+   "Linked work: Note": [
+    "Title etched below image."
+   ],
+   "Linked work: Imprint Statement": [
+    "[London] : Publish'd the 1st of Augst. 1780, by Fielding & Walker, Pater Noster Row, [1 August 1780]"
+   ],
+   "Linked work: Abstract": [
+    "\"The mob active in the foreground throwing stones, beating sticks and setting fire to the surrounding buildings of the prison; men run to the left holding a flag with \"No Popery\"; a woman in ragged clothes in central foreground holding up large rocks, a child at her side.\"--British Museum online catalogue."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/ef5aeb9c-7a69-43c5-bab2-275d8af5e1f0",
   "_manifest_notes": {
    "Abstract": "\"The mob active in the foreground throwing stones, beating sticks and setting fire to the surrounding buildings of the prison; men run to the left holding a flag with \"No Popery\"; a woman in ragged clothes in central foreground holding up large rocks, a child at her side.\"--British Museum online catalogue",
    "Description": "Title etched below image."
   },
-  "_creators_raw": "Fielding and Walker, publisher.",
-  "_creator_roles_raw": "",
-  "creator_names": "Fielding and Walker"
+  "_creators_raw": "Fielding and Walker",
+  "_creator_roles_raw": "publisher",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/a207c465-f076-46b3-98e7-407693f5374c",
@@ -252,10 +350,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "Folio 724 835G v.1 (Oversize)",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22614046770008651",
   "title": "The unexpected visit, or, More free than welcome [graphic].",
-  "creators": "William Heath (printmaker, 1795–1840) | S. W. Fores (publisher)",
+  "creators": "William Heath (printmaker, 1795–1840) | S. W Fores (publisher)",
+  "creator_names": "William Heath | S. W Fores",
   "creator_roles": "printmaker | publisher",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/e5316b64-560e-4b2e-9649-471415ae4881 | https://lux.collections.yale.edu/data/person/714f446c-aa10-4d50-8228-4b30c49e6017",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "[17 June 1820]",
@@ -288,25 +389,52 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1820, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: none",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:01:45Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:41:24Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/e5316b64-560e-4b2e-9649-471415ae4881",
+    "label": "Heath, William, 1795-1840",
+    "role": "printmaker"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/714f446c-aa10-4d50-8228-4b30c49e6017",
+    "label": "Fores, S. W.",
+    "role": "publisher"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "unexpected visit, or, More free than welcome [graphic]."
   ],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1820, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: none",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: provenance description": [
+    "Gee, Ernest R., 1878-1956 Ownership.",
+    "Gladstone, W. E. (William Ewart), 1809-1898 Ms. notes.",
+    "Gladstone, Robertson, 1805-1875 Ownership.",
+    "Humphrey, G. (George), 1773-1831? Ownership."
+   ],
+   "Linked work: Note": [
+    "Title etched below image.",
+    "Printmaker from the British Museum catalogue."
+   ],
+   "Linked work: Imprint Statement": [
+    "[London] : Pub. June 17th, 1820, by S.W. Fores, 50 Picadilli [sic], [17 June 1820]"
+   ],
+   "Linked work: Abstract": [
+    "\"The King, in Chinese costume and seated on a cushion, among the chinoiseries of the Pavilion (cf. British Museum Satires No. 12749), throws up his arms in terror at the entry (right) of the Queen, closely followed by Alderman Wood. Her demure dress contrasts with that of a woman, who, much alarmed, runs off to the left from beside the King. Sidmouth (left) and Castlereagh (right), both in Chinese dress, are equally terrified, and Lord Eldon peeps anxiously from behind a little pagoda. Both visitors extend an arm towards the King in an authoritative gesture. Words float from them towards the King: 'Nothing extenuate nor set down aught in Malice [Othello, v. ii] men sleeping with her at Black Heath 1808 v. call Hoods [sic].'\"--British Museum online catalogue."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/f2067ce7-f7cb-48e0-90cc-e982fa506c65",
   "_manifest_notes": {
    "Abstract": "\"The King, in Chinese costume and seated on a cushion, among the chinoiseries of the Pavilion (cf. British Museum Satires No. 12749), throws up his arms in terror at the entry (right) of the Queen, closely followed by Alderman Wood. Her demure dress contrasts with that of a woman, who, much alarmed, runs off to the left from beside the King. Sidmouth (left) and Castlereagh (right), both in Chinese dress, are equally terrified, and Lord Eldon peeps anxiously from behind a little pagoda. Both visitors extend an arm towards the King in an authoritative gesture. Words float from them towards the King: 'Nothing extenuate nor set down aught in Malice [Othello, v. ii] men sleeping with her at Black Heath 1808 v. call Hoods [sic].'\"--British Museum online catalogue",
    "Description": "Title etched below image. Printmaker from the British Museum catalogue."
   },
-  "_creators_raw": "Heath, William, 1795-1840, printmaker | Fores, S. W., publisher.",
-  "_creator_roles_raw": "",
-  "creator_names": "William Heath | S. W. Fores"
+  "_creators_raw": "Heath, William, 1795-1840 | Fores, S. W.",
+  "_creator_roles_raw": "printmaker | publisher",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/76774ba0-aa23-4c23-b003-29ff21dc3492",
@@ -316,10 +444,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "Folio 75 G750 833 Copy 1",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22916617360008651",
   "title": "Twelfth night characters [graphic].",
   "creators": "Charles Jameson Grant (printmaker, active 1830–1852) | G. Drake (publisher, active 1832–1836)",
+  "creator_names": "Charles Jameson Grant | G. Drake",
   "creator_roles": "printmaker | publisher",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/8b2801d7-6dc2-4dfe-a353-0358120354e4 | https://lux.collections.yale.edu/data/person/fc1fa1d7-3bc5-4304-83a8-8cbdc89cbda4",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "[approximately 1833]",
@@ -352,23 +483,47 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1833, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:01:47Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:41:34Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/8b2801d7-6dc2-4dfe-a353-0358120354e4",
+    "label": "Grant, C. J. (Charles Jameson), active 1830-1852",
+    "role": "printmaker"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/fc1fa1d7-3bc5-4304-83a8-8cbdc89cbda4",
+    "label": "Drake, G., active 1832-1836",
+    "role": "publisher"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1833, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: Note": [
+    "Title from item.",
+    "Attributed to Charles Jameson Grant in the British Museum online catalogue.",
+    "Date of publication from British Museum online catalogue.",
+    "Wood engraving with letterpress text.",
+    "Imperfect; trimmed with loss of series title and numbering from top edge. Series statement supplied from impression in the British Museum."
+   ],
+   "Linked work: Imprint Statement": [
+    "[London] : Printed and published by G. Drake, 12, Houghton-Street, Clare-Market, [approximately 1833]"
+   ],
+   "Linked work: Abstract": [
+    "Twelve caricatures of politicians dressed as characters in a pantomime."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/2e7193eb-eba2-4194-b5ef-538ed43526e0",
   "_manifest_notes": {
    "Abstract": "Twelve caricatures of politicians dressed as characters in a pantomime",
    "Description": "Title from item. Attributed to Charles Jameson Grant in the British Museum online catalogue. Date of publication from British Museum online catalogue. Wood engraving with letterpress text. Imperfect; trimmed with loss of series title and numbering from top edge. Series statement supplied from impression in the British Museum."
   },
-  "_creators_raw": "Grant, C. J. (Charles Jameson), active 1830-1852, printmaker | Drake, G., active 1832-1836, publisher.",
-  "_creator_roles_raw": "",
-  "creator_names": "Charles Jameson Grant | G. Drake"
+  "_creators_raw": "Grant, C. J. (Charles Jameson), active 1830-1852 | Drake, G., active 1832-1836",
+  "_creator_roles_raw": "printmaker | publisher",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/60914977-652d-4f32-8aec-7b1ef79b7e00",
@@ -378,10 +533,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "Folio 75 H67 800 v.1 (Oversize)",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22831858570008651",
   "title": "[A native dance] [graphic]",
   "creators": "William Hogarth (printmaker, artist, 1697–1764)",
+  "creator_names": "William Hogarth",
   "creator_roles": "printmaker, artist",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/2c4f7220-ac16-4017-be21-c8aac0478f9a | https://lux.collections.yale.edu/data/person/2c4f7220-ac16-4017-be21-c8aac0478f9a",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "[1727]",
@@ -414,25 +572,59 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1727, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:01:50Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:41:42Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/2c4f7220-ac16-4017-be21-c8aac0478f9a",
+    "label": "Hogarth, William, 1697-1764",
+    "role": "printmaker"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/2c4f7220-ac16-4017-be21-c8aac0478f9a",
+    "label": "Hogarth, William, 1697-1764",
+    "role": "artist"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "native dance] [graphic]"
   ],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1727, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: provenance description": [
+    "Steevens, George, 1736-1800 Ownership.",
+    "Perrins, Charles William Dyson, 1864-1958 Ownership."
+   ],
+   "Linked work: Attribution Statement": [
+    "Wm. Hogarth sculp."
+   ],
+   "Linked work: Edition Statement": [
+    "[State 1]."
+   ],
+   "Linked work: Note": [
+    "Title, publisher, state, and date from Paulson.",
+    "One of fifteen plates engraved for: A. de La Motraye's travels through travels through Europe, Asia, and into part of Africa.",
+    "\"T. 1.\"--Upper left corner.",
+    "\"XI.\"--Upper right corner.",
+    "Sheet trimmed within plate mark."
+   ],
+   "Linked work: Imprint Statement": [
+    "[London] : [A. de La Mottraye], [1727]"
+   ],
+   "Linked work: Abstract": [
+    "In Smyrna with a city in the distance, a group of women and girls perform a folk dance in a wooded landscape. The figure labelled '1' is identified in the text as 'one of the Chief Woman in Smyrna'' and '7' is her daughter; both wear Turkish headdresses. The country girl (3) wears the costume of Scio, and the woman (4) wears a typical dress from Constantinople. See v. 1, p. 159-60."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/e27953ff-3af7-43d1-a435-6425f4db53f9",
   "_manifest_notes": {
    "Abstract": "In Smyrna with a city in the distance, a group of women and girls perform a folk dance in a wooded landscape. The figure labelled '1' is identified in the text as 'one of the Chief Woman in Smyrna'' and '7' is her daughter; both wear Turkish headdresses. The country girl (3) wears the costume of Scio, and the woman (4) wears a typical dress from Constantinople. See v. 1, p. 159-60.",
    "Description": "Title, publisher, state, and date from Paulson. One of fifteen plates engraved for: A. de La Motraye's travels through travels through Europe, Asia, and into part of Africa. \"T. 1.\"--Upper left corner. \"XI.\"--Upper right corner. Sheet trimmed within plate mark."
   },
-  "_creators_raw": "Hogarth, William, 1697-1764, printmaker | Hogarth, William, 1697-1764, artist.",
-  "_creator_roles_raw": "",
-  "creator_names": "William Hogarth"
+  "_creators_raw": "Hogarth, William, 1697-1764 | Hogarth, William, 1697-1764",
+  "_creator_roles_raw": "printmaker | artist",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/eb973798-5293-485a-a602-4beebfe406ea",
@@ -442,10 +634,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "812.07.15.02+",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22729416030008651",
   "title": "The secret history of crim con. Fig. 2 [graphic]",
-  "creators": "Thomas Rowlandson (printmaker, 1756–1827) | G. M. Woodward (artist, approximately 1760–1809) | Thomas Tegg (publisher, 1776–1846)",
+  "creators": "Thomas Rowlandson (printmaker, 1756–1827) | George Moutard Woodward (artist, approximately 1760–1809) | Thomas Tegg (publisher, 1776–1846)",
+  "creator_names": "Thomas Rowlandson | George Moutard Woodward | Thomas Tegg",
   "creator_roles": "printmaker | artist | publisher",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/57a22495-3474-41b7-b37f-571945b0cb91 | https://lux.collections.yale.edu/data/person/c5dcb186-f104-4ef1-8d7a-218241804e56 | https://lux.collections.yale.edu/data/person/7a373c5e-cc9d-4e55-8dda-00d6e7f3586c",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "[15 July 1812]",
@@ -478,25 +673,65 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1812, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:01:52Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:41:47Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/57a22495-3474-41b7-b37f-571945b0cb91",
+    "label": "Rowlandson, Thomas, 1756-1827",
+    "role": "printmaker"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/c5dcb186-f104-4ef1-8d7a-218241804e56",
+    "label": "Woodward, G. M. (George Moutard), approximately 1760-1809",
+    "role": "artist"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/7a373c5e-cc9d-4e55-8dda-00d6e7f3586c",
+    "label": "Tegg, Thomas, 1776-1846",
+    "role": "publisher"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "secret history of crim con. Fig. 2 [graphic]"
   ],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1812, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: provenance description": [
+    "Riviere & Son Binding.",
+    "Auchincloss, Hugh Dudley Ownership.",
+    "Harvey, Francis Ownership.",
+    "Johnstone, Henry Arthur Ownership."
+   ],
+   "Linked work: Attribution Statement": [
+    "Woodward del. ; Rowlandson sc."
+   ],
+   "Linked work: Note": [
+    "Title etched below image.",
+    "Probably a reissue; beginning of imprint statement has been burnished from plate.",
+    "Date of publication from Grego.",
+    "Companion print to: The secret history of crim con. Figr. 1.",
+    "Plate numbered \"162\" in upper right corner.",
+    "Plate from: Woodward, G.M. Caricature magazine, or Hudibrastic mirror. London : Thomas Tegg, [1808?], v. 3.",
+    "Also issued separately."
+   ],
+   "Linked work: Imprint Statement": [
+    "[London] : By Thomas Tegg, No. 111 Cheapside, [15 July 1812]"
+   ],
+   "Linked work: Abstract": [
+    "\"Six scenes arranged in two rows, divided by lines, each with a caption, and inscriptions above the design. The figures have large heads, broadly caricatured, in the manner of Woodward's Lilliputian designs, cf. British Museum Satires No. 9635, &c. [1] 'Conscience'. A fat florid woman gesticulates wildly, watched by a sour-looking man. They say: \"Oh Im Undone! Im Undone!\" and \"Then I wish you would undo me--for they have fined me five Shillings for my bit of fun.\" [2] 'An Airing'. A fashionably dressed and grotesque couple walk arm-in-arm, registering anger. She says: \"Now let us pretend to walk out as if nothing was the matter.\" He says, registering anguish, \"Oh what a prize in the Lottery.\" [3] 'Alarm'. A woman holds a man on her knee. He says, registering dismay, \"But if Mr Spriggins should come home what should we do then.\" She answers, calculatingly amorous: \"Be not alarmed sweet Lily of the Valley.\" [4] 'A Walk to the Shubbery' [sic]. A not uncomely woman, holding up a fan, leads a hideous man towards a shrubbery. He says: \"Let me lead you lovely fair one--Nothing loath.\" She answers: \"Oh spare my Blushes.\" [5] 'A scene in a Stone Coffin'. A couple embrace in a stone coffin beside which lie a skull and bones. She says: \"O Dear o dear if the Gostesses should come.\" He answers: D--n the Gostesses.\" (An Irish scandal of 1784, see British Museum Satires No. 6699, &c.) [6] 'Observation'. An old man wearing a night-cap and huge spectacles stands with bent knees gazing through a doorway. He says: \"Mercy on me, what do I see--well a pair of spectacles is tantamount to two Witnesses\".\"--British Museum online catalogue."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/f0d28a80-923d-47bd-a122-64e98d7ebea7",
   "_manifest_notes": {
    "Abstract": "\"Six scenes arranged in two rows, divided by lines, each with a caption, and inscriptions above the design. The figures have large heads, broadly caricatured, in the manner of Woodward's Lilliputian designs, cf. British Museum Satires No. 9635, &c. [1] 'Conscience'. A fat florid woman gesticulates wildly, watched by a sour-looking man. They say: \"Oh Im Undone! Im Undone!\" and \"Then I wish you would undo me--for they have fined me five Shillings for my bit of fun.\" [2] 'An Airing'. A fashionably dressed and grotesque couple walk arm-in-arm, registering anger. She says: \"Now let us pretend to walk out as if nothing was the matter.\" He says, registering anguish, \"Oh what a prize in the Lottery.\" [3] 'Alarm'. A woman holds a man on her knee. He says, registering dismay, \"But if Mr Spriggins should come home what should we do then.\" She answers, calculatingly amorous: \"Be not alarmed sweet Lily of the Valley.\" [4] 'A Walk to the Shubbery' [sic]. A not uncomely woman, holding up a fan, leads a hideous man towards a shrubbery. He says: \"Let me lead you lovely fair one--Nothing loath.\" She answers: \"Oh spare my Blushes.\" [5] 'A scene in a Stone Coffin'. A couple embrace in a stone coffin beside which lie a skull and bones. She says: \"O Dear o dear if the Gostesses should come.\" He answers: D--n the Gostesses.\" (An Irish scandal of 1784, see British Museum Satires No. 6699, &c.) [6] 'Observation'. An old man wearing a night-cap and huge spectacles stands with bent knees gazing through a doorway. He says: \"Mercy on me, what do I see--well a pair of spectacles is tantamount to two Witnesses\".\"--British Museum online catalogue",
    "Description": "Title etched below image. Probably a reissue; beginning of imprint statement has been burnished from plate. Date of publication from Grego. Companion print to: The secret history of crim con. Figr. 1. Plate numbered \"162\" in upper right corner. Plate from: Woodward, G.M. Caricature magazine, or Hudibrastic mirror. London : Thomas Tegg, [1808?], v. 3. Also issued separately."
   },
-  "_creators_raw": "Rowlandson, Thomas, 1756-1827, printmaker | Woodward, G. M. approximately 1760-1809, artist. | Tegg, Thomas, 1776-1846, publisher.",
-  "_creator_roles_raw": "",
-  "creator_names": "Thomas Rowlandson | G. M. Woodward | Thomas Tegg"
+  "_creators_raw": "Rowlandson, Thomas, 1756-1827 | Woodward, G. M. (George Moutard), approximately 1760-1809 | Tegg, Thomas, 1776-1846",
+  "_creator_roles_raw": "printmaker | artist | publisher",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/e998ba68-0f3f-4fc3-9b81-8ca4bd1b24cf",
@@ -506,10 +741,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "Folio 724 776D",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22618795810008651",
   "title": "The city rout [graphic].",
-  "creators": "M. Darly (publisher)",
+  "creators": "Mary Darly (publisher)",
+  "creator_names": "Mary Darly",
   "creator_roles": "publisher",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/3eaa0222-cbdd-4614-93aa-62d9e0a283bd",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "May 20, 1776.",
@@ -542,25 +780,43 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1776, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:01:55Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:41:56Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/3eaa0222-cbdd-4614-93aa-62d9e0a283bd",
+    "label": "Darly, M. (Mary)",
+    "role": "publisher"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "city rout [graphic]."
   ],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1776, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: Note": [
+    "Temporary local subject terms: Macaronies -- Aldermen: Part of livery gown -- Pictures amplifying subject -- Lions devouring working man -- 'Senatus populusque Londoniensis' see S.P.Q.L. -- City rout -- Food: Jelly-glasses served on triple stand -- Dessert -- Footmen in livery -- Cards -- Beverages: Beer -- Tankards -- Tray: Dessert tray -- Glasses: Jelly glasses -- Headdresses.",
+    "Title etched below image.",
+    "State without plate number. Cf. No. 5372 in the Catalogue of prints and drawings in the British Museum. Division I, political and personal satires, v. 5.",
+    "Initial letters of publisher's name in imprint form a monogram."
+   ],
+   "Linked work: Imprint Statement": [
+    "[London] : Pubd. accog. to act by MDarly, 39 Strand, May 20, 1776."
+   ],
+   "Linked work: Abstract": [
+    "\"Persons standing in conversation at a party. The principal figures are two elaborately dressed ladies of plebeian, elderly, and unattractive appearance who face each other; one holds a card, the other a fan. Their hair is awkwardly dressed in the enormous mounds then fashionable, see British Museum Satires No. 5370, &c. On the left a short, fat, and awkward footman brings in a tray on which is a triple stand of jelly-glasses, a foaming tankard of beer, &c. The other guests are men; one wears a furred alderman's gown. In the centre of the back wall is a picture of a man with a distraught expression dressed as a seaman or working man, who is being devoured by two lions, one on each side. Above his head are the letters 'S.P.Q.L.' On the back of the print a note in a contemporary hand explains this as \"Senatus populusque Londoniensis the Aldermen and Commoners of London\". On the right wall is visible the lower part of a whole length portrait of a man in a furred livery gown.\"--British Museum online catalogue, description of a variant state."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/64e82dae-0b52-464f-b704-ecbe536bcab7",
   "_manifest_notes": {
    "Abstract": "\"Persons standing in conversation at a party. The principal figures are two elaborately dressed ladies of plebeian, elderly, and unattractive appearance who face each other; one holds a card, the other a fan. Their hair is awkwardly dressed in the enormous mounds then fashionable, see British Museum Satires No. 5370, &c. On the left a short, fat, and awkward footman brings in a tray on which is a triple stand of jelly-glasses, a foaming tankard of beer, &c. The other guests are men; one wears a furred alderman's gown. In the centre of the back wall is a picture of a man with a distraught expression dressed as a seaman or working man, who is being devoured by two lions, one on each side. Above his head are the letters 'S.P.Q.L.' On the back of the print a note in a contemporary hand explains this as \"Senatus populusque Londoniensis the Aldermen and Commoners of London\". On the right wall is visible the lower part of a whole length portrait of a man in a furred livery gown.\"--British Museum online catalogue, description of a variant state",
    "Description": "Title etched below image. State without plate number. Cf. No. 5372 in the Catalogue of prints and drawings in the British Museum. Division I, political and personal satires, v. 5. Initial letters of publisher's name in imprint form a monogram. Temporary local subject terms: Macaronies -- Aldermen: Part of livery gown -- Pictures amplifying subject -- Lions devouring working man -- 'Senatus populusque Londoniensis' see S.P.Q.L. -- City rout -- Food: Jelly-glasses served on triple stand -- Dessert -- Footmen in livery -- Cards -- Beverages: Beer -- Tankards -- Tray: Dessert tray -- Glasses: Jelly glasses -- Headdresses."
   },
-  "_creators_raw": "Darly, M. publisher.",
-  "_creator_roles_raw": "",
-  "creator_names": "M. Darly"
+  "_creators_raw": "Darly, M. (Mary)",
+  "_creator_roles_raw": "publisher",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/3ff457bb-9601-4c92-9f51-ce24f9d59069",
@@ -570,10 +826,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "800.00.00.95+",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22857964630008651",
   "title": "The raw meat system, or, Gentlemen in training for pedestrian exercise [graphic]",
   "creators": "Piercy Roberts (printmaker, publisher, active 1791–1805)",
+  "creator_names": "Piercy Roberts",
   "creator_roles": "printmaker, publisher",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/2b32db01-8649-455c-a179-782a798794b7 | https://lux.collections.yale.edu/data/person/2b32db01-8649-455c-a179-782a798794b7",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "[1800]",
@@ -606,24 +865,47 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1800, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:01:59Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:42:04Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/2b32db01-8649-455c-a179-782a798794b7",
+    "label": "Roberts, Piercy, active 1791-1805",
+    "role": "printmaker"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/2b32db01-8649-455c-a179-782a798794b7",
+    "label": "Roberts, Piercy, active 1791-1805",
+    "role": "publisher"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "raw meat system, or, Gentlemen in training for pedestrian exercise [graphic]"
   ],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1800, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: Note": [
+    "Temporary local subject terms: Countrymen -- Food: meat -- Male dress: smock.",
+    "Title from item.",
+    "Sheet trimmed within plate mark.",
+    "Not in the Catalogue of prints and drawings in the British Museum. Division I, political and personal satires."
+   ],
+   "Linked work: Attribution Statement": [
+    "Woodward delin. ; etch'd by Roberts."
+   ],
+   "Linked work: Imprint Statement": [
+    "London : Pubd. by P. Roberts, 28 Middle Row, Holborn, [1800]"
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/807a5b90-f0b6-4b33-bded-437310ae18b0",
   "_manifest_notes": {
    "Description": "Title from item. Sheet trimmed within plate mark. Not in the Catalogue of prints and drawings in the British Museum. Division I, political and personal satires. Temporary local subject terms: Countrymen -- Food: meat -- Male dress: smock."
   },
-  "_creators_raw": "Roberts, Piercy, active 1791-1805, printmaker | Roberts, Piercy, active 1791-1805, publisher.",
-  "_creator_roles_raw": "",
-  "creator_names": "Piercy Roberts"
+  "_creators_raw": "Roberts, Piercy, active 1791-1805 | Roberts, Piercy, active 1791-1805",
+  "_creator_roles_raw": "printmaker | publisher",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/af376c82-1a79-4686-9b4a-7355acbf1e4b",
@@ -633,10 +915,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "764.00.00.16",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22792856150008651",
   "title": "Domestick employment, playing on the guitar [graphic].",
   "creators": "Robert Sayer (publisher, 1725–1794)",
+  "creator_names": "Robert Sayer",
   "creator_roles": "publisher",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/14c53b40-7eec-40d2-8144-b82f151e2a6d",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "[between 1760 and 1777?]",
@@ -669,23 +954,39 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1777, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:02:05Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:42:12Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/14c53b40-7eec-40d2-8144-b82f151e2a6d",
+    "label": "Sayer, Robert, 1725-1794",
+    "role": "publisher"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1777, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: Note": [
+    "Title engraved below image.",
+    "The series Domestick employment are listed in Sayer & Bennett's sale catalogue for 1775. Date based on Robert Sayer's address and trading name."
+   ],
+   "Linked work: Imprint Statement": [
+    "London : Printed for Robt. Sayer at No. 53 Fleet Street, [between 1760 and 1777?]"
+   ],
+   "Linked work: Abstract": [
+    "A young woman shown three-quarters length seated to left, looking away to right, wearing a gown with a ribbon bow at the breast, ruffles at the elbows, and a ribbon and pearls in her hair, plays a guitar."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/50533624-e8be-4abc-8e6c-2dff7fb191b8",
   "_manifest_notes": {
    "Abstract": "A young woman shown three-quarters length seated to left, looking away to right, wearing a gown with a ribbon bow at the breast, ruffles at the elbows, and a ribbon and pearls in her hair, plays a guitar",
    "Description": "Title engraved below image. The series Domestick employment are listed in Sayer & Bennett's sale catalogue for 1775. Date based on Robert Sayer's address and trading name."
   },
-  "_creators_raw": "Sayer, Robert, 1725-1794, publisher.",
-  "_creator_roles_raw": "",
-  "creator_names": "Robert Sayer"
+  "_creators_raw": "Sayer, Robert, 1725-1794",
+  "_creator_roles_raw": "publisher",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/f5bdc71a-481c-439e-ab2b-ceeb37a4caf7",
@@ -695,10 +996,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "Folio 75 Sa85 810",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22750734130008651",
   "title": "Werter [graphic] : a tragedy for masters & misses",
   "creators": "James Sayers (printmaker, 1748–1823) | Thos. Cornell (publisher, active 1780–1792)",
+  "creator_names": "James Sayers | Thos. Cornell",
   "creator_roles": "printmaker | publisher",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/10cb9f14-5f0f-487f-b011-69c6ccb6a654 | https://lux.collections.yale.edu/data/person/fd55b425-72f9-431d-9b93-d6a52a77a856",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "[27 March 1786]",
@@ -731,23 +1035,53 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1786, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:02:09Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:42:22Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/10cb9f14-5f0f-487f-b011-69c6ccb6a654",
+    "label": "Sayers, James, 1748-1823",
+    "role": "printmaker"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/fd55b425-72f9-431d-9b93-d6a52a77a856",
+    "label": "Cornell, Thos., active 1780-1792",
+    "role": "publisher"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1786, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: provenance description": [
+    "Eldon, John Scott, Earl of, 1751-1838 Ownership.",
+    "Sayers, James, 1748-1823 Ownership."
+   ],
+   "Linked work: Attribution Statement": [
+    "JS [monogram] f."
+   ],
+   "Linked work: Note": [
+    "Title etched below image.",
+    "Signed with the monogram of James Sayers.",
+    "Five lines of text below title: Explanation, A. Werter making a very improper request to Charlotte -- B. Charlotte resenting it very properly -- C. Albert her husband very civilly taking himself off ..."
+   ],
+   "Linked work: Imprint Statement": [
+    "[London] : Publd. 27th March 1786 by T. Cornell, [27 March 1786]"
+   ],
+   "Linked work: Abstract": [
+    "\"A stage scene showing part of an empty stage box on the extreme right. A burlesque of F. Reynolds's 'Werter', adapted from Goethe's romance. The persons and objects on the stage have letters referring to an 'Explanation' below the design. Werter ('A') kneels before Charlotte ('B'), who is seated on a settee on the extreme left; he raises her petticoat with a passionate gesture. At Werter's feet is an open book, 'Ossian' (which he has been reading to Charlotte); she protests with raised hands (pp. 35-6 of the 1802 edition). Behind (right), Albert ('C'), in regimentals, stands with his face to the wall, his hands clasped behind his back. Two pictures ('E E') hang on the wall representing scenes from the play. In one (left) Albert lies prone; Charlotte, seated beside him, raises her arms in despair; the other is suspended from one corner, hanging crookedly; it represents Charlotte and Albert embracing.  In the front of the stage (right), her back to the actors, a nude woman ('F') is seated on a low step holding a pistol to each ear. She wears a hat tied under her chin and is weeping. Above her head is an urn inscribed 'Sacred to Suicide' and a weeping willow. Across the top of the design is a scroll 'H': \"To raise the Genius and to mend the Heart\".\"--British Museum online catalogue.",
+    "\"'Werter', Reynolds's first play, was acted on 14 March 1786 at Covent Garden for Miss Brunton's benefit, having been already played at Bath; Holman played Werter, Farren played Albert. According to Baker, 'Biog. Dram.', it had little success in London. According to Reynolds, 'Werter's metropolitan, was equal, if not superior, to his rural success'. He describes the tears and fainting-fits of the first night at Covent Garden (perhaps responsible for the empty stage box). 'Life and Times of Frederick Reynolds by himself', i. 304 ff.'\"--Curator's comments, British Museum online catalogue."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/23598304-837a-41ad-b472-b9c7b2a79c3c",
   "_manifest_notes": {
    "Abstract": "\"A stage scene showing part of an empty stage box on the extreme right. A burlesque of F. Reynolds's 'Werter', adapted from Goethe's romance. The persons and objects on the stage have letters referring to an 'Explanation' below the design. Werter ('A') kneels before Charlotte ('B'), who is seated on a settee on the extreme left; he raises her petticoat with a passionate gesture. At Werter's feet is an open book, 'Ossian' (which he has been reading to Charlotte); she protests with raised hands (pp. 35-6 of the 1802 edition). Behind (right), Albert ('C'), in regimentals, stands with his face to the wall, his hands clasped behind his back. Two pictures ('E E') hang on the wall representing scenes from the play. In one (left) Albert lies prone; Charlotte, seated beside him, raises her arms in despair; the other is suspended from one corner, hanging crookedly; it represents Charlotte and Albert embracing.  In the front of the stage (right), her back to the actors, a nude woman ('F') is seated on a low step holding a pistol to each ear. She wears a hat tied under her chin and is weeping. Above her head is an urn inscribed 'Sacred to Suicide' and a weeping willow. Across the top of the design is a scroll 'H': \"To raise the Genius and to mend the Heart\".\"--British Museum online catalogue \"'Werter', Reynolds's first play, was acted on 14 March 1786 at Covent Garden for Miss Brunton's benefit, having been already played at Bath; Holman played Werter, Farren played Albert. According to Baker, 'Biog. Dram.', it had little success in London. According to Reynolds, 'Werter's metropolitan, was equal, if not superior, to his rural success'. He describes the tears and fainting-fits of the first night at Covent Garden (perhaps responsible for the empty stage box). 'Life and Times of Frederick Reynolds by himself', i. 304 ff.'\"--Curator's comments, British Museum online catalogue",
    "Description": "Title etched below image. Signed with the monogram of James Sayers. Five lines of text below title: Explanation, A. Werter making a very improper request to Charlotte -- B. Charlotte resenting it very properly -- C. Albert her husband very civilly taking himself off ..."
   },
-  "_creators_raw": "Sayers, James, 1748-1823, printmaker | Cornell, Thos., active 1780-1792, publisher.",
-  "_creator_roles_raw": "",
-  "creator_names": "James Sayers | Thos. Cornell"
+  "_creators_raw": "Sayers, James, 1748-1823 | Cornell, Thos., active 1780-1792",
+  "_creator_roles_raw": "printmaker | publisher",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/b0c14a5a-c5f3-49ba-bc64-0d9c791de9b8",
@@ -757,10 +1091,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "Bunbury 812.00.00.70+",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22826139100008651",
   "title": "The propagation of a lie. Plate 1 [graphic] ; The propagation of a lie. Pl. 2.",
   "creators": "Henry William Bunbury (artist, 1750–1811)",
+  "creator_names": "Henry William Bunbury",
   "creator_roles": "artist",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/30cb208a-1632-4929-a10c-753ebd101395",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "[approximately 1815]",
@@ -793,24 +1130,41 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1815, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:02:11Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:42:28Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/30cb208a-1632-4929-a10c-753ebd101395",
+    "label": "Bunbury, Henry William, 1750-1811",
+    "role": "artist"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "propagation of a lie. Plate 1 [graphic] ; The propagation of a lie. Pl. 2."
   ],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1815, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: Note": [
+    "Title from caption below image.",
+    "Artist attribution from earlier print of which this design is a copy.",
+    "Publication date based on watermark.",
+    "Description based on imperfect impression; sheet trimmed within plate mark, and statement of responsibility erased from lower left corner of sheet.",
+    "Design consists of nine figures arranged in two horizontal rows, each figure having a line of text etched above; plate numbers are etched at the upper left corner of each row.",
+    "A reduced copy of the first half of no. 7230 in the Catalogue of prints and drawings in the British Museum. Division I, political and personal satires, v. 6."
+   ],
+   "Linked work: Imprint Statement": [
+    "[London?] : [publisher not identified], [approximately 1815]"
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/49a0e3a4-f45a-4ef2-94c6-f91817ac77ab",
   "_manifest_notes": {
    "Description": "Title from caption below image. Artist attribution from earlier print of which this design is a copy. Publication date based on watermark. Description based on imperfect impression; sheet trimmed within plate mark, and statement of responsibility erased from lower left corner of sheet. Design consists of nine figures arranged in two horizontal rows, each figure having a line of text etched above; plate numbers are etched at the upper left corner of each row. A reduced copy of the first half of no. 7230 in the Catalogue of prints and drawings in the British Museum. Division I, political and personal satires, v. 6."
   },
-  "_creators_raw": "Bunbury, Henry William, 1750-1811, artist",
-  "_creator_roles_raw": "",
-  "creator_names": "Henry William Bunbury"
+  "_creators_raw": "Bunbury, Henry William, 1750-1811",
+  "_creator_roles_raw": "artist",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/0101a831-2d43-41a2-9efe-202a76365051",
@@ -820,10 +1174,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "Quarto 66 726 T675",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22758743390008651",
   "title": "J. Kirk, engraver, of seals in stone, steel and silver, dies and stamps, silver & copper plates, & c., the north side of Saint Paul's Church Yard, London ... [graphic]",
   "creators": "John Kirk (printmaker, 1724–1776)",
+  "creator_names": "John Kirk",
   "creator_roles": "printmaker",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/f97bf4b1-7658-4236-a482-9763b758824a",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "[approximately 1757]",
@@ -856,22 +1213,39 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1757, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:02:15Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:42:36Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/f97bf4b1-7658-4236-a482-9763b758824a",
+    "label": "Kirk, John, 1724-1776",
+    "role": "printmaker"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1757, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: Attribution Statement": [
+    "/ J. Kirk sc., St. Pauls Church Yard."
+   ],
+   "Linked work: Note": [
+    "Title from item.",
+    "Title continues: ... where may be had variety of Dutch & English toys.",
+    "Sheet trimmed within plate mark."
+   ],
+   "Linked work: Imprint Statement": [
+    "[London] : [J. Kirk], [approximately 1757]"
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/25eccb93-0dc5-488e-a529-5b8366975fd6",
   "_manifest_notes": {
    "Description": "Title from item. Title continues: ... where may be had variety of Dutch & English toys. Sheet trimmed within plate mark."
   },
-  "_creators_raw": "Kirk, John, 1724-1776, printmaker",
-  "_creator_roles_raw": "",
-  "creator_names": "John Kirk"
+  "_creators_raw": "Kirk, John, 1724-1776",
+  "_creator_roles_raw": "printmaker",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/9659493d-21e5-4d79-b013-fd89f5a2f838",
@@ -881,16 +1255,19 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "771.10.19.01.1+",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22834663920008651",
   "title": "Boarding school education, or, The Frenchified young lady [graphic].",
-  "creators": "M. Darly (publisher)",
+  "creators": "Mary Darly (publisher)",
+  "creator_names": "Mary Darly",
   "creator_roles": "publisher",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/3eaa0222-cbdd-4614-93aa-62d9e0a283bd",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "[19 October 1771]",
+  "date_display": "1771-10-19",
   "date_earliest_year": "1771",
   "date_latest_year": "1771",
-  "date_kind": "from the image record",
+  "date_kind": "created (linked work)",
   "object_type": "Prints",
   "classification": "",
   "medium": "",
@@ -917,23 +1294,41 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1771, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:02:22Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:42:41Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/3eaa0222-cbdd-4614-93aa-62d9e0a283bd",
+    "label": "Darly, M. (Mary)",
+    "role": "publisher"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1771, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: Note": [
+    "Temporary local subject terms: Macaronies -- Headdresses -- Boarding school -- Dancing lesson -- Education: boarding school -- Dancing masters -- Lapdog -- Monkey -- Toys: sword and stick -- Musical instruments: kit -- Furnishings: mirror -- Furnishings: tasselled window curtains -- Music: music book.",
+    "Title etched below image.",
+    "Initial letters of publisher's name in imprint form a monogram.",
+    "For a variant state with plate number, see no. 4639 in the Catalogue of prints and drawings in the British Museum. Division I, political and personal satires, v. 4."
+   ],
+   "Linked work: Imprint Statement": [
+    "[London] : Pubd. according to act of Parlt. Oct. 19th, 1771, by MDarly, (39) Strand, [19 October 1771]"
+   ],
+   "Linked work: Abstract": [
+    "A young woman dances to the violin played by her dancing master while her proud mother looks on."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/ebc04469-fb1a-4ea4-85cc-fe7b312eed94",
   "_manifest_notes": {
    "Abstract": "A young woman dances to the violin played by her dancing master while her proud mother looks on.",
    "Description": "Title etched below image. Initial letters of publisher's name in imprint form a monogram. For a variant state with plate number, see no. 4639 in the Catalogue of prints and drawings in the British Museum. Division I, political and personal satires, v. 4. Temporary local subject terms: Macaronies -- Headdresses -- Boarding school -- Dancing lesson -- Education: boarding school -- Dancing masters -- Lapdog -- Monkey -- Toys: sword and stick -- Musical instruments: kit -- Furnishings: mirror -- Furnishings: tasselled window curtains -- Music: music book."
   },
-  "_creators_raw": "Darly, M. publisher.",
-  "_creator_roles_raw": "",
-  "creator_names": "M. Darly"
+  "_creators_raw": "Darly, M. (Mary)",
+  "_creator_roles_raw": "publisher",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/937993da-dbd8-4a31-81b6-fc7cd0a6e9f3",
@@ -943,10 +1338,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "745.09.12.01+",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22956207380008651",
   "title": "Taste a-la-mode, 1745 [graphic]",
   "creators": "Francis Patton (printmaker) | Louis-Philippe Boitard (artist, active 1733–1770)",
+  "creator_names": "Francis Patton | Louis-Philippe Boitard",
   "creator_roles": "printmaker | artist",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/9a97eef4-4c36-4573-82e9-400e35259853 | https://lux.collections.yale.edu/data/person/ce09f06f-0c2b-44a2-b1a1-e1f37fce61ae",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "publish'd according to act of Parliament, Septr. 12th, 1745.",
@@ -979,23 +1377,53 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1745, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:02:27Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:42:52Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/9a97eef4-4c36-4573-82e9-400e35259853",
+    "label": "Patton, Francis",
+    "role": "printmaker"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/ce09f06f-0c2b-44a2-b1a1-e1f37fce61ae",
+    "label": "Boitard, Louis-Philippe, active 1733-1770",
+    "role": "artist"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1745, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: provenance description": [
+    "Raphael, Herbert H. Ownership",
+    "Fraser, William Augustus Sir, 1826-1898 Ownership."
+   ],
+   "Linked work: Attribution Statement": [
+    "Boitard invt. ; F. Patton sculp."
+   ],
+   "Linked work: Note": [
+    "Title engraved below image.",
+    "Probably a later state, with printseller's statement burnished from plate. For a variant state with \"Sold by C. Moseley, engraver & printseller in Round Court in the Strand\" following price statement, see No. 2774 in the Catalogue of prints and drawings in the British Museum, v. 3.",
+    "Sheet trimmed within plate mark.",
+    "\"Price 6d.\"--Following imprint."
+   ],
+   "Linked work: Imprint Statement": [
+    "[London] : [publisher not identified], publish'd according to act of Parliament, Septr. 12th, 1745."
+   ],
+   "Linked work: Abstract": [
+    "\"Satire on fashion showing a crowd of people in St James's Park in front of Buckingham House. In the centre is a short, fat women wearing a large hooped skirt and saque, a lace cap and black lace mittens, and carrying a closed fan. On the left a young country gentleman, wearing a quilted waistcoat and holding a riding whip, is arm in arm with fashionably dressed man who seems to be showing him the promenade, they both wear breeches that end above the knee and high-heeled shoes with large tongues; the latter leers at a young woman, apparently a prostitute, wearing a straw hat with a soft brim who lifts her huge hooped skirt to reveal her ankle. She is walking with another young woman wearing a dark cloak with a hood; she wears a small cap and her hair is dressed in ringlets. In the centre, behind the fat woman, two men embrace, one of whom wears an eye patch. Another young woman, dressed in a similar fashion to the fat woman, stands to her right; behind her is another young woman wearing a hat with a very large brim. Next are two more young men,wearing large tricorne hats, tight coats the skirts of which open out in pleats below the waist, and high-heeled shoes one apparently pointing out matters of interest to the other who is possibly a young officer as he wears a sword and a cockade in his hat; his hair or wig is dressed in a large bag-wig. On the far right, a soldeir wearing large riding boots, walks away with a young woman wearing a laced hat.\"--British Museum online catalogue."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/1d740b60-8542-4be0-80b7-94ffb4b6e630",
   "_manifest_notes": {
    "Abstract": "\"Satire on fashion showing a crowd of people in St James's Park in front of Buckingham House. In the centre is a short, fat women wearing a large hooped skirt and saque, a lace cap and black lace mittens, and carrying a closed fan. On the left a young country gentleman, wearing a quilted waistcoat and holding a riding whip, is arm in arm with fashionably dressed man who seems to be showing him the promenade, they both wear breeches that end above the knee and high-heeled shoes with large tongues; the latter leers at a young woman, apparently a prostitute, wearing a straw hat with a soft brim who lifts her huge hooped skirt to reveal her ankle. She is walking with another young woman wearing a dark cloak with a hood; she wears a small cap and her hair is dressed in ringlets. In the centre, behind the fat woman, two men embrace, one of whom wears an eye patch. Another young woman, dressed in a similar fashion to the fat woman, stands to her right; behind her is another young woman wearing a hat with a very large brim. Next are two more young men,wearing large tricorne hats, tight coats the skirts of which open out in pleats below the waist, and high-heeled shoes one apparently pointing out matters of interest to the other who is possibly a young officer as he wears a sword and a cockade in his hat; his hair or wig is dressed in a large bag-wig. On the far right, a soldeir wearing large riding boots, walks away with a young woman wearing a laced hat.\"--British Museum online catalogue",
    "Description": "Title engraved below image. Probably a later state, with printseller's statement burnished from plate. For a variant state with \"Sold by C. Moseley, engraver & printseller in Round Court in the Strand\" following price statement, see No. 2774 in the Catalogue of prints and drawings in the British Museum, v. 3. Sheet trimmed within plate mark. \"Price 6d.\"--Following imprint."
   },
-  "_creators_raw": "Patton, Francis, printmaker | Boitard, Louis-Philippe, active 1733-1770, artist.",
-  "_creator_roles_raw": "",
-  "creator_names": "Francis Patton | Louis-Philippe Boitard"
+  "_creators_raw": "Patton, Francis | Boitard, Louis-Philippe, active 1733-1770",
+  "_creator_roles_raw": "printmaker | artist",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/a404e7aa-e689-4288-bf42-e040cb71ff36",
@@ -1005,10 +1433,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "Folio 49 3563 v.2 (Oversize)",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22682666690008651",
   "title": "[Home from market] [graphic]",
   "creators": "George Shepheard (printmaker, 1770–1842) | Henry William Bunbury (artist, 1750–1811) | William Dickinson (publisher, 1746 or 1747–1823)",
+  "creator_names": "George Shepheard | Henry William Bunbury | William Dickinson",
   "creator_roles": "printmaker | artist | publisher",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/e576d69d-8c63-45bd-9866-9e09431a9064 | https://lux.collections.yale.edu/data/person/30cb208a-1632-4929-a10c-753ebd101395 | https://lux.collections.yale.edu/data/person/80e03045-8db7-4789-844f-8ceee59810c0",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "[1 June 1790]",
@@ -1041,23 +1472,57 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1790, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:02:34Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:43:02Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/e576d69d-8c63-45bd-9866-9e09431a9064",
+    "label": "Shepheard, George, 1770-1842",
+    "role": "printmaker"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/30cb208a-1632-4929-a10c-753ebd101395",
+    "label": "Bunbury, Henry William, 1750-1811",
+    "role": "artist"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/80e03045-8db7-4789-844f-8ceee59810c0",
+    "label": "Dickinson, William, 1746 or 1747-1823",
+    "role": "publisher"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1790, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: provenance description": [
+    "Walpole, Horace, 1717-1797 Ownership."
+   ],
+   "Linked work: Attribution Statement": [
+    "H. Bunbury Esqr. delint. ; engrav'd by G. Shepherd [sic]."
+   ],
+   "Linked work: Note": [
+    "Title from description of variant state in the British Museum online catalogue.",
+    "State with printmaker's name spelled \"Shepherd\" in signature. For a variant state with the correct spelling \"Shepheard\", see British Museum online catalogue, registration no.: 1917,1208.2973.",
+    "Sheet trimmed to plate mark.",
+    "Companion print to: Going to market."
+   ],
+   "Linked work: Imprint Statement": [
+    "London : Publish'd June 1st, 1790, by W. Dickinson, engraver, Bond Street, [1 June 1790]"
+   ],
+   "Linked work: Abstract": [
+    "\"A woman sitting on a stool outside of a cottage, playfully holding a bunch of grapes aloft which a young boy at left reaches towards, a dog leaning against her knee and a girl seen from the back stands behind; oval design after Bunbury.\"--British Museum online catalogue, description of variant state."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/c20dc094-ad36-4507-bf6f-b37e99568c06",
   "_manifest_notes": {
    "Abstract": "\"A woman sitting on a stool outside of a cottage, playfully holding a bunch of grapes aloft which a young boy at left reaches towards, a dog leaning against her knee and a girl seen from the back stands behind; oval design after Bunbury.\"--British Museum online catalogue, description of variant state",
    "Description": "Title from description of variant state in the British Museum online catalogue. State with printmaker's name spelled \"Shepherd\" in signature. For a variant state with the correct spelling \"Shepheard\", see British Museum online catalogue, registration no.: 1917,1208.2973. Sheet trimmed to plate mark. Companion print to: Going to market."
   },
-  "_creators_raw": "Shepheard, George, 1770-1842, printmaker | Bunbury, Henry William, 1750-1811, artist. | Dickinson, William, 1746 or 1747-1823, publisher.",
-  "_creator_roles_raw": "",
-  "creator_names": "George Shepheard | Henry William Bunbury | William Dickinson"
+  "_creators_raw": "Shepheard, George, 1770-1842 | Bunbury, Henry William, 1750-1811 | Dickinson, William, 1746 or 1747-1823",
+  "_creator_roles_raw": "printmaker | artist | publisher",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/6ced7f59-bcc5-43a6-9a36-4135325f491b",
@@ -1067,10 +1532,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "789.05.27.02+",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22956347660008651",
   "title": "A scene on Tuesday the 26th of May between a prince and a poltron [graphic].",
   "creators": "James Gillray (printmaker, 1756–1815) | James Aitken (publisher, active 1788–1802)",
+  "creator_names": "James Gillray | James Aitken",
   "creator_roles": "printmaker | publisher",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/7813892b-418f-4f41-9467-7c5f05cb9106 | https://lux.collections.yale.edu/data/person/0c237757-1d0f-4664-b36e-075a96dc385c",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "[27 May 1789]",
@@ -1103,25 +1571,54 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1789, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:02:39Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:43:12Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/7813892b-418f-4f41-9467-7c5f05cb9106",
+    "label": "Gillray, James, 1756-1815",
+    "role": "printmaker"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/0c237757-1d0f-4664-b36e-075a96dc385c",
+    "label": "Aitken, James, active 1788-1802",
+    "role": "publisher"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "scene on Tuesday the 26th of May between a prince and a poltron [graphic]."
   ],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1789, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: provenance description": [
+    "Riviere & Son Binding.",
+    "Auchincloss, Hugh Dudley Ownership.",
+    "Harvey, Francis Ownership."
+   ],
+   "Linked work: Note": [
+    "Temporary local subject terms: Duels: Duke of York and Lt.-Col. Lennox, 26 May, 1789 -- Guns: pistols -- Blunderbuss -- Military uniforms: lieutenant colonel, 35th Foot -- Military uniforms: Lord of the Bedchamber -- Coaches: post-chaise -- Poltroon: coward --Allusion to Charles II.",
+    "Title etched below image.",
+    "Printmaker from British Museum catalogue.",
+    "\"Price 1 s./6 plain.\"",
+    "Sheet trimmed within plate mark."
+   ],
+   "Linked work: Imprint Statement": [
+    "[London] : Pubd. May 27th, 1789, by J. Aitken, Castle Street, Leicester Field, [27 May 1789]"
+   ],
+   "Linked work: Abstract": [
+    "\"A satirical representation of the duel between the Duke of York and Lennox. The Duke (left), calm and dignified, fires his pistol in the air; Lennox (right), his knees bending in obvious alarm, holds a pistol in each hand, saying, \"I hope your H--gh--ss is satisfied now that I am a Man of Honor, by my firing thro' your hair? & that you will retract the opinion of my being a Coward\". The Duke, whose hat is on the ground, answers, \"Satisfied? yes I am satisfied! that your whole race are a set of dastards! - & you may fire at me till the day of Judgment, e'er I will retract my opinion - or honor a Coward, by putting him out of the World!\" The seconds stand behind their principals: 'Lord Raw--n', in profile to the right, a pistol in each hand, says, \"Gunpowder is disgrae'd when used upon such reptiles! make them eat their own words, till they are choak'd, thats the way to quiet Charles's-bastard-brood\" (cf. BMSat 7507); 'Lord Wine--l--a' (right), looking very frightened, holds an arsenal of pistols under his left arm, a blunderbuss in his right hand, saying, \"Would that I had not meddl'd in the business, or, that I could get over to the other side.\" All wear military uniform; Winchilsea was a Lord of the Bedchamber, Lennox Lt.-Col. in the Coldstream, the Duke's regiment. In the background stands an empty post-chaise.\"--British Museum online catalogue."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/a9019c05-dfd4-4b76-a253-e7cd210344a2",
   "_manifest_notes": {
    "Abstract": "\"A satirical representation of the duel between the Duke of York and Lennox. The Duke (left), calm and dignified, fires his pistol in the air; Lennox (right), his knees bending in obvious alarm, holds a pistol in each hand, saying, \"I hope your H--gh--ss is satisfied now that I am a Man of Honor, by my firing thro' your hair? & that you will retract the opinion of my being a Coward\". The Duke, whose hat is on the ground, answers, \"Satisfied? yes I am satisfied! that your whole race are a set of dastards! - & you may fire at me till the day of Judgment, e'er I will retract my opinion - or honor a Coward, by putting him out of the World!\" The seconds stand behind their principals: 'Lord Raw--n', in profile to the right, a pistol in each hand, says, \"Gunpowder is disgrae'd when used upon such reptiles! make them eat their own words, till they are choak'd, thats the way to quiet Charles's-bastard-brood\" (cf. BMSat 7507); 'Lord Wine--l--a' (right), looking very frightened, holds an arsenal of pistols under his left arm, a blunderbuss in his right hand, saying, \"Would that I had not meddl'd in the business, or, that I could get over to the other side.\" All wear military uniform; Winchilsea was a Lord of the Bedchamber, Lennox Lt.-Col. in the Coldstream, the Duke's regiment. In the background stands an empty post-chaise.\"--British Museum online catalogue",
    "Description": "Title etched below image. Printmaker from British Museum catalogue. \"Price 1 s./6 plain.\" Sheet trimmed within plate mark. Temporary local subject terms: Duels: Duke of York and Lt.-Col. Lennox, 26 May, 1789 -- Guns: pistols -- Blunderbuss -- Military uniforms: lieutenant colonel, 35th Foot -- Military uniforms: Lord of the Bedchamber -- Coaches: post-chaise -- Poltroon: coward --Allusion to Charles II."
   },
-  "_creators_raw": "Gillray, James, 1756-1815, printmaker | Aitken, James, active 1788-1802, publisher.",
-  "_creator_roles_raw": "",
-  "creator_names": "James Gillray | James Aitken"
+  "_creators_raw": "Gillray, James, 1756-1815 | Aitken, James, active 1788-1802",
+  "_creator_roles_raw": "printmaker | publisher",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/75cc9730-a3ff-4567-b331-a36a93752232",
@@ -1131,10 +1628,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "Folio 72 771 D37 v.2 plate 22",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22869192050008651",
   "title": "Venison & claret, or, Sr. Humpy. Haunch, bart. of Glutton Hall [graphic].",
-  "creators": "Matthias Darly (printmaker, approximately 1720–approximately 1778) | M. Darly (publisher)",
+  "creators": "Matthias Darly (printmaker, approximately 1720–approximately 1778) | Mary Darly (publisher)",
+  "creator_names": "Matthias Darly | Mary Darly",
   "creator_roles": "printmaker | publisher",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/3ec2a1cf-ecee-49f1-adc6-381bc9f423e2 | https://lux.collections.yale.edu/data/person/3eaa0222-cbdd-4614-93aa-62d9e0a283bd",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "[1 April 1772]",
@@ -1167,23 +1667,49 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1772, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:02:46Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:43:20Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/3ec2a1cf-ecee-49f1-adc6-381bc9f423e2",
+    "label": "Darly, Matthias, approximately 1720-approximately 1778",
+    "role": "printmaker"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/3eaa0222-cbdd-4614-93aa-62d9e0a283bd",
+    "label": "Darly, M. (Mary)",
+    "role": "publisher"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1772, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: Edition Statement": [
+    "[State without volume number]."
+   ],
+   "Linked work: Note": [
+    "Title from text below image.",
+    "Initial letters of publisher's name in imprint form a monogram. M. Darly for Mary Darly or Matthew (or Matthias) Darly the printmaker?  See British Museum catalogue.",
+    "Early state. For reissue with additional numbering, see no. 5002 in the Catalogue of prints and drawings in the British Museum. Division I, political and personal satires, v. 5.",
+    "Plate numbered \"22\" in upper right corner."
+   ],
+   "Linked work: Imprint Statement": [
+    "[London] : Pub. by MDarly, Strand, April 1st 1772, according to act, [1 April 1772]"
+   ],
+   "Linked work: Abstract": [
+    "\"A whole length figure standing towards the left looking over his left shoulder. He is stout with an enormously protruding stomach. His right hand is thrust inside his coat, his left is in his coat-pocket. His hat is under his left arm. He wears a laced coat, a shirt with lace ruffles and a sword.\"--British Museum online catalogue."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/3d4a5a26-c1a2-4d25-909b-9e9e61f7dc8b",
   "_manifest_notes": {
    "Abstract": "\"A whole length figure standing towards the left looking over his left shoulder. He is stout with an enormously protruding stomach. His right hand is thrust inside his coat, his left is in his coat-pocket. His hat is under his left arm. He wears a laced coat, a shirt with lace ruffles and a sword.\"--British Museum online catalogue",
    "Description": "Title from text below image. Initial letters of publisher's name in imprint form a monogram. M. Darly for Mary Darly or Matthew (or Matthias) Darly the printmaker?  See British Museum catalogue. Early state. For reissue with additional numbering, see no. 5002 in the Catalogue of prints and drawings in the British Museum. Division I, political and personal satires, v. 5. Plate numbered \"22\" in upper right corner."
   },
-  "_creators_raw": "Darly, Matthias, approximately 1720-approximately 1778, printmaker | Darly, M. publisher.",
-  "_creator_roles_raw": "",
-  "creator_names": "Matthias Darly | M. Darly"
+  "_creators_raw": "Darly, Matthias, approximately 1720-approximately 1778 | Darly, M. (Mary)",
+  "_creator_roles_raw": "printmaker | publisher",
+  "sample_scope": "images"
  },
  {
   "lux_uri": "https://lux.collections.yale.edu/data/object/6104339d-c50c-4238-88e1-89b71583e446",
@@ -1193,10 +1719,13 @@
   "department": "Lewis Walpole Library, Yale University Library",
   "accession_number": "Folio 767 P69B W65",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22779728250008651",
   "title": "At the New Theatre in King-Street, this present evening, being the 5th of this instant July, will be perform'd a concert of musick ... between the several parts of the concert will be presented (gratis) by a company of comedians from the Theatres-Royal in London, the tragedy of Romeo and Juliet ... : to which will be added a pantomime entertainment call'd The tempest; or, Harlequin shipwreck'd ...",
-  "creators": "New Theatre (Birmingham, England)",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "New Theatre (Birmingham, England) (creator)",
+  "creator_names": "New Theatre (Birmingham, England)",
+  "creator_roles": "creator",
+  "creator_uris": "https://lux.collections.yale.edu/data/group/cd0e8a82-0b0b-4bf3-9dd8-b71e23a179ea",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "[1762?]",
@@ -1229,21 +1758,38 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "Public domain by date (Yale Open Access policy)",
+  "image_rights_note": "Made by 1762, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: none",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:02:51Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:43:28Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/group/cd0e8a82-0b0b-4bf3-9dd8-b71e23a179ea",
+    "label": "New Theatre (Birmingham, England)",
+    "role": "Creator"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
-  "sample_scope": "images",
-  "image_rights_note": "Made by 1762, before 1900: public domain, usable under Yale's Open Access policy. The Library's own statement: none",
-  "creator_source": "image record",
+  "_statements": {
+   "Linked work: descriptive note": [
+    "Brit tracts 1762."
+   ],
+   "Linked work: Note": [
+    "Caption title.",
+    "Publication place derived from theatre address.",
+    "A playbill."
+   ],
+   "Linked work: Imprint Statement": [
+    "[Birmingham] : [New Theatre in King-Street], [1762?]"
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/d8cd0074-50c1-4131-9647-6da4ffc362ba",
   "_manifest_notes": {
    "Description": "Caption title. Publication place derived from theatre address. A playbill."
   },
   "_creators_raw": "New Theatre (Birmingham, England)",
-  "_creator_roles_raw": "",
-  "creator_names": "New Theatre (Birmingham, England)"
+  "_creator_roles_raw": "Creator",
+  "sample_scope": "images"
  }
 ]

@@ -7,10 +7,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "",
   "accession_number_type": "",
+  "other_identifiers": "",
   "title": "Assorted Pictures",
-  "creators": "",
+  "creators": "Mr H Phillips",
+  "creator_names": "Mr H Phillips",
   "creator_roles": "",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/group/9ed52563-9655-418d-9bdb-8e5abf9a2235",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -43,17 +46,33 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:53:44Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:28:41Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/group/9ed52563-9655-418d-9bdb-8e5abf9a2235",
+    "label": "Mr H Phillips",
+    "role": ""
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
   "_statements": {
    "General Note": [
     "PMC Auction Catalogues"
+   ],
+   "Linked work: Dating": [
+    "Catalogue of a sale held 14 May 1830"
+   ],
+   "Linked work: General Note": [
+    "Lugt/12371",
+    "R. Westall, Esq. B. A"
    ]
   },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/9f7373b4-b721-49e4-b633-2a8ef41fcabc",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -64,10 +83,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "F6740",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "",
   "title": "Blackburn, Joseph",
-  "creators": "",
+  "creators": "Tate Photographic Archive",
+  "creator_names": "Tate Photographic Archive",
   "creator_roles": "",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/group/663642dc-17bc-43bf-96bb-53a0adffdc24",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -100,13 +122,30 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:53:48Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:28:48Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/group/663642dc-17bc-43bf-96bb-53a0adffdc24",
+    "label": "Tate Photographic Archive",
+    "role": ""
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: General Note": [
+    "Tate Photographic Archive",
+    "Donated by Tate March 2009. Total number of mounts ... of which ... have been redacted"
+   ],
+   "Linked work: Collations Statement": [
+    "1 folder"
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/9aedee9c-d994-4d6b-a470-dec122a40a7f",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -117,10 +156,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "B35495",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "",
   "title": "Orovida",
-  "creators": "",
+  "creators": "Peter Nahum at the Leicester Galleries",
+  "creator_names": "Leicester Galleries",
   "creator_roles": "",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/group/8e3a2544-9179-4a90-aa5b-ec0c898e0b05",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -153,18 +195,33 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:53:53Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:28:53Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/group/8e3a2544-9179-4a90-aa5b-ec0c898e0b05",
+    "label": "Peter Nahum at the Leicester Galleries",
+    "role": ""
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
   "_statements": {
    "General Note": [
     "Library's copy donated by the Estate of Brian Sewell, July 2016",
     "Collections care status: CH0618"
+   ],
+   "Linked work: General Note": [
+    "'Exhibition no. 1406' -- p. [2]"
+   ],
+   "Linked work: Collations Statement": [
+    "1 folded sheet ([4] p.) ; 21 cm."
    ]
   },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/0f9e6499-4a4b-4eaa-8e27-8167a876c11d",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -175,10 +232,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "B10338",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "",
   "title": "The landscapes of George Frederick Watts",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Walter Bayes",
+  "creator_names": "Walter Bayes",
+  "creator_roles": "author",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/739d626e-3ba3-4386-9f78-8f5e2b37ea7a",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -211,13 +271,26 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:53:56Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:28:59Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/739d626e-3ba3-4386-9f78-8f5e2b37ea7a",
+    "label": "Walter Bayes",
+    "role": "author"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: Collations Statement": [
+    "xx p., xviii leaves of plates : ill. ; 24 cm."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/11b3ca27-e8c7-4868-9058-e64a5d611424",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -228,10 +301,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "",
   "accession_number_type": "",
+  "other_identifiers": "",
   "title": "Rusca, Cavaliere Carlo Francesco",
-  "creators": "",
+  "creators": "Tate Photographic Archive",
+  "creator_names": "Tate Photographic Archive",
   "creator_roles": "",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/group/663642dc-17bc-43bf-96bb-53a0adffdc24",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -264,13 +340,30 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:53:59Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:29:03Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/group/663642dc-17bc-43bf-96bb-53a0adffdc24",
+    "label": "Tate Photographic Archive",
+    "role": ""
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: General Note": [
+    "Tate Photographic Archive",
+    "Donated by Tate March 2009. Total number of mounts ... of which ... have been redacted"
+   ],
+   "Linked work: Collations Statement": [
+    "1 folder"
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/46fecc93-43e9-4f97-9d67-8b644d247a9e",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -281,10 +374,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "B20916",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "Accession Number: 2011.0110",
   "title": "Burlington House : a brief history : an introduction to the architecture of the home of the Royal Academy for teachers and students",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Schmidtt, Peter | Hopkins, Owen, 1984-",
+  "creator_names": "Schmidtt, Peter | Owen Hopkins",
+  "creator_roles": "author | author",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/f585e2c7-041d-427f-a059-640aee8c4438 | https://lux.collections.yale.edu/data/person/0d39ef00-f05f-47ed-8d90-676934b6ff58",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -317,13 +413,34 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:54:03Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:29:11Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/f585e2c7-041d-427f-a059-640aee8c4438",
+    "label": "Schmidtt, Peter",
+    "role": "author"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/0d39ef00-f05f-47ed-8d90-676934b6ff58",
+    "label": "Hopkins, Owen, 1984-",
+    "role": "author"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: Bibliography Statement": [
+    "Bibliography: p. 28"
+   ],
+   "Linked work: Collations Statement": [
+    "28 p. : ill. (some col.) ; 24 cm."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/44aedaea-f58f-4e00-b5fa-01705a09f013",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -334,10 +451,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "B20307",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "Accession Number: 2010.0113",
   "title": "Adrian Ryan : rather a rum life",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Machin, Julian",
+  "creator_names": "Machin, Julian",
+  "creator_roles": "author",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/11ec98a8-e029-4905-9198-ada60345a068",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -370,13 +490,29 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:54:08Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:29:17Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/11ec98a8-e029-4905-9198-ada60345a068",
+    "label": "Machin, Julian",
+    "role": "author"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: Bibliography Statement": [
+    "Includes index"
+   ],
+   "Linked work: Collations Statement": [
+    "168 p., [32] p. of plates : col. ill. ; 25 cm."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/ac66a661-b8de-4cc9-ad8b-dd92b862be04",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -387,10 +523,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "B27946",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "Accession Number: 2018.0170",
   "title": "The Royal Academy illustrated 1968 : a souvenir of the 200th summer exhibition",
-  "creators": "",
+  "creators": "Royal Academy of Arts (Great Britain) Summer Exhibition 1919",
+  "creator_names": "Royal Academy of Arts",
   "creator_roles": "",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/group/047db7de-a8d9-484d-bf6e-9f4127900556",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -423,13 +562,29 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:54:11Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:29:24Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/group/047db7de-a8d9-484d-bf6e-9f4127900556",
+    "label": "Royal Academy of Arts (Great Britain) Summer Exhibition 1919",
+    "role": ""
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: Bibliography Statement": [
+    "Includes index"
+   ],
+   "Linked work: Collations Statement": [
+    "64 p. : ill. ; 20 x 21 cm."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/dc86b27e-5d38-44f5-8f61-0aff13516a40",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -440,10 +595,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "B13314",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "",
   "title": "A dictionary of members of the Dublin book trade, 1550-1800 : based on the records of the Guild of St Luke the Evangelist, Dublin",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Mary Pollard",
+  "creator_names": "Mary Pollard",
+  "creator_roles": "author",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/10174f2f-48cf-436b-8225-97ca977456ae",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -476,13 +634,26 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:54:14Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:29:30Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/10174f2f-48cf-436b-8225-97ca977456ae",
+    "label": "Mary Pollard",
+    "role": "author"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: Collations Statement": [
+    "xlviii, 675 p. ; 26 cm."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/a8ae122b-a109-4029-91d2-a0a62b669c17",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -493,10 +664,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "B28082",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "Accession Number: 2018.0261",
   "title": "Coming to light : Birmingham's photographic collections",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Birmingham Museum & Art Gallery | James, Peter",
+  "creator_names": "Birmingham Museum & Art Gallery | Peter James",
+  "creator_roles": " | author",
+  "creator_uris": "https://lux.collections.yale.edu/data/group/8ba18f86-38cd-4ba1-9e1b-0797d0e61ead | https://lux.collections.yale.edu/data/person/f857c8df-e539-494c-b7e2-535f68f7a177",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -529,17 +703,40 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:54:18Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:29:38Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/group/8ba18f86-38cd-4ba1-9e1b-0797d0e61ead",
+    "label": "Birmingham Museum & Art Gallery",
+    "role": ""
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/f857c8df-e539-494c-b7e2-535f68f7a177",
+    "label": "James, Peter",
+    "role": "author"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
   "_statements": {
    "General Note": [
     "Library's copy donated by the WCP September 2017"
+   ],
+   "Linked work: General Note": [
+    "Includes bibliographical references"
+   ],
+   "Linked work: Edition Statement": [
+    "First edition"
+   ],
+   "Linked work: Collations Statement": [
+    "177 p. : ill., ports. (some col.) ; 26 cm."
    ]
   },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/e9fa4c04-925c-42f4-99ba-221c18e9df42",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -550,10 +747,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "",
   "accession_number_type": "",
+  "other_identifiers": "",
   "title": "Church of St. Mary and the Holy Cross, Milstead",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -586,9 +786,10 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:54:21Z",
+  "harvested_at": "2026-10-26T17:29:41Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -596,8 +797,13 @@
    "General Note": [
     "Donated by the Estate of the late Dr M. P. Kerney, March 2023",
     "From Kerney box 'Kent L-Z'"
+   ],
+   "Linked work: Collations Statement": [
+    "[2] pages ; 30 cm"
    ]
   },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/0565f7d6-2941-4de1-b364-e4c9c79e1dad",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -608,10 +814,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "B24526",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "Accession Number: 2015.0059",
   "title": "Passionate patrons : Victoria & Albert and the arts",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Kharibian, Leah",
+  "creator_names": "Leah Kharibian",
+  "creator_roles": "author",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/af1c74b9-65fd-4dcc-9e12-9246b93c3e6c",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -644,13 +853,29 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:54:24Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:29:47Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/af1c74b9-65fd-4dcc-9e12-9246b93c3e6c",
+    "label": "Kharibian, Leah",
+    "role": "author"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: Bibliography Statement": [
+    "Includes index"
+   ],
+   "Linked work: Collations Statement": [
+    "192 p. : col. ill. ; 19 cm."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/77bfc284-7d18-49b8-aad8-afaa9b590336",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -661,10 +886,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "B06841",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "",
   "title": "Dictionary of national biography",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Stephen, Leslie, 1832-1904 | Sidney Lee",
+  "creator_names": "Leslie Stephen | Sidney Lee",
+  "creator_roles": "editor | editor",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/924f264a-9bd7-4cdf-a67f-682bb615d9e5 | https://lux.collections.yale.edu/data/person/3ecabadd-cc4f-46be-9ba1-100f7b25e35b",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -697,13 +925,34 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:54:27Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:29:56Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/924f264a-9bd7-4cdf-a67f-682bb615d9e5",
+    "label": "Stephen, Leslie, 1832-1904",
+    "role": "editor"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/3ecabadd-cc4f-46be-9ba1-100f7b25e35b",
+    "label": "Sidney Lee",
+    "role": "editor"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: Table of Contents": [
+    "Contents: v.1. Abbadie - Beadon -- v.2. Beal - Browell -- v.3. Brown - Chaloner -- v.4. Chamber - Craigie -- v.5. Craik - Drake -- v.6. Drant - Finan -- v.7. Finch - Gloucester -- v.8. Glover - Harriott -- v.9. Harris - Hovenden -- v.10. Howard - Kenneth -- v.11. Kennett - Lluelyn -- v.12. Llwyd - Mason -- v.13. Masquerier - Myles -- v.14. Myllar - Owen -- v.15. Owens - Pockrich -- v.16. Pocock - Robins -- v.17. Robinson - Sheares -- v.18 - Shearman - Stovin -- v.19. Stow - Tytler -- v.20. Ubaldini - Whewell -- v.21. Whichcord - Zuylestein -- v.22. Supplement"
+   ],
+   "Linked work: Collations Statement": [
+    "22 v."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/63321013-88c4-4f59-9394-f06408d937c7",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -714,10 +963,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "",
   "accession_number_type": "",
+  "other_identifiers": "",
   "title": "Ancient and modern pictures, water-colour drawings and engravings",
-  "creators": "",
+  "creators": "Christie's",
+  "creator_names": "Christie's, New York",
   "creator_roles": "",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/group/c84f5d7e-e64a-4358-9766-f81230e63e9f",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -750,10 +1002,17 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:54:29Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:30:02Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/group/c84f5d7e-e64a-4358-9766-f81230e63e9f",
+    "label": "Christie's",
+    "role": ""
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
   "_statements": {
@@ -761,8 +1020,20 @@
     "Formerly the property of ? Ellis Kirkham Waterhouse, 1905-1985",
     "Library's copy contains an annotation",
     "Library's copy has a torn page"
+   ],
+   "Linked work: Dating": [
+    "Saturday 6 January, 1883"
+   ],
+   "Linked work: General Note": [
+    "Lugt 42500",
+    "William Goldsmid Esq deceased"
+   ],
+   "Linked work: Collations Statement": [
+    "18 p."
    ]
   },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/825d1bd9-37c9-4ae8-ab59-27eeb476d167",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -773,10 +1044,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "B12470",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "",
   "title": "The Irish Museum of Modern Art : catalogue of the collection, May 1991 - May 1998",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Marshall, Catherine | McCrea, Ronan",
+  "creator_names": "Marshall, Catherine | McCrea, Ronan",
+  "creator_roles": "author | author",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/faa72df7-d999-4787-823d-09f31dd96fb5 | https://lux.collections.yale.edu/data/person/f17bb3fe-60b7-482f-86be-d1cc349cb76b",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -809,13 +1083,34 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:54:31Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:30:10Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/faa72df7-d999-4787-823d-09f31dd96fb5",
+    "label": "Marshall, Catherine",
+    "role": "author"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/f17bb3fe-60b7-482f-86be-d1cc349cb76b",
+    "label": "McCrea, Ronan",
+    "role": "author"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: Table of Contents": [
+    "Contents: Foreword by Declan McGonagle -- A selection of colour plates -- Catalogue of contemporary artworks in the permanent collection -- Catalogue of proposals, models and documentation of artworks -- Provisional listing of Madden Arnholz Collection"
+   ],
+   "Linked work: Collations Statement": [
+    "96 p. : ill. ; 30 cm."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/69783445-2b86-4e83-b855-3e7734d6944e",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -826,10 +1121,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "B32619",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "",
   "title": "A Roman sketch-book by Alexander Cozens",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Paul Oppé",
+  "creator_names": "Paul Oppé",
+  "creator_roles": "author",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/01e4b942-e111-493f-bc33-881ae0e851ff",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -862,10 +1160,17 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:54:34Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:30:16Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/01e4b942-e111-493f-bc33-881ae0e851ff",
+    "label": "Paul Oppé",
+    "role": "author"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
   "_statements": {
@@ -879,8 +1184,20 @@
     "All copies: Accepted in lieu of Inheritance Tax by H M Government and allocated to the Paul Mellon Centre, 2016",
     "All copies: Collections care status: CH0619",
     "All copies: Oppé box number 39"
+   ],
+   "Linked work: Related Material": [
+    "Copy 1: Associated material removed and transferred to Archive - see A.P. Oppé Archive catalogue"
+   ],
+   "Linked work: General Note": [
+    "Offprint from: The ... volume of the Walpole Society, vol. 16 (1928)",
+    "by A.P. Oppé"
+   ],
+   "Linked work: Collations Statement": [
+    "p. [81]-93, XIV-XXII leaves of plates : ill. ; 33 cm"
    ]
   },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/a6a5f77d-215d-4ff3-b1d7-b48d7d19ef06",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -891,10 +1208,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "",
   "accession_number_type": "",
+  "other_identifiers": "",
   "title": "House contents",
-  "creators": "",
+  "creators": "Rogers, Chapman & Thomas",
+  "creator_names": "Rogers, Chapman & Thomas",
   "creator_roles": "",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/group/d11fc140-9328-4bf3-b301-3fc5634a37d1",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -927,17 +1247,32 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:54:35Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:30:22Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/group/d11fc140-9328-4bf3-b301-3fc5634a37d1",
+    "label": "Rogers, Chapman & Thomas",
+    "role": ""
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
   "_statements": {
    "General Note": [
     "PMC Auction Catalogues"
+   ],
+   "Linked work: Dating": [
+    "Catalogue of a sale held 17 March 1914"
+   ],
+   "Linked work: General Note": [
+    "Miss F. A. S. Franks deceased"
    ]
   },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/a578b49e-5cd3-43ae-8824-ea8dad16977c",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -948,10 +1283,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "B05911",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "Accession Number: 92.7487",
   "title": "A reference guide to the literature of travel - including voyages, geographical descriptions, adventures, shipwrecks and expeditions. Vol. 1 - The Old World",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Cox, Edward Godfrey, 1876-1963",
+  "creator_names": "Edward G. Cox",
+  "creator_roles": "author",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/64b6c450-9566-46a3-bc7c-ddf2f11ac587",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -984,13 +1322,32 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:54:38Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:30:28Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/64b6c450-9566-46a3-bc7c-ddf2f11ac587",
+    "label": "Cox, Edward Godfrey, 1876-1963",
+    "role": "author"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: Table of Contents": [
+    "v.1. The Old World (University of Washington publications in language and literature; v.9; November 1935) -- v.2. The New World (University of Washington publications in language and literature; v.10; May 1938) -- v.3. Great Britain (University of Washington publications in language and literature; v.12; May 1949"
+   ],
+   "Linked work: Edition Statement": [
+    "Reprint"
+   ],
+   "Linked work: Collations Statement": [
+    "3v"
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/4c3e0300-c295-4f1b-8610-18c99fa55970",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -1001,10 +1358,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "B28604",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "Accession Number: 2018.0763",
   "title": "Sudley : the Emma Holt bequest : a guide to the collection",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "National Museums Liverpool | Sudley Art Gallery | Kidson, Alex",
+  "creator_names": "National Museums Liverpool | Sudley Art Gallery | Kidson, Alex",
+  "creator_roles": " |  | author",
+  "creator_uris": "https://lux.collections.yale.edu/data/group/b87c9ae6-4117-4319-9112-fa5c8901ce2c | https://lux.collections.yale.edu/data/group/0437cb33-0dd9-4bad-8337-9fe7547a930e | https://lux.collections.yale.edu/data/person/0a43246c-b305-409b-9187-e3167328ccde",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -1037,17 +1397,39 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:54:41Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:30:38Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/group/b87c9ae6-4117-4319-9112-fa5c8901ce2c",
+    "label": "National Museums Liverpool",
+    "role": ""
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/group/0437cb33-0dd9-4bad-8337-9fe7547a930e",
+    "label": "Sudley Art Gallery",
+    "role": ""
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/0a43246c-b305-409b-9187-e3167328ccde",
+    "label": "Kidson, Alex",
+    "role": "author"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
   "_statements": {
    "General Note": [
     "Library's copy donated by Horatia Harrod from the collection of Giles Waterfield, May 2017"
+   ],
+   "Linked work: Collations Statement": [
+    "47 p. : ill. (some col.), ports. ; 20 cm."
    ]
   },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/a219df90-de0d-40ea-a3d7-cb7151bbfbbc",
+  "_manifest_notes": {},
   "sample_scope": "all"
  },
  {
@@ -1058,10 +1440,13 @@
   "department": "Paul Mellon Centre for Studies in British Art Library",
   "accession_number": "",
   "accession_number_type": "",
+  "other_identifiers": "",
   "title": "Modern Pictures and Drawings of the British and Continental Schools",
-  "creators": "",
+  "creators": "Christie's",
+  "creator_names": "Christie's, New York",
   "creator_roles": "",
-  "creator_uris": "",
+  "creator_uris": "https://lux.collections.yale.edu/data/group/c84f5d7e-e64a-4358-9766-f81230e63e9f",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -1094,17 +1479,29 @@
   "image_rights_level": "",
   "object_copyright": "",
   "image_rights_category": "No image",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "no IIIF manifest",
-  "harvested_at": "2026-10-24T21:54:45Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:30:41Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/group/c84f5d7e-e64a-4358-9766-f81230e63e9f",
+    "label": "Christie's",
+    "role": ""
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
   "_statements": {
    "General Note": [
     "PMC Auction Catalogues - British Sales"
+   ],
+   "Linked work: Dating": [
+    "Catalogue of a sale held 14 July 1933"
    ]
   },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/2b480f48-6925-40b8-93c2-a0a163a6e0ea",
+  "_manifest_notes": {},
   "sample_scope": "all"
  }
 ]

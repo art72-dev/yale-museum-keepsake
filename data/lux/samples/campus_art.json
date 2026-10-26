@@ -7,16 +7,19 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1933.33",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 5791",
   "title": "Edward S. Harkness (1874-1940), B.A. 1897, M.A. Hon. 1925",
   "creators": "Artist: Frank O. Salisbury (British, 1874-1962)",
+  "creator_names": "Frank O. Salisbury",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/c338d63a-94b4-468a-89cb-4d61c665c4cc",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
+  "date_display": "n.d.",
   "date_earliest_year": "",
   "date_latest_year": "",
-  "date_kind": "",
+  "date_kind": "from the image record",
   "object_type": "Paintings",
   "classification": "portraits",
   "medium": "Oil on canvas",
@@ -43,9 +46,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:58:49Z",
+  "harvested_at": "2026-10-26T17:37:05Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/c338d63a-94b4-468a-89cb-4d61c665c4cc",
@@ -56,6 +60,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -66,10 +72,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1958.50",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 52627",
   "title": "Dean Elizabeth Bixler Torrey (1899-1976), B.N. 1927, M.A. (Hon.) 1944",
   "creators": "Artist: Deane Keller (American, 1901–1992, B.A. 1923, B.F.A. 1925, M.A. (Hon.) 1948)",
+  "creator_names": "Deane Keller",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/41cae94a-40d3-4f0e-9635-223bac05c3ca",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1958",
@@ -102,9 +111,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:58:53Z",
+  "harvested_at": "2026-10-26T17:37:11Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/41cae94a-40d3-4f0e-9635-223bac05c3ca",
@@ -119,6 +129,8 @@
     "upper left:  \"Deane / Keller / 1958\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -129,10 +141,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1978.21",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 23336",
   "title": "Abraham S. Goldstein (1925-2005), M. A. (Hon.) 1961",
   "creators": "Artist: Birney Lettick (American, 1919–1986, B.F.A. 1942)",
+  "creator_names": "Birney Lettick",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/3fea6ea1-796d-4cec-95bf-2539d81df624",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1977",
@@ -165,9 +180,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:58:57Z",
+  "harvested_at": "2026-10-26T17:37:17Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/3fea6ea1-796d-4cec-95bf-2539d81df624",
@@ -182,6 +198,8 @@
     "lower left: \"Lettick '77\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -192,10 +210,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC2024.3",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 332853",
   "title": "Yung Wing  (1828-1912), B.A. 1854, LL.D. (Hon.) 1876",
   "creators": "Artist: Zhou Guosen (Chinese, born 1968)",
+  "creator_names": "Zhou Guosen",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/d0799059-133a-5250-a298-5da91d315663",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "2004",
@@ -228,9 +249,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:59:04Z",
+  "harvested_at": "2026-10-26T17:37:23Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/d0799059-133a-5250-a298-5da91d315663",
@@ -241,6 +263,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -251,10 +275,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC2024.17",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 332903",
   "title": "Hanna Holborn Gray, Yale Provost 1974-1978, Yale President 1977-1978",
   "creators": "Artist: Richard Whitney (American, born 1946)",
+  "creator_names": "Richard Whitney",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/04b66e12-c59e-495c-9321-d80d1c59f64f",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "2006",
@@ -287,9 +314,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:59:09Z",
+  "harvested_at": "2026-10-26T17:37:29Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/04b66e12-c59e-495c-9321-d80d1c59f64f",
@@ -300,6 +328,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -310,10 +340,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1961.58",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 53034",
   "title": "Portrait of John Farquhar Fulton (1899-1960), M.A. (Hon.) 1929",
   "creators": "Artist: Sir Gerald Festus Kelly (British, 1879–1972)",
+  "creator_names": "Gerald Festus Kelly",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/733adf21-dcd0-498d-86ca-f495642dfdbf",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "n.d.",
@@ -346,9 +379,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:59:16Z",
+  "harvested_at": "2026-10-26T17:37:35Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/733adf21-dcd0-498d-86ca-f495642dfdbf",
@@ -366,6 +400,8 @@
     "Kelly, Sir Gerald Festus    1879-"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -376,10 +412,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1885.2",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 427 | Accession Number: 1885.2",
   "title": "Joseph Earl Sheffield (1793-1882), M.A.(Hon.)1871",
   "creators": "Artist: Harry Ives Thompson (American, 1840–1906)",
+  "creator_names": "Harry Ives Thompson",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/ba26254b-0a7f-4460-b2e7-71a313be2440",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1885",
@@ -412,9 +451,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:59:19Z",
+  "harvested_at": "2026-10-26T17:37:41Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/ba26254b-0a7f-4460-b2e7-71a313be2440",
@@ -434,6 +474,8 @@
     "Signed LL:  \"H I Thompson/'85\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -444,10 +486,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1960.16",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 51674",
   "title": "William Dean Embree (1880-1966), B.A.1902, LL. B.1905, M.A.1910",
   "creators": "Artist: Raymond Perry Rogers Neilson (American, 1881–1964)",
+  "creator_names": "Raymond Perry Rogers Neilson",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/2cbc122f-ede8-497c-988f-14a1c639efc8",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1960",
@@ -480,9 +525,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:59:23Z",
+  "harvested_at": "2026-10-26T17:37:47Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/2cbc122f-ede8-497c-988f-14a1c639efc8",
@@ -497,6 +543,8 @@
     "signed lower left: \"Raymond P.R. Neilson, N.A.\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -507,10 +555,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1931.104",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 4692 | Accession Number: 1931.104",
   "title": "Anna Maria Richardson Harkness (1837–1926)",
   "creators": "Artist: Albert Herter (American, 1871–1950)",
+  "creator_names": "Albert Herter",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/05d718e6-9ec9-480e-bbed-dd67bd0c43ec",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "20th century",
@@ -543,9 +594,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:59:26Z",
+  "harvested_at": "2026-10-26T17:37:53Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/05d718e6-9ec9-480e-bbed-dd67bd0c43ec",
@@ -558,6 +610,8 @@
    "Mrs. Stephen Vanderburg Harkness (Anna Maria Richardson) (1837-1926) (After Benjamin Curtis Porter)"
   ],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -568,10 +622,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1936.112",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 35385",
   "title": "Henry Wade Rogers (1853-1926), M.A. (Hon.) 1907",
   "creators": "Artist: Eben Farrington Comins (American, 1875–1949)",
+  "creator_names": "Eben Farrington Comins",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/00bf361a-f7aa-4d85-b8ba-a3d265bb50e1",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1936",
@@ -604,9 +661,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:59:30Z",
+  "harvested_at": "2026-10-26T17:37:59Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/00bf361a-f7aa-4d85-b8ba-a3d265bb50e1",
@@ -621,6 +679,8 @@
     "signed lower center: \"Comins/1936\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -631,10 +691,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1950.154",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 48127 | Accession Number: 1950.154",
   "title": "William Orville Douglas (1898-1977), M.A. (Hon.) 1932",
   "creators": "Artist: Devon Meade (American, 1925–1992)",
+  "creator_names": "Devon Meade",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/e7d85d18-eea7-4751-acda-21727c325416",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1950",
@@ -667,9 +730,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:59:33Z",
+  "harvested_at": "2026-10-26T17:38:06Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/e7d85d18-eea7-4751-acda-21727c325416",
@@ -686,6 +750,8 @@
     "Signed LL: \"Meade\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -696,10 +762,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1876.5",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 392",
   "title": "Thomas Burr Osborne (1798-1869), B. A. 1817",
   "creators": "Artist: Jeannette Shepherd Harrison Loop (American, 1840–1909)",
+  "creator_names": "Jeannette Shepherd Harrison Loop",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/feaa8c10-2cb0-4d86-a0e2-28c24023ec15",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1874",
@@ -732,9 +801,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:59:35Z",
+  "harvested_at": "2026-10-26T17:38:12Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/feaa8c10-2cb0-4d86-a0e2-28c24023ec15",
@@ -752,6 +822,8 @@
     "Signed lower right: J. S. H. Loop/-74"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -762,10 +834,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1960.14",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 51666",
   "title": "Dean Liston Pope",
   "creators": "Artist: Mark Potter (American, 1929–1995)",
+  "creator_names": "Mark Potter",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/c5c59f8d-8f81-4e6d-8801-49dc845b7530",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1960",
@@ -798,9 +873,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:59:37Z",
+  "harvested_at": "2026-10-26T17:38:18Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/c5c59f8d-8f81-4e6d-8801-49dc845b7530",
@@ -815,6 +891,8 @@
     "signed lower right: \"M. Potter '60\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -825,10 +903,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1945.244",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 44984",
   "title": "Henry Emerson Tuttle (1890-1946), B.A. 1914, M.A. (Hon.) 1930",
   "creators": "Artist: Eugene Edward Speicher (American, 1883–1962)",
+  "creator_names": "Eugene Edward Speicher",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/8382800c-c7d1-4007-b7aa-4b643418f663",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1945",
@@ -861,9 +942,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:59:41Z",
+  "harvested_at": "2026-10-26T17:38:24Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/8382800c-c7d1-4007-b7aa-4b643418f663",
@@ -881,6 +963,8 @@
     "Signed UR:  \"Eugene Speicher/1945\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -891,10 +975,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1944.50",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 43735",
   "title": "John Aaron Hoober (1867-1950) LL.B. 1891, LL.M. 1892, D.C.L. 1893",
   "creators": "Artist: Cameron Burnside (American, 1887–1952)",
+  "creator_names": "Cameron Burnside",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/a24c7187-d40b-4c83-be35-679ac0588e7c",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1944",
@@ -927,9 +1014,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:59:44Z",
+  "harvested_at": "2026-10-26T17:38:30Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/a24c7187-d40b-4c83-be35-679ac0588e7c",
@@ -944,6 +1032,8 @@
     "signed lower left:  \"Cameron Burnside, 1944\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -954,10 +1044,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1929.40",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 3540",
   "title": "Dotha Woodward DeForest (1786–1847)",
   "creators": "Artist: Samuel Lovett Waldo (American, 1783–1861) | Artist: William Jewett (American, 1792–1874)",
+  "creator_names": "Samuel Lovett Waldo | William Jewett",
   "creator_roles": "Artist | Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/ec6ffb7c-376e-4cba-8b96-948c8f3e35c4 | https://lux.collections.yale.edu/data/person/a3e5360d-4232-47cb-b3de-086737cd6771",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1838",
@@ -990,9 +1083,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:59:47Z",
+  "harvested_at": "2026-10-26T17:38:38Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/ec6ffb7c-376e-4cba-8b96-948c8f3e35c4",
@@ -1008,6 +1102,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1018,10 +1114,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1924.11",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 2545 | Accession Number: 1924.11",
   "title": "George Trumbull Ladd (1842-1921), M.A. (Hon.) 1881",
   "creators": "Artist: John Ferguson Weir (American, 1841–1926, M.A. (Hon.) 1871)",
+  "creator_names": "John Ferguson Weir",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/b42fa5b3-6a68-458d-bb1f-8ce272d37161",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1903",
@@ -1054,9 +1153,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:59:50Z",
+  "harvested_at": "2026-10-26T17:38:44Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/b42fa5b3-6a68-458d-bb1f-8ce272d37161",
@@ -1076,6 +1176,8 @@
     "signed upper right:  \"John F. Weir./ ' 03.\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1086,10 +1188,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1875.1",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 383",
   "title": "Theodore Dwight Woolsey (1801-1899), B.A.1820, M.A.1823",
   "creators": "Artist: Ulysses Dow Tenney (American, 1826–1908)",
+  "creator_names": "Ulysses Dow Tenney",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/f7433da3-d933-4258-9f4b-4845d6bb9d37",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1875",
@@ -1122,9 +1227,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:59:55Z",
+  "harvested_at": "2026-10-26T17:38:50Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/f7433da3-d933-4258-9f4b-4845d6bb9d37",
@@ -1139,6 +1245,8 @@
     "Signed LR: \"U. D. Tenney 1875/after/G. A. Baker, 1871\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1149,10 +1257,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1935.157",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 34745",
   "title": "Timothy Dwight (1828-1916), B.A. 1849, M.A. 1852, D.D. 1886",
   "creators": "Artist: Deane Keller (American, 1901–1992, B.A. 1923, B.F.A. 1925, M.A. (Hon.) 1948)",
+  "creator_names": "Deane Keller",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/41cae94a-40d3-4f0e-9635-223bac05c3ca",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1935",
@@ -1185,9 +1296,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:59:57Z",
+  "harvested_at": "2026-10-26T17:38:54Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/41cae94a-40d3-4f0e-9635-223bac05c3ca",
@@ -1198,6 +1310,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1208,10 +1322,13 @@
   "department": "Campus Art Collection",
   "accession_number": "CAC1961.7",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 51058",
   "title": "Wesley Alba Sturges (1893-1962), J. D. 1923",
   "creators": "Artist: William Franklin Draper (American, 1912–2003)",
+  "creator_names": "William F. Draper",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/969222bd-7073-4519-9857-990b7eab72e5",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1960",
@@ -1244,9 +1361,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T22:00:00Z",
+  "harvested_at": "2026-10-26T17:39:02Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/969222bd-7073-4519-9857-990b7eab72e5",
@@ -1261,6 +1379,8 @@
     "signed lower right:  \"Wm. F. Draper/November 1960\"; lower left:  \"WESELY ALBA STURGES / DEAN, YALE LAW SCHOOL 1945-1954 / PROFESSOR OF LAW 1924-1961\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  }
 ]

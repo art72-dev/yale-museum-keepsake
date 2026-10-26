@@ -1,4 +1,4 @@
-# LUX data report: Step 1 (samples, before the full harvest)
+# LUX data report: Problem 2 (samples, before the full harvest)
 
 _Checked against LUX on 2026-10-24. Detailed tables: `output/lux_report_samples.md`. Script: `harvest/lux_harvest.py`._
 
@@ -114,7 +114,7 @@ LUX doesn't list museums. It has **9 holding units**, from its *Responsible Unit
 9. **Archive items have no accession number.** Dura-Europos and Gerasa photos and plans carry only system-assigned numbers (e.g. "DA4973"). These go to `other_identifiers`, and `accession_number` stays empty.
 10. **Cultural sensitivity.** The Peabody's Anthropology collection (304,788 objects) may include sacred objects or human remains covered by NAGPRA. We should decide whether the app shows these.
 11. **Big manifests.** Library and Elizabethan books carry one image per page, up to 932. The harvester uses the first image (often the cover) and records `image_count`.
-12. **Rate limiting.** After roughly 1,000 requests in an hour, nearly all at 1 per second plus a few manual checks, LUX's CloudFront began answering **HTTP 403 to every request from this address**. It was still blocked 75 minutes later. The image and manifest servers were not affected. The harvester now pauses 5, 15 and 30 minutes and slows down on a 403, then stops cleanly. Nine museums' samples are on the first version of the mapping until LUX lets us back in (section 2 of `lux_report_samples.md`).
+12. **Rate limiting.** After roughly 1,000 requests in an hour, nearly all at 1 per second plus a few manual checks, LUX's CloudFront began answering **HTTP 403 to every request from this address**. It was still blocked 75 minutes later. The image and manifest servers were not affected. The harvester now pauses 5, 15 and 30 minutes and slows down on a 403, then stops cleanly. Nine museums' samples are on the first version of the mapping until LUX lets us back in (section 2 of `lux_report_samples.md`). **Update (2026-10-26):** LUX answered again at 1:24 PM, about 43 hours after the block began. `sample --resume` then brought all samples to the current mapping by 1:43 PM.
 
 ## 6. Full harvest: options (needs your approval)
 
@@ -130,6 +130,8 @@ Each object costs 2 requests (the record and its IIIF manifest). Library items c
 **Why A:** a visitor can only save what is in front of them, and that's what's on view. Option A is small enough to refresh every month as galleries rotate. Anything else a visitor wants can be fetched live from LUX when they save it, at 2 requests per object. That's an app decision for a later step.
 
 **Status (2026-10-25):** option A **approved**, to run at 1 request every 2 seconds after the samples are finished. LUX was still answering 403 at 12:38 on Oct 25, about 18 hours after the block began. `harvest/run_option_a.sh` is running. It checks LUX every 15 minutes, starts the moment LUX answers, and logs to `data/lux/full/option_a.log`.
+
+**Status (2026-10-26):** LUX answered again at 1:24 PM. The samples were finished with the current mapping (same 160 objects in the app, same 119 printable images), and the option A harvest started at 1:43 PM at 1 request every 2 seconds. It takes about 10 hours, so it finishes after the October 26 deadline.
 
 **Rate:** LUX blocked us at about 1 request per second (section 5, item 12). For the full run I suggest **1 request every 2 seconds**, which takes option A to about **10 hours**. It can run overnight, and it resumes if LUX blocks us again.
 

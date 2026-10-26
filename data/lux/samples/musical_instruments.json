@@ -7,10 +7,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "3275.2010",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 326557",
   "title": "Flute",
   "creators": "Maker: (Made by) Firth, Pond & Co. (New York, founded 1847)",
+  "creator_names": "Firth, Pond & Co.",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/group/4e84b195-f042-4f34-ab6a-7796194e4eb6",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "mid-19th century",
@@ -43,9 +46,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:56:23Z",
+  "harvested_at": "2026-10-26T17:32:36Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/group/4e84b195-f042-4f34-ab6a-7796194e4eb6",
@@ -60,6 +64,8 @@
     "Stamped on center joint:  \"FIRTH POND & CO / FRANKLIN SQE / N-YORK / GERMAN SILVER\"."
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -70,10 +76,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "3689.2010",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 326549",
   "title": "Sousaphone",
   "creators": "Maker: (Made by) J. W. York & Sons (American)",
+  "creator_names": "J. W. York & Sons",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/group/a5a90623-3c16-470c-be9c-710131a71f54",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "ca. 1934",
@@ -106,9 +115,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:56:25Z",
+  "harvested_at": "2026-10-26T17:32:42Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/group/a5a90623-3c16-470c-be9c-710131a71f54",
@@ -119,6 +129,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -129,10 +141,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "3425.2002",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 325908",
   "title": "Oboe",
   "creators": "Maker: (Made by) Thomas Cahusac Sr. (English)",
+  "creator_names": "Thomas Cahusac",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/0a7ce40a-000d-4be2-b08f-ec34ca266172",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "ca. 1750",
@@ -165,9 +180,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:56:28Z",
+  "harvested_at": "2026-10-26T17:32:48Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/0a7ce40a-000d-4be2-b08f-ec34ca266172",
@@ -178,6 +194,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -188,10 +206,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "4852.1981",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 326409",
   "title": "Harp zither",
   "creators": "Maker: Unknown",
+  "creator_names": "Unknown",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "Undated",
@@ -224,9 +245,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:56:30Z",
+  "harvested_at": "2026-10-26T17:32:52Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -237,6 +259,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -247,10 +271,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "5009.1971",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 326497",
   "title": "Violin bow",
   "creators": "Maker: (Made by) Hermann Richard Pfretzschner (German)",
+  "creator_names": "Hermann Richard Pfretzschner",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/c16197ee-2ee0-4f26-988a-f0d1d3c0976a",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "ca. 1890",
@@ -283,9 +310,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:56:33Z",
+  "harvested_at": "2026-10-26T17:32:58Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/c16197ee-2ee0-4f26-988a-f0d1d3c0976a",
@@ -300,6 +328,8 @@
     "Engraved on metal ferrell on stick: \"TARTINI PATENT ANGEM\"."
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -310,10 +340,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "4719.1962",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 326247",
   "title": "Violin, 1/2 size",
   "creators": "Maker: (Made by) Gennaro Gagliano (Italian)",
+  "creator_names": "Gennaro Gagliano",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/1b8784aa-0dd9-4c74-8f7b-dcbeec7ceb3f",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "ca. 1760",
@@ -346,9 +379,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:56:36Z",
+  "harvested_at": "2026-10-26T17:33:05Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/1b8784aa-0dd9-4c74-8f7b-dcbeec7ceb3f",
@@ -363,6 +397,8 @@
     "Herrmann Collection number stamped onto the inside of the pegbox: \"2224\"; insignia stamped onto the lower bout across the back joint, near the end: \"[illegible] C. P.\"."
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -373,10 +409,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "1089.1972",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 326072",
   "title": "Altar bell",
   "creators": "Maker: Unknown",
+  "creator_names": "Unknown",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "Undated",
@@ -409,9 +448,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:56:39Z",
+  "harvested_at": "2026-10-26T17:33:08Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -422,6 +462,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -432,10 +474,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "3258.1954",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 325829",
   "title": "Flute",
   "creators": "Maker: (Made by) Chabrier Peloubet (American, 1806 - 1885)",
+  "creator_names": "Chabrier Peloubet",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/930ca7e0-ef81-436d-bd10-a20d88118df4",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "ca. 1840",
@@ -468,9 +513,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:56:42Z",
+  "harvested_at": "2026-10-26T17:33:15Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/930ca7e0-ef81-436d-bd10-a20d88118df4",
@@ -485,6 +531,8 @@
     "Stamped on barrel of head and lower middle joints: \"C. PELOUBET / NEW YORK\"; stamped on upper middle joint: \"607 / C. PELOUBLET / NEW YORK\"; stamped on foot joint: \"C. PELOUBET / NEW YORK / FACTORY AT / BLOOMFIELD\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -495,10 +543,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "4405.1985",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 326365",
   "title": "Sanxian",
   "creators": "Maker: (Made by) Unknown",
+  "creator_names": "Unknown",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "Undated",
@@ -531,9 +582,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:56:47Z",
+  "harvested_at": "2026-10-26T17:33:18Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -544,6 +596,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -554,10 +608,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "4760.1974",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 326285",
   "title": "Violin, 1/16 size",
   "creators": "Maker: (Made by) Mathias Neüner (German)",
+  "creator_names": "Mathias Neüner",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/8328d690-df24-4858-8188-a81bb14a9c93",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1862",
@@ -590,9 +647,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:56:52Z",
+  "harvested_at": "2026-10-26T17:33:25Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/8328d690-df24-4858-8188-a81bb14a9c93",
@@ -607,6 +665,8 @@
     "Label reads: \"Mathias Neüner, Geigenma- / cher in Mittenwald. 1862\"."
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -617,10 +677,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "4954.1989",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 326394",
   "title": "Clavichord",
   "creators": "Maker: (Made by) Chickering & Sons (American)",
+  "creator_names": "Chickering & Sons",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/group/f3ab6b50-52e5-401e-918d-a7a8a2bd71d7",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1906",
@@ -653,9 +716,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:56:56Z",
+  "harvested_at": "2026-10-26T17:33:31Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/group/f3ab6b50-52e5-401e-918d-a7a8a2bd71d7",
@@ -670,6 +734,8 @@
     "Painted on the nameboard: “CHICKERING • & • SONS • BOSTON • V • S • A • MCMVI • No 1 ”; inscribed in ink on rear left corner of the soundboard: “Made by Chickering & Sons / under the direction of / Arnold Dolmetsch / Boston USA / MCMVI / no. 1”; inscribed on interior of the lid in gilt lettering surrounded by a broad gilt band: “MUSICA MAGNORUM, SOLAMEN EST DULCE LABORUM”."
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -680,10 +746,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "1066.1972",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 326049",
   "title": "Temple bell",
   "creators": "Maker: Unknown",
+  "creator_names": "Unknown",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "Undated",
@@ -716,9 +785,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:57:00Z",
+  "harvested_at": "2026-10-26T17:33:34Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -729,6 +799,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -739,10 +811,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "3281.1967",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 325845",
   "title": "Flute, left-handed",
   "creators": "Maker: (Made by) Alfred G. Badger (American, 1814–1892)",
+  "creator_names": "Alfred G. Badger",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/b0dfe69e-0541-422e-b87f-e27066029607",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "ca. 1875",
@@ -775,9 +850,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:57:10Z",
+  "harvested_at": "2026-10-26T17:33:41Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/b0dfe69e-0541-422e-b87f-e27066029607",
@@ -792,6 +868,8 @@
     "Inscribed on gold plate surrounded by an engraved vine pattern: \"A.G. BADGER / NEW YORK\"."
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -802,10 +880,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "4925.1947",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 326436",
   "title": "Yang qin",
   "creators": "Maker: Unknown",
+  "creator_names": "Unknown",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "early 20th century",
@@ -838,9 +919,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:57:13Z",
+  "harvested_at": "2026-10-26T17:33:44Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -855,6 +937,8 @@
     "Inscribed with Chinese characters; inscribed: \"471\"."
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -865,10 +949,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "3509.1973",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 325933",
   "title": "Sheng",
   "creators": "Maker: Unknown",
+  "creator_names": "Unknown",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "mid-20th century",
@@ -901,9 +988,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:57:19Z",
+  "harvested_at": "2026-10-26T17:33:48Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -914,6 +1002,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -924,10 +1014,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "4824.1977",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 326304",
   "title": "Violoncello",
   "creators": "Maker: (Made by) Barak Norman (English)",
+  "creator_names": "Barak Norman",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/ac9f90d9-bbac-4d8f-8e82-b0210c252ccc",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1705",
@@ -960,9 +1053,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:57:23Z",
+  "harvested_at": "2026-10-26T17:33:55Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/ac9f90d9-bbac-4d8f-8e82-b0210c252ccc",
@@ -977,6 +1071,8 @@
     "Label surrounded by a garland reads: \"Barak Norman / at the Bass Violin / St. Pauls Church=y : / London Fecit\"."
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -987,10 +1083,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "4735.1962",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 326261",
   "title": "Violin",
   "creators": "Maker: (Made by) Giovanni Battista Zanoli (Italian)",
+  "creator_names": "Giovanni Battista Zanoli",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/830f532b-3062-4f0c-ae8f-b0f2854dbed5",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1745",
@@ -1023,9 +1122,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:57:27Z",
+  "harvested_at": "2026-10-26T17:34:02Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/830f532b-3062-4f0c-ae8f-b0f2854dbed5",
@@ -1040,6 +1140,8 @@
     "Printed label (last digit handwritten) reads: \"Fato in Verona / di Giacomo Zanoli / 1851\"."
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1050,10 +1152,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "4253.1960",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 325999",
   "title": "Harp",
   "creators": "Maker: (Made by) John Egan (Irish)",
+  "creator_names": "John Egan",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/edff341b-8d54-4ef3-bd3d-9205e2639642",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "ca. 1835",
@@ -1086,9 +1191,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:57:29Z",
+  "harvested_at": "2026-10-26T17:34:07Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/edff341b-8d54-4ef3-bd3d-9205e2639642",
@@ -1103,6 +1209,8 @@
     "Engraved on brass plate: \"No. 192C  / J. Egan - 30 Dawson Street, Dublin / Harp maker by special appointment to his most gracious majesty / William IVth & the Royal Family\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1113,10 +1221,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "3271.1950",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 325840",
   "title": "Flute",
   "creators": "Maker: (Made by) Heinrich Friedrich Meyer (German)",
+  "creator_names": "Heinrich Friedrich Meyer",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/84366326-2fff-4da1-a352-adb45fb4c6a3",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "Undated",
@@ -1149,9 +1260,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:57:32Z",
+  "harvested_at": "2026-10-26T17:34:13Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/84366326-2fff-4da1-a352-adb45fb4c6a3",
@@ -1166,6 +1278,8 @@
     "Stamped on barrel: (crown) / H.F. MEYER / HANOVER\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1176,10 +1290,13 @@
   "department": "Morris Steinert Collection of Musical Instruments",
   "accession_number": "1219.1972",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 326195",
   "title": "Pellet bell",
   "creators": "Maker: Unknown",
+  "creator_names": "Unknown",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "Undated",
@@ -1212,9 +1329,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:57:35Z",
+  "harvested_at": "2026-10-26T17:34:16Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -1225,6 +1343,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  }
 ]

@@ -7,10 +7,13 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz 294",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22861355430008651",
   "title": "Tragedie called Oedipus, [circa 1596-1603].",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -43,16 +46,41 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:57:43Z",
+  "harvested_at": "2026-10-26T17:34:32Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
   "_statements": {
    "Provenance Statement": [
     "Ex libris John, Lord Perceval, Earl of Egmont. Formerly owned by James Stevens Cox. Purchased by the Elizabethan Club (Yale University), 2010."
+   ],
+   "Linked work: provenance description": [
+    "Perceval, John, Earl, 1683-1748 Bookplate.",
+    "Stevens-Cox, James Ownership."
+   ],
+   "Linked work: Language Statement": [
+    "In English."
+   ],
+   "Linked work: Note": [
+    "Title on front cover: Oedpius with a song.",
+    "Watermark similar to Briquet 11046.",
+    "Binding: contemporary full parchment."
+   ],
+   "Linked work: Abstract": [
+    "Manuscript on paper, in a single secretary hand, corrected, containing the text of a school drama on the life of Oedipus. The text, mainly in fourteener couplets, draws heavily on Alexander Neville's verse translation of Seneca's Oedipus (1581), and also contains extracts from Thomas Newton's Thebais (1581). The original scenes show the influence of other contemporary verse, including Lyly's Euphues and the fifth book of Spenser's Faerie Queene (1596). The work was apparently intended for performance by the pupils of a grammar school, probably the Royal Free Grammar School at Newcastle upon Tyne.",
+    "The final two leaves of the volume contain \"A speach deliverd before the founders at the entrance of the schole,\" in the same hand. The speech refers to the Selby family (George Selby was elected Mayor of Newcastle upon Tyne in 1600)."
+   ],
+   "Linked work: Preferred Citation Note": [
+    "Tragedie called Oedipus. Elizabethan Club, Yale University."
    ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/dc1d4390-855a-4e28-ae9e-cae6f87c2180",
+  "_manifest_notes": {
+   "Abstract": "Manuscript on paper, in a single secretary hand, corrected, containing the text of a school drama on the life of Oedipus. The text, mainly in fourteener couplets, draws heavily on Alexander Neville's verse translation of Seneca's Oedipus (1581), and also contains extracts from Thomas Newton's Thebais (1581). The original scenes show the influence of other contemporary verse, including Lyly's Euphues and the fifth book of Spenser's Faerie Queene (1596). The work was apparently intended for performance by the pupils of a grammar school, probably the Royal Free Grammar School at Newcastle upon Tyne The final two leaves of the volume contain \"A speach deliverd before the founders at the entrance of the schole,\" in the same hand. The speech refers to the Selby family (George Selby was elected Mayor of Newcastle upon Tyne in 1600).",
+   "Description": "In English. Title on front cover: Oedpius with a song. Watermark similar to Briquet 11046. Binding: contemporary full parchment."
   },
   "sample_scope": "images"
  },
@@ -64,16 +92,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz 188",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22776003400008651",
   "title": "The late, and much admired play, called Pericles, Prince of Tyre. With the true relation of the whole history, aduentures, and fortunes of the said prince: as also, the no lesse strange, and worthy accidents, in the birth and life, of his daughter Mariana. As it hath been dieuers and sundry times acted by his maiesties seruants, at the Globe on the Banck-side",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Shakespeare, William, 1564-1616",
+  "creator_names": "William Shakespeare",
+  "creator_roles": "Creator",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "1609.",
+  "date_earliest_year": "1609",
+  "date_latest_year": "1609",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -100,15 +131,44 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:57:46Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:34:41Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+    "label": "Shakespeare, William, 1564-1616",
+    "role": "Creator"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "late, and much admired play, called Pericles, Prince of Tyre. With the true relation of the whole history, aduentures, and fortunes of the said prince: as also, the no lesse strange, and worthy accidents, in the birth and life, of his daughter Mariana. As it hath been dieuers and sundry times acted by his maiesties seruants, at the Globe on the Banck-side"
   ],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Lewis Binding",
+    "Daniel, George, 1789-1864 Binding",
+    "Squyer, Scipio Autograph, 1609.",
+    "Huth, Henry, 1815-1878 Bookplate.",
+    "Cochran, Alexander Smith, 1874-1929 Ownership."
+   ],
+   "Linked work: Note": [
+    "Eliz 188:  Bound by Lewis in brown goatskin, gold tooling on cover and spine, gilt edges; initials of George Daniel on upper side of the cover. Sold with Daniel's books on Sotheby's, 26 July 1864, lot 1438. Signature of Scipio Squyer, and dated 5 May 160[9] on the title page. The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911.",
+    "The first edition."
+   ],
+   "Linked work: Attribution Statement": [
+    "By William Shakespeare."
+   ],
+   "Linked work: Imprint Statement": [
+    "Imprinted at London for Henry Gosson, and are to be sold at the signe of the Sunne in Pater-noster Row, &c. 1609."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/714580e0-f3c2-4f6d-8d80-bc086dcf30f0",
+  "_manifest_notes": {
+   "Description": "Eliz 188:  Bound by Lewis in brown goatskin, gold tooling on cover and spine, gilt edges; initials of George Daniel on upper side of the cover. Sold with Daniel's books on Sotheby's, 26 July 1864, lot 1438. Signature of Scipio Squyer, and dated 5 May 160[9] on the title page. The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911. The first edition."
+  },
   "sample_scope": "images"
  },
  {
@@ -119,16 +179,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz +32",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22774923110008651",
   "title": "Mr. William Shakespear's comedies, histories, and tragedies, published according to the true original copies. Unto which is added, seven plays never before printed in folio ...",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Shakespeare, William, 1564-1616",
+  "creator_names": "William Shakespeare",
+  "creator_roles": "Creator",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "1685.",
+  "date_earliest_year": "1685",
+  "date_latest_year": "1685",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -155,13 +218,43 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:57:50Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:34:47Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+    "label": "Shakespeare, William, 1564-1616",
+    "role": "Creator"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Brooke, Thomas, Sir, 1830-1908 Bookplate.",
+    "Huth, Henry, 1815-1878 Bookplate.",
+    "Cochran, Alexander Smith, 1874-1929 Bookplate.",
+    "Riviere Binding."
+   ],
+   "Linked work: Note": [
+    "BEIN 1978 +82:  This copy agrees with the description given by A. W. Pollard's Shakespeare folios and quartos. London, 1909, except that the misprint in the 1st pagination p.33 is correct, and p.67 in the 3d pagination also is correct.",
+    "BEIN 1978 +82: Bookplate of Thomas Brooke.",
+    "BEIN Eliz +32 copy 1: Huth copy with bookplate acquired by Alexander Cochran before the Huth sale.",
+    "BEIN Eliz +32 copy 2: Bound by Rivière in maroon goatskin, gold tooling on cover and spine, gilt edges. A number of leaves have been skilfully  remargined. Provenance not traced."
+   ],
+   "Linked work: Edition Statement": [
+    "The fourth edition."
+   ],
+   "Linked work: Imprint Statement": [
+    "London : Printed for H. Herringman, E. Brewster,and R. Bentley, at the Anchor in the New Exchange, and at the Crane in St. Pauls Church-Yard, and in Russel-Street Covent-Garden, 1685."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/06839796-d369-4ad2-9a08-cf61b3f38dc2",
+  "_manifest_notes": {
+   "Description": "BEIN 1978 +82:  This copy agrees with the description given by A. W. Pollard's Shakespeare folios and quartos. London, 1909, except that the misprint in the 1st pagination p.33 is correct, and p.67 in the 3d pagination also is correct. BEIN 1978 +82: Bookplate of Thomas Brooke. BEIN Eliz +32 copy 1: Huth copy with bookplate acquired by Alexander Cochran before the Huth sale. BEIN Eliz +32 copy 2: Bound by Rivière in maroon goatskin, gold tooling on cover and spine, gilt edges. A number of leaves have been skilfully  remargined. Provenance not traced."
+  },
   "sample_scope": "images"
  },
  {
@@ -172,16 +265,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz Vault",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22623953420008651",
   "title": "Elizabetha Anglo[rum], id est a intore Angelo[rum] Regina fformosissima & felicissima. Too the disconsolate & retyred spryte, the hermyte of Tybolles. ...: manuscript on vellum",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Elizabeth I, Queen of England, 1533-1603 | Hilliard, Nicholas",
+  "creator_names": "Elizabeth I | Nicholas Hilliard",
+  "creator_roles": "Creator | Contributor",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/41917446-1969-49d8-b7de-ee4bc71cbf3d | https://lux.collections.yale.edu/data/person/652c898e-105f-4b5f-a200-a24dacb90efb",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "1591 May 10",
+  "date_earliest_year": "1591",
+  "date_latest_year": "1591",
+  "date_kind": "from the image record",
   "object_type": "Manuscript",
   "classification": "",
   "medium": "",
@@ -208,13 +304,47 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:57:54Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:34:57Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/41917446-1969-49d8-b7de-ee4bc71cbf3d",
+    "label": "Elizabeth I, Queen of England, 1533-1603",
+    "role": "Creator"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/652c898e-105f-4b5f-a200-a24dacb90efb",
+    "label": "Hilliard, Nicholas",
+    "role": "Contributor"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Marbury, P. Autograph.",
+    "Hatton, Christopher, Sir Autograph."
+   ],
+   "Linked work: Attribution Statement": [
+    "written in a fine professional Chancery hand, elaborated with strapwork flourishes, signed at the end \"P. Marbury\" and signed on the verso by the Lord Chancellor, Sir Christopher Hatton, with the pendant second Great Seal of Elizabeth (designed and engraved by Nicholas Hilliard)"
+   ],
+   "Linked work: Note": [
+    "This manuscript, a unique specimen of dramatic composition by Queen Elizabeth, represents the only surviving piece of stage property from the Elizabethan theater. It was passed from player to player during the great Theobalds Entertainment of 1591, and it is the only surviving original manuscript of any part of that Entertainment.",
+    "Elizabeth was entertained by her Lord High Treasurer, Lord Burghley, at his Hertfordshire house, Theobalds, between 10 and 20 May 1591. In a contemporary manuscript text of the entertainments at Theobalds (British Library, Egerton MS. 2623), there is preserved a fanciful speech by a \"Hermit,\" delivered to the Queen on Burghley's behalf, in which, pleading for royal permission to retire from public life, he requests her to restore to him his \"cell,\" namely, Theobalds. The present document was prepared as an answer to Burghley's request and grants the \"Hermit,\" her \"woorthely belooved Coounceloour,\" the right to retire to his \"cave,\" his \"own houus,\" with \"full & pacifik possession of all & every part thearof,\" and to be henceforth free from public duties if he so wishes.",
+    "The text of the \"charter\" was printed in John Strype's Annals of the Reformation (1709), where it is described as having been \"drawn up by the queen herself in a facetious style, to cheer the said treasurer.\" A highly characteristic example of Elizabethan wit, it has the form of a formal charter, certified and signed by Lord Chancellor Hatton, who is known to have taken part in a number of court entertainments. It bears the Great Seal and was no doubt read out and presented to Burghley, or to an actor representing him as a hermit. Instead of giving a simple answer to Burghley's request to retire from public life, Elizabeth evidently chose to enter into the spirit of the Hermit's request and frame her reply accordingly having this charter drawn up by one of her chancery scribes and passed by Hatton under the Great Seal, as part of a prearranged performance for the amusement of the court on the first day of her visit to Theobalds.",
+    "The entertainment at Theobalds are described by E.K. Chambers in The Elizabethan Stage (II:247-248), Sir Walter Greg in the Review of English Studies (I[1924]:452-454), John Payne Collier in his History of English Dramatic Poetry (I:276), Alexander Dyce in The Works of George Peele (III:161-169), and John Nichols in his account of The Progress and Public Processions of Queen Elizabeth (III:74).",
+    "Purchased 1985."
+   ],
+   "Linked work: Imprint Statement": [
+    "1591 May 10"
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/cadd6d3b-d88e-449e-a223-b18f8d8e2a5d",
+  "_manifest_notes": {
+   "Description": "This manuscript, a unique specimen of dramatic composition by Queen Elizabeth, represents the only surviving piece of stage property from the Elizabethan theater. It was passed from player to player during the great Theobalds Entertainment of 1591, and it is the only surviving original manuscript of any part of that Entertainment. Elizabeth was entertained by her Lord High Treasurer, Lord Burghley, at his Hertfordshire house, Theobalds, between 10 and 20 May 1591. In a contemporary manuscript text of the entertainments at Theobalds (British Library, Egerton MS. 2623), there is preserved a fanciful speech by a \"Hermit,\" delivered to the Queen on Burghley's behalf, in which, pleading for royal permission to retire from public life, he requests her to restore to him his \"cell,\" namely, Theobalds. The present document was prepared as an answer to Burghley's request and grants the \"Hermit,\" her \"woorthely belooved Coounceloour,\" the right to retire to his \"cave,\" his \"own houus,\" with \"full & pacifik possession of all & every part thearof,\" and to be henceforth free from public duties if he so wishes. The text of the \"charter\" was printed in John Strype's Annals of the Reformation (1709), where it is described as having been \"drawn up by the queen herself in a facetious style, to cheer the said treasurer.\" A highly characteristic example of Elizabethan wit, it has the form of a formal charter, certified and signed by Lord Chancellor Hatton, who is known to have taken part in a number of court entertainments. It bears the Great Seal and was no doubt read out and presented to Burghley, or to an actor representing him as a hermit. Instead of giving a simple answer to Burghley's request to retire from public life, Elizabeth evidently chose to enter into the spirit of the Hermit's request and frame her reply accordingly having this charter drawn up by one of her chancery scribes and passed by Hatton under the Great Seal, as part of a prearranged performance for the amusement of the court on the first day of her visit to Theobalds. The entertainment at Theobalds are described by E.K. Chambers in The Elizabethan Stage (II:247-248), Sir Walter Greg in the Review of English Studies (I[1924]:452-454), John Payne Collier in his History of English Dramatic Poetry (I:276), Alexander Dyce in The Works of George Peele (III:161-169), and John Nichols in his account of The Progress and Public Processions of Queen Elizabeth (III:74). Purchased 1985."
+  },
   "sample_scope": "images"
  },
  {
@@ -225,16 +355,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz +25",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22761567240008651",
   "title": "The history of the world [in panel below:] At London printed for Walter Bvrre. 1614",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Raleigh, Walter, Sir, 1552?-1618",
+  "creator_names": "Walter Raleigh",
+  "creator_roles": "Creator",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/12769374-13e6-4711-a909-ff32a1bcc845",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
+  "date_display": "M.DC.XXXIV.",
   "date_earliest_year": "",
   "date_latest_year": "",
-  "date_kind": "",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -261,15 +394,38 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:57:58Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:35:05Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/12769374-13e6-4711-a909-ff32a1bcc845",
+    "label": "Raleigh, Walter, Sir, 1552?-1618",
+    "role": "Creator"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "history of the world [in panel below:] At London printed for Walter Bvrre. 1614"
   ],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Hill, Emeline Louise Hurd Autograph, 1922."
+   ],
+   "Linked work: Note": [
+    "Eliz +25:  Bound in contemporary calf, rebacked. First two leaves repaired; damp stains on preliminary leaves. Signature of Emeline Louise Hurd Hill, 25 December 1922, on front flyleaf. Provenance not known.",
+    "Engraved title page without letterpress.",
+    "The fifth edition (first, 1614)."
+   ],
+   "Linked work: Imprint Statement": [
+    "[Colophon:] London, printed for G. Lathum, and R. Young. M.DC.XXXIV."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/08769d15-3feb-4d05-96dc-3022c7f64cb3",
+  "_manifest_notes": {
+   "Description": "Eliz +25:  Bound in contemporary calf, rebacked. First two leaves repaired; damp stains on preliminary leaves. Signature of Emeline Louise Hurd Hill, 25 December 1922, on front flyleaf. Provenance not known. Engraved title page without letterpress. The fifth edition (first, 1614)."
+  },
   "sample_scope": "images"
  },
  {
@@ -280,16 +436,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz +28",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22683977470008651",
   "title": "Mr. William Shakespeares Comedies, histories, & tragedies. Published according to the true originall copies",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Shakespeare, William, 1564-1616",
+  "creator_names": "William Shakespeare",
+  "creator_roles": "Creator",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "1623.",
+  "date_earliest_year": "1623",
+  "date_latest_year": "1623",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -316,13 +475,48 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:58:03Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:35:11Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+    "label": "Shakespeare, William, 1564-1616",
+    "role": "Creator"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Hall, John Bookplate.",
+    "Jennings, Henry Constantine, 1731-1819 Ownership.",
+    "Hibbert, George, 1757-1837 Ownership.",
+    "Wilks, John, 1765?-1854 Ownership.",
+    "Gardner, John Dunn Ownership.",
+    "Huth, Henry, 1815-1878 Bookplate.",
+    "Cochran, Alexander Smith, 1874-1929 Ownership."
+   ],
+   "Linked work: Note": [
+    "BEIN 1978 +83: West 58. Copy as described by A. W. Pollard's Shakespeare folios and quartos. London, 1909, except that signature V is correctly printed, and the order of the preliminary leaves is: 1, 2, 3, 4, 6, 7, 5, 8.",
+    "BEIN 1978 +83: Imperfect: Verses by Ben Jonson inlaid and partially in facsimile, t.-p. in facsimile with portrait from another edition (?), preliminary leaves and final leaf inlaid. Bookplate of John Hall.",
+    "BEIN Eliz +28: West 232. Purchased about 1790 by Henry Constantine Jennings from bookseller Thomas Payne; acquired about 1820 by George Hibbert, at whose sale it was purchased by John Wilks, M.P.; purchased at Wilks sale by John Dunn   Gardner; purchased at Gardner Sale by Henry Huth; acquired before Huth sale by  Alexander S. Cochran.",
+    "Colophon: Printed at the charges of W. Jaggard, Ed. Blount, I. Smithweeke, and W. Aspley, 1623.",
+    "Signatures: A⁶+¹ [B]² A-Bb⁶ Cc² a-g⁶ gg⁸ h-v⁶ x⁴ [*]² [par.]-2[par.]⁶ 3[par.]¹ aa-ff⁶ gg² Gg⁶ hh⁶ kk-bbb⁶."
+   ],
+   "Linked work: Citation": [
+    "West, A.J. Shakespeare first folio, 58",
+    "West, A.J. Shakespeare first folio, 232"
+   ],
+   "Linked work: Imprint Statement": [
+    "London, Printed by Isaac Iaggard, and Ed. Blount, 1623."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/f059321f-5baf-408c-91a1-15e761859a6b",
+  "_manifest_notes": {
+   "Description": "BEIN 1978 +83: West 58. Copy as described by A. W. Pollard's Shakespeare folios and quartos. London, 1909, except that signature V is correctly printed, and the order of the preliminary leaves is: 1, 2, 3, 4, 6, 7, 5, 8. BEIN 1978 +83: Imperfect: Verses by Ben Jonson inlaid and partially in facsimile, t.-p. in facsimile with portrait from another edition (?), preliminary leaves and final leaf inlaid. Bookplate of John Hall. BEIN Eliz +28: West 232. Purchased about 1790 by Henry Constantine Jennings from bookseller Thomas Payne; acquired about 1820 by George Hibbert, at whose sale it was purchased by John Wilks, M.P.; purchased at Wilks sale by John Dunn   Gardner; purchased at Gardner Sale by Henry Huth; acquired before Huth sale by  Alexander S. Cochran. Colophon: Printed at the charges of W. Jaggard, Ed. Blount, I. Smithweeke, and W. Aspley, 1623. Signatures: A⁶+¹ [B]² A-Bb⁶ Cc² a-g⁶ gg⁸ h-v⁶ x⁴ [*]² [par.]-2[par.]⁶ 3[par.]¹ aa-ff⁶ gg² Gg⁶ hh⁶ kk-bbb⁶."
+  },
   "sample_scope": "images"
  },
  {
@@ -333,16 +527,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz 200",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22776027710008651",
   "title": "The whole contention betweene the two famous houses, Lancaster and Yorke. With the tragicall ends of the good Duke Humfrey, Richard Duke of Yorke, and King Henrie the sixt. Diuided into two parts: and newly corrected and enlarged",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Shakespeare, William, 1564-1616",
+  "creator_names": "William Shakespeare",
+  "creator_roles": "Creator",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "[1619]",
+  "date_earliest_year": "1619",
+  "date_latest_year": "1619",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -369,15 +566,42 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:58:07Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:35:17Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+    "label": "Shakespeare, William, 1564-1616",
+    "role": "Creator"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "whole contention betweene the two famous houses, Lancaster and Yorke. With the tragicall ends of the good Duke Humfrey, Richard Duke of Yorke, and King Henrie the sixt. Diuided into two parts: and newly corrected and enlarged"
   ],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Cochran, Alexander Smith, 1874-1929 Ownership.",
+    "Huth, Henry, 1815-1878 Bookplate."
+   ],
+   "Linked work: Note": [
+    "Eliz 200:  Bound in olive green goatskin, gold tooling with acorns on the cover. This is a style of binding made for John Bellingham Inglis about 1825 (Seymour De Ricci, English Collectors of Books and Manuscripts, pp. 97-98; this copy was lot 94 in the Inglis sale, Sotheby's, 12 April 1826). The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911.",
+    "The third, bad quarto edition (first, 1594).",
+    "These plays are \"bad quarto\" versions of 2 and 3 Henry VI. These are two of ten plays reprinted by William Jaggard in 1619, possibly as part of a collection for which a general title page was never issued."
+   ],
+   "Linked work: Attribution Statement": [
+    "Written by William Shakespeare, Gent."
+   ],
+   "Linked work: Imprint Statement": [
+    "Printed at London, for T.P. [1619]"
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/aed0b449-c2c8-4f6e-a6c0-e1c67d6170e1",
+  "_manifest_notes": {
+   "Description": "Eliz 200:  Bound in olive green goatskin, gold tooling with acorns on the cover. This is a style of binding made for John Bellingham Inglis about 1825 (Seymour De Ricci, English Collectors of Books and Manuscripts, pp. 97-98; this copy was lot 94 in the Inglis sale, Sotheby's, 12 April 1826). The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911. The third, bad quarto edition (first, 1594). These plays are \"bad quarto\" versions of 2 and 3 Henry VI. These are two of ten plays reprinted by William Jaggard in 1619, possibly as part of a collection for which a general title page was never issued."
+  },
   "sample_scope": "images"
  },
  {
@@ -388,16 +612,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz +33",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22776036520008651",
   "title": "The tragedy of King Richard the third. ...",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Shakespeare, William, 1564-1616",
+  "creator_names": "William Shakespeare",
+  "creator_roles": "Creator",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "1597]",
+  "date_earliest_year": "1597",
+  "date_latest_year": "1597",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -424,15 +651,33 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:58:09Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:35:23Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+    "label": "Shakespeare, William, 1564-1616",
+    "role": "Creator"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "tragedy of King Richard the third. ..."
   ],
-  "_statements": {},
+  "_statements": {
+   "Linked work: Note": [
+    "Eliz +33:  A fragment only, consisting of four half sheets, uncut and unsewn, as issued, measuring 19.7 by 28.2 cm. Mounted in an album bound in red goatskin, gold tooling on cover and spine. Each leaf bears the British Museum duplicate stamp. Acquired by exchange with the British Museum for the Huth copy, which was complete, November 1911."
+   ],
+   "Linked work: Imprint Statement": [
+    "1597]"
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/b3df607f-b6a0-4f97-a8ae-cc79198ec4f6",
+  "_manifest_notes": {
+   "Description": "Eliz +33:  A fragment only, consisting of four half sheets, uncut and unsewn, as issued, measuring 19.7 by 28.2 cm. Mounted in an album bound in red goatskin, gold tooling on cover and spine. Each leaf bears the British Museum duplicate stamp. Acquired by exchange with the British Museum for the Huth copy, which was complete, November 1911."
+  },
   "sample_scope": "images"
  },
  {
@@ -443,16 +688,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz 180",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22776041610008651",
   "title": "The most excellent historie of the merchant of Venice. With the extreame crueltie of Shylocke the Iewe towards the sayd merchant, in cutting a iust pound of his flesh: and the obtayning of Portia by the choyse of three chests. As it hath been diuers times acted by the lord chamberlaine his seruants",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Shakespeare, William, 1564-1616",
+  "creator_names": "William Shakespeare",
+  "creator_roles": "Creator",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "1600.",
+  "date_earliest_year": "1600",
+  "date_latest_year": "1600",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -479,15 +727,42 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:58:12Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:35:29Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+    "label": "Shakespeare, William, 1564-1616",
+    "role": "Creator"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "most excellent historie of the merchant of Venice. With the extreame crueltie of Shylocke the Iewe towards the sayd merchant, in cutting a iust pound of his flesh: and the obtayning of Portia by the choyse of three chests. As it hath been diuers times acted by the lord chamberlaine his seruants"
   ],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Cochran, Alexander Smith, 1874-1929 Ownership.",
+    "Murton, C. Binding",
+    "Huth, Henry, 1815-1878 MS. note and bookplate."
+   ],
+   "Linked work: Note": [
+    "Eliz 180:  Bound by C. Murton in straight-grain brown goatskin, gold tooling on cover and spine, gilt edges. Manuscript note, probably by Henry Huth, on the front flyleaf. The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911.",
+    "Printed by James Roberts. The first edition."
+   ],
+   "Linked work: Attribution Statement": [
+    "Written by William Shakespeare."
+   ],
+   "Linked work: Imprint Statement": [
+    "At London, printed by I.R. for THomas Heyes, and are to be sold in Paules Churchyard, at the signe of the Greene Dragon. 1600."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/ef077356-a3e6-4cff-a854-f5bc734712a8",
+  "_manifest_notes": {
+   "Description": "Eliz 180:  Bound by C. Murton in straight-grain brown goatskin, gold tooling on cover and spine, gilt edges. Manuscript note, probably by Henry Huth, on the front flyleaf. The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911. Printed by James Roberts. The first edition."
+  },
   "sample_scope": "images"
  },
  {
@@ -498,16 +773,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz 63",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22839584470008651",
   "title": "The whore of Babylon. As it was acted by the princes seruants. ...",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Dekker, Thomas, approximately 1572-1632",
+  "creator_names": "Thomas Dekker",
+  "creator_roles": "Creator",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/ccca206c-58a5-4e06-b1bf-199ceb2d7819",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "1607.",
+  "date_earliest_year": "1607",
+  "date_latest_year": "1607",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -534,15 +812,42 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:58:14Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:35:37Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/ccca206c-58a5-4e06-b1bf-199ceb2d7819",
+    "label": "Dekker, Thomas, approximately 1572-1632",
+    "role": "Creator"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "whore of Babylon. As it was acted by the princes seruants. ..."
   ],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Riviere Binding",
+    "Locker, Frederick Bookplate.",
+    "Cochran, Alexander Smith, 1874-1929 Ownership."
+   ],
+   "Linked work: Note": [
+    "Eliz 62:  Bound by Rivière in red goatskin, gold tooling on cover and spine, gilt edges. The Frederick Locker copy (with bookplate; The Rowfant Library, p. 33), acquired by Mr. Cochran at the dispersal of that library in 1905. Gift of Alexander S. Cochran, December 1911.",
+    "The first edition."
+   ],
+   "Linked work: Attribution Statement": [
+    "Written by Thomas Dekker."
+   ],
+   "Linked work: Imprint Statement": [
+    "London printed for Nathaniel Butter. 1607."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/cc0d8cdb-b7ec-43d7-8923-b0c40b10732c",
+  "_manifest_notes": {
+   "Description": "Eliz 62:  Bound by Rivière in red goatskin, gold tooling on cover and spine, gilt edges. The Frederick Locker copy (with bookplate; The Rowfant Library, p. 33), acquired by Mr. Cochran at the dispersal of that library in 1905. Gift of Alexander S. Cochran, December 1911. The first edition."
+  },
   "sample_scope": "images"
  },
  {
@@ -553,16 +858,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz 282",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22879170400008651",
   "title": "Sekeren brief ghesonden by den doorluchtigen hoochgeborenen Robert Graue van Leycester ... Groot-meester ende Luytenant Generael van de Co. Mat. va[n] Engelants Chrijs-volck herwaerts ouer, Gouverneur ende Capiteyn Generael der vereenichde Prouincien, neffens de Remonstrantie by hem aen den Generalen Staten ghedaen den vij. September, anno, 1587, aenden Hoofden ende Regeerders vande steden der ghevnieerde Prouincien",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "United Provinces of the Netherlands | Leicester, Robert Dudley, Earl of, 1532?-1588 | Canin, Jan, b. 1534",
+  "creator_names": "Dutch Republic | Robert Dudley, 1st Earl of Leicester | Jan Canin",
+  "creator_roles": "Contributor | Creator | printer",
+  "creator_uris": "https://lux.collections.yale.edu/data/group/77a3ea14-7ec1-4e34-9177-f1fb58861c25 | https://lux.collections.yale.edu/data/person/10c2734f-5d21-49c4-a387-6662977724db | https://lux.collections.yale.edu/data/person/8260db92-fd9e-4dc9-a7f6-bf47476b3e6d",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "anno. 1587.",
+  "date_earliest_year": "1587",
+  "date_latest_year": "1587",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -589,13 +897,43 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:58:17Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:35:49Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/group/77a3ea14-7ec1-4e34-9177-f1fb58861c25",
+    "label": "United Provinces of the Netherlands",
+    "role": "Contributor"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/10c2734f-5d21-49c4-a387-6662977724db",
+    "label": "Leicester, Robert Dudley, Earl of, 1532?-1588",
+    "role": "Creator"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/8260db92-fd9e-4dc9-a7f6-bf47476b3e6d",
+    "label": "Canin, Jan, b. 1534",
+    "role": "printer"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: Note": [
+    "Elizabethan Club 282: Imperfect: final blank leaf wanting.",
+    "Signatures: A⁴ (A4 blank).",
+    "Translation of the latter part of Knuttel 783. Remonstrance faite aux Estats generaux ... en la ville de Dordrecht le 6. de septembre 1587. ... Ensemble les lettres ... aux chefs magistrats et colleges des villes desdites Provinces unies. Utrecht, 1587."
+   ],
+   "Linked work: Imprint Statement": [
+    "Tot Dordrecht : By Jan Canin, woonende in de Wynstrate ; anno. 1587."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/79e30f45-a0a0-486c-af8e-05e1d7bf4969",
+  "_manifest_notes": {
+   "Description": "Elizabethan Club 282: Imperfect: final blank leaf wanting. Signatures: A⁴ (A4 blank). Translation of the latter part of Knuttel 783. Remonstrance faite aux Estats generaux ... en la ville de Dordrecht le 6. de septembre 1587. ... Ensemble les lettres ... aux chefs magistrats et colleges des villes desdites Provinces unies. Utrecht, 1587."
+  },
   "sample_scope": "images"
  },
  {
@@ -606,16 +944,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz 204",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22825756310008651",
   "title": "The first part of the true & honorable history, of the life of Sir Iohn Old-castle, the good Lord Cobham. As it hath bene lately acted by the Right honorable the Earle of Notingham Lord High Admirall of England, his seruants",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Shakespeare, William, 1564-1616 | Drayton, Michael, 1563-1631",
+  "creator_names": "William Shakespeare | Michael Drayton",
+  "creator_roles": "Contributor | Contributor",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6 | https://lux.collections.yale.edu/data/person/f3ab6f20-a34f-4768-bd90-17feef81eb7a",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "1600 [i.e. 1619]",
+  "date_earliest_year": "1600",
+  "date_latest_year": "1619",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -642,15 +983,48 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:58:21Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:35:57Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+    "label": "Shakespeare, William, 1564-1616",
+    "role": "Contributor"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/f3ab6f20-a34f-4768-bd90-17feef81eb7a",
+    "label": "Drayton, Michael, 1563-1631",
+    "role": "Contributor"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "first part of the true & honorable history, of the life of Sir Iohn Old-castle, the good Lord Cobham. As it hath bene lately acted by the Right honorable the Earle of Notingham Lord High Admirall of England, his seruants"
   ],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Huth, Henry, 1815-1878 Bookplate."
+   ],
+   "Linked work: Note": [
+    "Xerox copy available with call no.: Beinecke Library. MS Vault. Xerox. Shelf.",
+    "2d ed., published in 1619, one of the falsely dated quartos. Cf. Greg.",
+    "The original authors were Michael Drayton, Richard Hathway, Anthony Munday, and Robert Wilson. Cf. DNB, XXV, p. 157.",
+    "Page [80] blank.",
+    "Signatures: A-K⁴."
+   ],
+   "Linked work: Attribution Statement": [
+    "Written by William Shakespeare."
+   ],
+   "Linked work: Imprint Statement": [
+    "London, Printed for T.P., 1600 [i.e. 1619]"
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/1203d4ec-4557-4272-bd03-5d6b402b677d",
+  "_manifest_notes": {
+   "Description": "Xerox copy available with call no.: Beinecke Library. MS Vault. Xerox. Shelf. 2d ed., published in 1619, one of the falsely dated quartos. Cf. Greg. The original authors were Michael Drayton, Richard Hathway, Anthony Munday, and Robert Wilson. Cf. DNB, XXV, p. 157. Page [80] blank. Signatures: A-K⁴."
+  },
   "sample_scope": "images"
  },
  {
@@ -661,16 +1035,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz 179",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22776014170008651",
   "title": "Lvcrece",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Shakespeare, William, 1564-1616",
+  "creator_names": "William Shakespeare",
+  "creator_roles": "Creator",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "1594.",
+  "date_earliest_year": "1594",
+  "date_latest_year": "1594",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -697,13 +1074,37 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:58:22Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:36:03Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+    "label": "Shakespeare, William, 1564-1616",
+    "role": "Creator"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Cochran, Alexander Smith, 1874-1929 Ownership.",
+    "Daniel, George, 1789-1864 MS note.",
+    "Huth, Henry, 1815-1878 Bookplate."
+   ],
+   "Linked work: Note": [
+    "Eliz 179:  Bound in brown goatskin, gilt edges. George Daniel's copy, with a manuscript note, signed, on a front flyleaf; sold as lot 1451 in the Daniel sale, Sotheby's, 26 July 1864. The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911.",
+    "The first edition."
+   ],
+   "Linked work: Imprint Statement": [
+    "London. Printed by Richard Field, for Iohn Harrison, and are to be sold at the signe of the White Greyhound in Paules Church-yard. 1594."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/7629dff6-4dad-4d4e-b0cb-29d29b260bae",
+  "_manifest_notes": {
+   "Description": "Eliz 179:  Bound in brown goatskin, gilt edges. George Daniel's copy, with a manuscript note, signed, on a front flyleaf; sold as lot 1451 in the Daniel sale, Sotheby's, 26 July 1864. The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911. The first edition."
+  },
   "sample_scope": "images"
  },
  {
@@ -714,16 +1115,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz 183",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22776019840008651",
   "title": "A midsommer nights dreame. As it hath beene sundry times publickely acted, by the right honourable, the lord chamberlaine his seruants",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Shakespeare, William, 1564-1616",
+  "creator_names": "William Shakespeare",
+  "creator_roles": "Creator",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "1600.",
+  "date_earliest_year": "1600",
+  "date_latest_year": "1600",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -750,15 +1154,45 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:58:25Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:36:09Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+    "label": "Shakespeare, William, 1564-1616",
+    "role": "Creator"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "midsommer nights dreame. As it hath beene sundry times publickely acted, by the right honourable, the lord chamberlaine his seruants"
   ],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Cochran, Alexander Smith, 1874-1929 Ownership.",
+    "Huth, Henry, 1815-1878 Bookplate.",
+    "Heber, Richard, 1773-1833 Stamp and MS. note",
+    "Daniel, George, 1789-1864 Ownership."
+   ],
+   "Linked work: Note": [
+    "Eliz 183:  Bound in marbled-paper wrappers. Bibliotheca Heberiana stamp on endpaper, lot 5442 in the Heber sale, Sotheby's, 28 June 1834; on the endpaper is a note, probably by Heber, stating that this copy had come from \"Bindleys Sale Pt. III 2040--Feb. 1819.\"",
+    "Eliz 183:  This copy was also owned by George Daniel, and it was sold with his books, by Sotheby's, on 26 July 1864, lot 1425. The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911.",
+    "SML Microtext Room: Negative film available for reproduction.",
+    "The first edition."
+   ],
+   "Linked work: Attribution Statement": [
+    "Written by William Shakespeare."
+   ],
+   "Linked work: Imprint Statement": [
+    "Imprinted at London, for Thomas Fisher, and are to be soulde at his shoppe, at the signe of the White Hart, in Fleetestreete. 1600."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/2bd9475c-437c-47e3-ac73-099824c668d6",
+  "_manifest_notes": {
+   "Description": "Eliz 183:  Bound in marbled-paper wrappers. Bibliotheca Heberiana stamp on endpaper, lot 5442 in the Heber sale, Sotheby's, 28 June 1834; on the endpaper is a note, probably by Heber, stating that this copy had come from \"Bindleys Sale Pt. III 2040--Feb. 1819.\" Eliz 183:  This copy was also owned by George Daniel, and it was sold with his books, by Sotheby's, on 26 July 1864, lot 1425. The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911. SML Microtext Room: Negative film available for reproduction. The first edition."
+  },
   "sample_scope": "images"
  },
  {
@@ -769,16 +1203,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz 157",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22761570270008651",
   "title": "The Qvenes maiesties passage through the citie of London to Westminster the daye before her coronation. Anno. 1558. Cum priuilegio",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
+  "date_display": "the. xxiii. day of January.",
   "date_earliest_year": "",
   "date_latest_year": "",
-  "date_kind": "",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -805,15 +1242,38 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:58:30Z",
+  "harvested_at": "2026-10-26T17:36:15Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [
    "Qvenes maiesties passage through the citie of London to Westminster the daye before her coronation. Anno. 1558. Cum priuilegio"
   ],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Cochran, Alexander Smith, 1874-1929 Ownership.",
+    "Bedford, F. Binding",
+    "Morrell Binding",
+    "Benz, Doris Louise Bookplate."
+   ],
+   "Linked work: Note": [
+    "Eliz 157:  Bound by F. Bedford in red goatskin, gold tooling on cover and spine, gilt edges. This copy is unique. Gift of Alexander S. Cochran, December 1911.",
+    "Eliz 157A:  [Manuscript copy, of a slightly different version:] The passage of our most drad soveraigne Lady Quene Elizabeth through the Citie of London to Westminster the day before her coronation anno 1558: anonymous manuscript, in a late seventeenth-century hand. 55 pages 19 cm.",
+    "Eliz 157A:  Bound by Morrell in green goatskin, gilt tooling on cover and spine. This manuscript was clearly copied from the second, and probably later, printed edition of the pamphlet (STC 7590), which bears the more flourishing title given abouve (as does this manuscript).",
+    "Eliz 157A:  This manuscript copy is incomplete, omitting the final two pages of the printed pamphlet. Bookplate of Doris Louise Benz, and sold by Christie's, 27 March 1985, lot 49, when it was purchased for the Elizabethan Club by Bernard Quaritch, Ltd. Purchased March 1985.",
+    "The first edition.",
+    "This is an anonymous account of the formal coronation pageant of Queen Elizabeth, which took place on 14 January 1558/59. There is another edition of the work dated 1558; it is not known which is the earlier."
+   ],
+   "Linked work: Imprint Statement": [
+    "[Colophon:] Imprinted at London in Fletestrete within Temple Barre, at the signe of the Hand and Starre, by Richard Tottill, the. xxiii. day of January."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/f739e5fa-6b91-4203-9f56-0697058a06eb",
+  "_manifest_notes": {
+   "Description": "Eliz 157:  Bound by F. Bedford in red goatskin, gold tooling on cover and spine, gilt edges. This copy is unique. Gift of Alexander S. Cochran, December 1911. Eliz 157A:  [Manuscript copy, of a slightly different version:] The passage of our most drad soveraigne Lady Quene Elizabeth through the Citie of London to Westminster the day before her coronation anno 1558: anonymous manuscript, in a late seventeenth-century hand. 55 pages 19 cm. Eliz 157A:  Bound by Morrell in green goatskin, gilt tooling on cover and spine. This manuscript was clearly copied from the second, and probably later, printed edition of the pamphlet (STC 7590), which bears the more flourishing title given abouve (as does this manuscript). Eliz 157A:  This manuscript copy is incomplete, omitting the final two pages of the printed pamphlet. Bookplate of Doris Louise Benz, and sold by Christie's, 27 March 1985, lot 49, when it was purchased for the Elizabethan Club by Bernard Quaritch, Ltd. Purchased March 1985. The first edition. This is an anonymous account of the formal coronation pageant of Queen Elizabeth, which took place on 14 January 1558/59. There is another edition of the work dated 1558; it is not known which is the earlier."
+  },
   "sample_scope": "images"
  },
  {
@@ -824,16 +1284,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz 178",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22776046020008651",
   "title": "The tragedie of King Richard the second. As it hath been publikely acted by the right honourable the lord chamberlaine his seruants",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Shakespeare, William, 1564-1616",
+  "creator_names": "William Shakespeare",
+  "creator_roles": "Creator",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "1608.",
+  "date_earliest_year": "1608",
+  "date_latest_year": "1608",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -860,15 +1323,42 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:58:31Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:36:21Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+    "label": "Shakespeare, William, 1564-1616",
+    "role": "Creator"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "tragedie of King Richard the second. As it hath been publikely acted by the right honourable the lord chamberlaine his seruants"
   ],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Cochran, Alexander Smith, 1874-1929 Ownership.",
+    "Bedford, F. Binding",
+    "Huth, Henry, 1815-1878 Bookplate."
+   ],
+   "Linked work: Note": [
+    "Eliz 178:  Bound by F. Bedford in crimson goatskin, gold tooling on cover and spine, gilt edges. The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911.",
+    "Printed by William White. The fourth edition (first, 1597)."
+   ],
+   "Linked work: Attribution Statement": [
+    "By William Shakespeare."
+   ],
+   "Linked work: Imprint Statement": [
+    "London, printed by W.W. for mathew Law, and are to be sold at his shop in Paules Church-yard, at the signe of the Foxe. 1608."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/797760d0-0416-46c8-b4a6-08123d64f88c",
+  "_manifest_notes": {
+   "Description": "Eliz 178:  Bound by F. Bedford in crimson goatskin, gold tooling on cover and spine, gilt edges. The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911. Printed by William White. The fourth edition (first, 1597)."
+  },
   "sample_scope": "images"
  },
  {
@@ -879,16 +1369,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz 206",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22776043900008651",
   "title": "The first and second part of the troublesome raigne of Iohn King of England. ... As they were (sundry times) lately acted",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Shakespeare, William, 1564-1616",
+  "creator_names": "William Shakespeare",
+  "creator_roles": "Contributor",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "1622.",
+  "date_earliest_year": "1622",
+  "date_latest_year": "1622",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -915,15 +1408,43 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:58:33Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:36:27Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+    "label": "Shakespeare, William, 1564-1616",
+    "role": "Contributor"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "first and second part of the troublesome raigne of Iohn King of England. ... As they were (sundry times) lately acted"
   ],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Cochran, Alexander Smith, 1874-1929 Ownership.",
+    "Bernard Quaritch (Firm) Inscription.",
+    "St. John-Mildmay, Henry St. John Carew, Sir, 1791-1845 Bookplate."
+   ],
+   "Linked work: Note": [
+    "Eliz 206:  Bound in calf, blind and gold tooling on cover and spine. Dogmersfield library bookplate of Sir Henry St. John Mildmay, and sold as lot 475 in the Mildmay sale by Sotheby's, 20 April 1907. Collation note of Bernard Quaritch on rear endpaper. Gift of Alexander S. Cochran, December 1911.",
+    "The second edition (first, 1611). The two parts were first published separately in 1591.",
+    "Falsely attributed to Shakespeare."
+   ],
+   "Linked work: Attribution Statement": [
+    "Written by W. Shakespeare."
+   ],
+   "Linked work: Imprint Statement": [
+    "London, printed by Aug: Mathewes for Thomas Dewe, and are to be sold at his shop in St. Dunstones Church-yard in Fleet-street, 1622."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/3ce2e475-13a2-49b5-aa00-67a024e9a40b",
+  "_manifest_notes": {
+   "Description": "Eliz 206:  Bound in calf, blind and gold tooling on cover and spine. Dogmersfield library bookplate of Sir Henry St. John Mildmay, and sold as lot 475 in the Mildmay sale by Sotheby's, 20 April 1907. Collation note of Bernard Quaritch on rear endpaper. Gift of Alexander S. Cochran, December 1911. The second edition (first, 1611). The two parts were first published separately in 1591. Falsely attributed to Shakespeare."
+  },
   "sample_scope": "images"
  },
  {
@@ -934,16 +1455,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz +29",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22974321690008651",
   "title": "Mr. VVilliam Shakespeares comedies, histories, and tragedies : published according to the true originall copies",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Shakespeare, William, 1564-1616",
+  "creator_names": "William Shakespeare",
+  "creator_roles": "Creator",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "1632.",
+  "date_earliest_year": "1632",
+  "date_latest_year": "1632",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -970,13 +1494,57 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:58:36Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:36:33Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+    "label": "Shakespeare, William, 1564-1616",
+    "role": "Creator"
+   }
+  ],
   "_collectors": [],
   "_other_names": [],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Huth, Henry, 1815-1878 Bookplate.",
+    "Cochran, Alexander Smith, 1874-1929 Ownership.",
+    "Woolley, Monty Bookplate.",
+    "Wilbraham, George, 1779-1852 Bookplate.",
+    "Cave, Thomas, Sir Bookplate.",
+    "Cave, Charles, Sir Bookplate.",
+    "Milton, of Peterborough Bookplate.",
+    "Gray, William Bookplate.",
+    "Blatchford, Mary Edgcumbe Bookplate.",
+    "Berdan, John Milton Bookplate."
+   ],
+   "Linked work: Note": [
+    "BEIN Ig 12 +632 copy 1: Variations from the description given in A.W. Pollard's Shakespeare folios and quartos are recorded on slip laid in v. Bookplate of George Wilbraham.",
+    "BEIN Ig 12 +632 copy 2: Imperfect: leaf of verse, t.p., and p. 405-408 and 415-419 (sig. A1-A2, 3c3-3c4, 3d2-3d4) wanting.",
+    "BEIN Ig 12 +632 copy 3: Bookplates of Sir Thomas Cave, Sir Charles Cave and Milton of Peterborough.",
+    "BEIN Ig 12 +632 copy 4: Variant copy: page 164 (r2 verso) is correctly numbered, in contrast to the usual '194' misnumbering. Page 88 (h1 verso) correctly numbered (sometimes misnumbered '87'), i2 is misprinted i3. Bookplate of William Gray and Mary Edgcumbe Blatchford.",
+    "Bein 1997 +17: Imperfect: A1-A2, A5-A6, *1, 2v2, 2v5, all after 3a6 wanting. Could be STC 22274. With addition of a replacement t.p. Page 205 (S1 recto) misnumbered 208; p. 164 (r2 verso) numbered correctly. Bookplate: Joannis M Berdan.",
+    "BEIN Speck Z S731 +632: Imperfect: p. 1-35 only; containing The tempest and The two gentlemen of Verona (wanting all after act 5, scene 3, line 1)",
+    "BEIN Eliz +29 copy 1: Huth copy with bookplate acquired by Mr. Cochran before the Huth sale.",
+    "BEIN Eliz +29 copy 2: Fragment only, consisting of Troilus and Cressida, Coriolanus, Titus Andronicus, and one page of Romeo and Juliet. With bookplate of Monty Woolley.",
+    "Colophon: Printed at London by Thomas Cotes, for John Smethwick, William Aspley, Richard Hawkins, Richard Meighen, and Robert Allot, 1632.",
+    "Signatures: [superscript pi]A⁶ *⁴ A-2B⁶ 2C² a-y⁶ 2a-3c⁶ 3d⁴.",
+    "Todd's first issue, state 1b (Studies in bibliography, V:81-108-",
+    "Final p. blank."
+   ],
+   "Linked work: Edition Statement": [
+    "The second impression."
+   ],
+   "Linked work: Imprint Statement": [
+    "London : Printed by Tho. Cotes, for Robert Allot, and are to be fold [sic] at the signe of the Blacke Beare in Pauls Church-yard, 1632."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/51a7c1db-0ff4-4bd3-b358-c4e88a2f0423",
+  "_manifest_notes": {
+   "Description": "BEIN Ig 12 +632 copy 1: Variations from the description given in A.W. Pollard's Shakespeare folios and quartos are recorded on slip laid in v. Bookplate of George Wilbraham. BEIN Ig 12 +632 copy 2: Imperfect: leaf of verse, t.p., and p. 405-408 and 415-419 (sig. A1-A2, 3c3-3c4, 3d2-3d4) wanting. BEIN Ig 12 +632 copy 3: Bookplates of Sir Thomas Cave, Sir Charles Cave and Milton of Peterborough. BEIN Ig 12 +632 copy 4: Variant copy: page 164 (r2 verso) is correctly numbered, in contrast to the usual '194' misnumbering. Page 88 (h1 verso) correctly numbered (sometimes misnumbered '87'), i2 is misprinted i3. Bookplate of William Gray and Mary Edgcumbe Blatchford. Bein 1997 +17: Imperfect: A1-A2, A5-A6, *1, 2v2, 2v5, all after 3a6 wanting. Could be STC 22274. With addition of a replacement t.p. Page 205 (S1 recto) misnumbered 208; p. 164 (r2 verso) numbered correctly. Bookplate: Joannis M Berdan. BEIN Speck Z S731 +632: Imperfect: p. 1-35 only; containing The tempest and The two gentlemen of Verona (wanting all after act 5, scene 3, line 1) BEIN Eliz +29 copy 1: Huth copy with bookplate acquired by Mr. Cochran before the Huth sale. BEIN Eliz +29 copy 2: Fragment only, consisting of Troilus and Cressida, Coriolanus, Titus Andronicus, and one page of Romeo and Juliet. With bookplate of Monty Woolley. Colophon: Printed at London by Thomas Cotes, for John Smethwick, William Aspley, Richard Hawkins, Richard Meighen, and Robert Allot, 1632. Signatures: [superscript pi]A⁶ *⁴ A-2B⁶ 2C² a-y⁶ 2a-3c⁶ 3d⁴. Todd's first issue, state 1b (Studies in bibliography, V:81-108- Final p. blank."
+  },
   "sample_scope": "images"
  },
  {
@@ -987,16 +1555,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz +20",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22699822830008651",
   "title": "The essayes; or, Morall, politike and millitarie discourses of Lo: Michaell de Montaigne ...",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Montaigne, Michel de, 1533-1592 | Florio, John, 1553?-1625",
+  "creator_names": "Michel de Montaigne | John Florio",
+  "creator_roles": "Creator | Contributor",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/e9f9da4a-dcd8-4dab-9dcb-7d23cc6a226c | https://lux.collections.yale.edu/data/person/9fabee03-9196-4c25-8213-92e7214ef080",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "1603]",
+  "date_earliest_year": "1603",
+  "date_latest_year": "1603",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -1023,15 +1594,57 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:58:39Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:36:43Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/e9f9da4a-dcd8-4dab-9dcb-7d23cc6a226c",
+    "label": "Montaigne, Michel de, 1533-1592",
+    "role": "Creator"
+   },
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/9fabee03-9196-4c25-8213-92e7214ef080",
+    "label": "Florio, John, 1553?-1625",
+    "role": "Contributor"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "essayes; or, Morall, politike and millitarie discourses of Lo: Michaell de Montaigne ..."
   ],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Terry, Seth Sprague, 1862-1932 Bookplate.",
+    "Newton, A. Edward (Alfred Edward), 1864-1940 Bookplate.",
+    "James, Richard Autograph.",
+    "Gibson, T. Autograph.",
+    "Walden, S. Autograph.",
+    "Rosenbloom, Charles J. Bookplate.",
+    "Elizabeth I, Queen of England, 1533-1603 Binding.",
+    "Gunning, Peter, 1614-1684 Bookplate (BEIN,ELIZ)"
+   ],
+   "Linked work: Note": [
+    "BEIN 1977 +54:  Page 173-174 misbound between p. 176 & 177. Bookplates of Seth Sprague Terry, A. Edward Newton, and Charles J. Rosenbloom. Autographs of Richard James, 1673, and T. Gibson and S. Waldern, 1840.",
+    "BEIN ELIZ +20: The Gunning-Hoe-Brayton Ives copy, with the royal arms of Queen Elizabeth stamped on binding. Bookplate of Peter Gunning.",
+    "In three parts, each with special t.-p.",
+    "Head and tail pieces.",
+    "Translated by John Florio.",
+    "Contains two tables of errors and omissions, and a commendatory poem by Samuel Daniel.",
+    "Signatures: A⁸ [par.]² ([par.]2 sign. C2) B-Q⁸ R⁴ S-Pp⁶ Qq⁴ (Qq4 blank) Rr⁴ Ss-Kkkk⁶ (Hhh2 sign. Ggg2)"
+   ],
+   "Linked work: Attribution Statement": [
+    "First written by him in French. And now done into English."
+   ],
+   "Linked work: Imprint Statement": [
+    "[London, Printed by V. Sims for E. Blount, 1603]"
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/44740132-fa5d-4874-aeae-9f0baf8abf4b",
+  "_manifest_notes": {
+   "Description": "BEIN 1977 +54:  Page 173-174 misbound between p. 176 & 177. Bookplates of Seth Sprague Terry, A. Edward Newton, and Charles J. Rosenbloom. Autographs of Richard James, 1673, and T. Gibson and S. Waldern, 1840. BEIN ELIZ +20: The Gunning-Hoe-Brayton Ives copy, with the royal arms of Queen Elizabeth stamped on binding. Bookplate of Peter Gunning. In three parts, each with special t.-p. Head and tail pieces. Translated by John Florio. Contains two tables of errors and omissions, and a commendatory poem by Samuel Daniel. Signatures: A⁸ [par.]² ([par.]2 sign. C2) B-Q⁸ R⁴ S-Pp⁶ Qq⁴ (Qq4 blank) Rr⁴ Ss-Kkkk⁶ (Hhh2 sign. Ggg2)"
+  },
   "sample_scope": "images"
  },
  {
@@ -1042,16 +1655,19 @@
   "department": "Elizabethan Club Collection",
   "accession_number": "Eliz 168",
   "accession_number_type": "Call Number",
+  "other_identifiers": "System-Assigned Number: ils:yul:mfhd:22761577100008651",
   "title": "The tragicall historie of Hamlet, Prince of Denmarke",
-  "creators": "",
-  "creator_roles": "",
-  "creator_uris": "",
+  "creators": "Shakespeare, William, 1564-1616",
+  "creator_names": "William Shakespeare",
+  "creator_roles": "Creator",
+  "creator_uris": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+  "creator_source": "linked work",
   "collectors": "",
   "collector_uris": "",
-  "date_display": "",
-  "date_earliest_year": "",
-  "date_latest_year": "",
-  "date_kind": "",
+  "date_display": "1604.",
+  "date_earliest_year": "1604",
+  "date_latest_year": "1604",
+  "date_kind": "from the image record",
   "object_type": "Books",
   "classification": "",
   "medium": "",
@@ -1078,15 +1694,46 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "Unclear (may be in copyright)",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Unclear (may be in copyright)",
-  "harvested_at": "2026-10-24T21:58:42Z",
-  "_creators": [],
+  "harvested_at": "2026-10-26T17:36:49Z",
+  "_creators": [
+   {
+    "uri": "https://lux.collections.yale.edu/data/person/939ede51-eb87-4a6a-8a92-ba5b0e4395b6",
+    "label": "Shakespeare, William, 1564-1616",
+    "role": "Creator"
+   }
+  ],
   "_collectors": [],
   "_other_names": [
    "tragicall historie of Hamlet, Prince of Denmarke"
   ],
-  "_statements": {},
+  "_statements": {
+   "Linked work: provenance description": [
+    "Cochran, Alexander Smith, 1874-1929 Ownership.",
+    "Cummyng, Jacobus Autograph.",
+    "Plummer Bookplate.",
+    "Huth, Henry, 1815-1878 Bookplate."
+   ],
+   "Linked work: Note": [
+    "Eliz 168:  Bound in straight-grain red goatskin, gold tooling on cover and spine, gilt edges. Signature of Jacobus Cummyng P.H. on B₁r. Bookplate of Plummer of Middlestead. The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911.",
+    "Printed by James Roberts for Nicholas Ling. The second edition (first, 1603). This is the first authoritative edition of the play, the first quarto of 1603 being a shortened version of the text, different in many ways, and possibly a surreptitious publication."
+   ],
+   "Linked work: Attribution Statement": [
+    "By William Shakespeare."
+   ],
+   "Linked work: Edition Statement": [
+    "Newly imprinted and enlarged to almost as much againe as it was, according to the true and perfect coppie."
+   ],
+   "Linked work: Imprint Statement": [
+    "At London, printed by I.R. for N.L. and are to be sold at his shoppe vnder Saint Dunstons Church in Fleetstreet. 1604."
+   ]
+  },
+  "_linked_work": "https://lux.collections.yale.edu/data/text/20d27ee5-4a8b-47e4-a905-0977fcb9d943",
+  "_manifest_notes": {
+   "Description": "Eliz 168:  Bound in straight-grain red goatskin, gold tooling on cover and spine, gilt edges. Signature of Jacobus Cummyng P.H. on B₁r. Bookplate of Plummer of Middlestead. The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911. Printed by James Roberts for Nicholas Ling. The second edition (first, 1603). This is the first authoritative edition of the play, the first quarto of 1603 being a shortened version of the text, different in many ways, and possibly a surreptitious publication."
+  },
   "sample_scope": "images"
  }
 ]

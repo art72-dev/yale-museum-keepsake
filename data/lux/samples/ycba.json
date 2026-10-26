@@ -7,10 +7,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art",
   "accession_number": "B1991.40.4",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 48501",
   "title": "West Front of Thornbury Catle, Gloucestershire",
   "creators": "John Buckler FSA | John Chessell Buckler",
+  "creator_names": "John Buckler | John Chessell Buckler",
   "creator_roles": "Primary Artist | ",
   "creator_uris": "https://lux.collections.yale.edu/data/person/7e9a7977-6ce2-4dd1-bed6-f537b69f6d61 | https://lux.collections.yale.edu/data/person/41cda09b-11db-4d0f-9955-f1fcb018fc07",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1822",
@@ -43,9 +46,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:52:14Z",
+  "harvested_at": "2026-10-26T17:26:31Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/7e9a7977-6ce2-4dd1-bed6-f537b69f6d61",
@@ -70,6 +74,8 @@
     "Signed and dated in pen and black ink, lower right: \"J. Buckler 1822\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -80,10 +86,13 @@
   "department": "Frames Collection, Yale Center for British Art",
   "accession_number": "B1981.25.344FR",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 65252",
   "title": "British, Neoclassical frame",
   "creators": "unknown framemaker",
+  "creator_names": "unknown framemaker",
   "creator_roles": "Primary Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/group/ee7647bc-0261-456f-b8bb-02d18e377a8c",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "4th quarter of 18th century",
@@ -116,9 +125,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:52:18Z",
+  "harvested_at": "2026-10-26T17:26:37Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/group/ee7647bc-0261-456f-b8bb-02d18e377a8c",
@@ -129,6 +139,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -139,10 +151,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art",
   "accession_number": "B1977.14.2223",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 27599",
   "title": "Archery Ground, Carisbrooke, Isle of Wight",
   "creators": "Capt. Thomas Hastings",
+  "creator_names": "Thomas Hastings",
   "creator_roles": "Primary Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/00efd733-9d4b-4c02-b1f5-f5240949030a",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1829",
@@ -175,9 +190,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:52:22Z",
+  "harvested_at": "2026-10-26T17:26:43Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/00efd733-9d4b-4c02-b1f5-f5240949030a",
@@ -197,6 +213,8 @@
     "Signed and dated in graphite, lower right: \"1829 TH\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -207,10 +225,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art",
   "accession_number": "B1975.2.748",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 51678",
   "title": "The Tomb of the Horatii and Curatii",
   "creators": "Lewis Vulliamy",
+  "creator_names": "Lewis Vulliamy",
   "creator_roles": "Primary Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/2c12adee-9b93-4f1d-a2e9-14a6fb55b840",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "between 1818 and 1822",
@@ -243,9 +264,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:52:25Z",
+  "harvested_at": "2026-10-26T17:26:49Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/2c12adee-9b93-4f1d-a2e9-14a6fb55b840",
@@ -262,6 +284,8 @@
     "Inscribed on verso in graphite, lower right: \"Tomb of Horatii & Curiatii, near Ti[...]\"; \"£40\"; \"110\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -272,10 +296,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art | YCBA Exhibit set for \"The Romantic Landscape Prints - The Chiaroscuro of Nature (Yale Center for British Art, 2002-09-25 - 2002-12-29)\"",
   "accession_number": "B1977.14.10942",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 29367",
   "title": "Boats in a Dock",
   "creators": "Joseph Stannard",
+  "creator_names": "Joseph Stannard",
   "creator_roles": "Primary Artist, Print made by",
   "creator_uris": "https://lux.collections.yale.edu/data/person/0ed18b1e-b802-4756-81bc-944894ef1169",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "between 1824 and 1827",
@@ -308,9 +335,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:52:27Z",
+  "harvested_at": "2026-10-26T17:26:55Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/0ed18b1e-b802-4756-81bc-944894ef1169",
@@ -325,6 +353,8 @@
     "Lettered in reverse inside plate, lower right: \"J. Stannard 1828\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -335,10 +365,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art",
   "accession_number": "B2014.26.12",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 70555",
   "title": "The Burning of Archbishop Cranmer",
   "creators": "Anker Smith | J. Stratford",
+  "creator_names": "Anker Smith | J. Stratford",
   "creator_roles": "Primary Artist, Print made by | Published by",
   "creator_uris": "https://lux.collections.yale.edu/data/person/afc3d418-e8aa-4c21-bba4-b16f3fa623b0 | https://lux.collections.yale.edu/data/person/678125b2-1f07-476f-adce-5eec5a9bda0f",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1811",
@@ -371,9 +404,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:52:30Z",
+  "harvested_at": "2026-10-26T17:27:03Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/afc3d418-e8aa-4c21-bba4-b16f3fa623b0",
@@ -396,6 +430,8 @@
     "Lettered within image: \"The | Burning of the Archbishop Cranmer.\"; below, center: \"Drawn by R. Smirke, Engraved by A. Smith, & Published by J. Stratford, 112, Holborn Hill. June 15th. 1811.\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -406,10 +442,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art",
   "accession_number": "B1975.4.97",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 12542",
   "title": "Allegory of Steam",
   "creators": "Edward Francis Burney",
+  "creator_names": "Edward Francis Burney",
   "creator_roles": "Primary Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/712312cf-d577-4d39-b6fd-726913c8fea9",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "undated",
@@ -442,9 +481,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:52:36Z",
+  "harvested_at": "2026-10-26T17:27:09Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/712312cf-d577-4d39-b6fd-726913c8fea9",
@@ -455,6 +495,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -465,10 +507,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art | YCBA Exhibit set for \"Pearls to Pyramids: British Visual Culture and the Levant, 1600–1830 (Yale Center for British Art, 2008-02-07 - 2008-04-28)\"",
   "accession_number": "B1977.14.5444",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 10170",
   "title": "Travellers in Turkey",
   "creators": "William Hamilton",
+  "creator_names": "William Hamilton",
   "creator_roles": "Primary Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/fa7d9b02-a01a-4e6d-921c-a99e73d0497e",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "undated",
@@ -501,9 +546,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:52:41Z",
+  "harvested_at": "2026-10-26T17:27:15Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/fa7d9b02-a01a-4e6d-921c-a99e73d0497e",
@@ -522,6 +568,8 @@
     "Pearls to pyramids : British visual culture and the Levant, 1600-1830, ,  Yale Center for British Art, New Haven, 2008, pp. 16, 18-19, V1880"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -532,10 +580,13 @@
   "department": "Paintings and Sculpture Collection, Yale Center for British Art | YCBA Exhibit set for \"In a New Light: 500 Years of British Art (Yale Center for British Art, 2025-04-01 - 2026-01-30)\" | YCBA Exhibit set for \"The Pursuit of Happiness - A View of Life in Georgian England (Yale Center for British Art, 1977-04-19 - 1977-09-18)\" | YCBA Exhibit set for \"Painting in England 1700-1850 - From The Collection of Mr. and Mrs. Paul Mellon (Yale University Art Gallery, 1965-04-15 - 1965-06-20)\"",
   "accession_number": "B1981.25.227",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 736",
   "title": "The Buckley-Boar Family",
   "creators": "unknown artist | Arthur Devis",
+  "creator_names": "Unknown | Arthur Devis",
   "creator_roles": "Primary Artist | Formerly attributed to",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd | https://lux.collections.yale.edu/data/person/a32737ee-d69c-43cb-b5bc-94f1d05a7abb",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "between 1758 and 1760",
@@ -568,9 +619,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:52:44Z",
+  "harvested_at": "2026-10-26T17:27:21Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -602,6 +654,8 @@
     "Sotheby's sale catalogue : Catalogue of eighteenth and nineteenth century drawings and paintings : 26 July 1961,  Sotheby's, London, July 26, 1961, p. 30, lot 157, Auction Catalogues (YCBA)"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -612,10 +666,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art",
   "accession_number": "B1994.4.619",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 35882",
   "title": "Brown University: The Van Wickle Gate",
   "creators": "Wilfred Crawford Applebey",
+  "creator_names": "Wilfred Crawford Applebey",
   "creator_roles": "Primary Artist, Print made by",
   "creator_uris": "https://lux.collections.yale.edu/data/person/55a6808b-d4d1-4a01-8483-cbea370ccfc4",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1927",
@@ -648,9 +705,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Undetermined",
   "image_rights_category": "Copyright undetermined",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Copyright undetermined",
-  "harvested_at": "2026-10-24T21:52:49Z",
+  "harvested_at": "2026-10-26T17:27:27Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/55a6808b-d4d1-4a01-8483-cbea370ccfc4",
@@ -674,6 +732,8 @@
     "Signed in graphite, lower right: \"Wilfred C. Applebey\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -684,10 +744,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art",
   "accession_number": "B1977.14.15028",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 43924",
   "title": "Huxter and Corvey",
   "creators": "Franz Oehme | unknown artist",
+  "creator_names": "Franz Oehme | Unknown",
   "creator_roles": "Primary Artist | ",
   "creator_uris": "https://lux.collections.yale.edu/data/person/3610981c-9e12-4a99-8870-14bdc95bdcb5 | https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "undated",
@@ -720,9 +783,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:52:53Z",
+  "harvested_at": "2026-10-26T17:27:33Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/3610981c-9e12-4a99-8870-14bdc95bdcb5",
@@ -738,6 +802,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -748,10 +814,13 @@
   "department": "Frames Collection, Yale Center for British Art",
   "accession_number": "B1997.7.4FR",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 65924",
   "title": "British Neoclassical style frame",
   "creators": "unknown framemaker",
+  "creator_names": "unknown framemaker",
   "creator_roles": "Primary Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/group/ee7647bc-0261-456f-b8bb-02d18e377a8c",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "20th century",
@@ -784,9 +853,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Undetermined",
   "image_rights_category": "Copyright undetermined",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Copyright undetermined",
-  "harvested_at": "2026-10-24T21:52:57Z",
+  "harvested_at": "2026-10-26T17:27:37Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/group/ee7647bc-0261-456f-b8bb-02d18e377a8c",
@@ -797,6 +867,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -807,10 +879,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art",
   "accession_number": "B1994.4.1172",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 38284",
   "title": "Diligence",
   "creators": "Charles Knight",
+  "creator_names": "Charles Knight",
   "creator_roles": "Primary Artist, Print made by",
   "creator_uris": "https://lux.collections.yale.edu/data/person/231cb45c-89a1-43c9-8871-c93ca7cd024f",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1788",
@@ -843,9 +918,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:53:02Z",
+  "harvested_at": "2026-10-26T17:27:43Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/231cb45c-89a1-43c9-8871-c93ca7cd024f",
@@ -856,6 +932,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -866,10 +944,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art",
   "accession_number": "B1977.14.22601",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 55155",
   "title": "Ruins of Westminster Palace",
   "creators": "George Harley",
+  "creator_names": "George Harley",
   "creator_roles": "Primary Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/cf77a657-6451-4e5a-80d2-aff2abd2b867",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1834",
@@ -902,9 +983,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:53:07Z",
+  "harvested_at": "2026-10-26T17:27:49Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/cf77a657-6451-4e5a-80d2-aff2abd2b867",
@@ -919,6 +1001,8 @@
     "Signed and dated in brown wash, lower left: \"Geo. Harley 1834\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -929,10 +1013,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art",
   "accession_number": "B1970.3.1272",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 23120",
   "title": "The Seated Sleeping Seamstress",
   "creators": "Gerard Valck",
+  "creator_names": "Gerard Valck",
   "creator_roles": "Primary Artist, Print made by",
   "creator_uris": "https://lux.collections.yale.edu/data/person/1ad9095c-0583-4f2a-b0a9-49a4746eabef",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "undated",
@@ -965,9 +1052,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:53:11Z",
+  "harvested_at": "2026-10-26T17:27:55Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/1ad9095c-0583-4f2a-b0a9-49a4746eabef",
@@ -986,6 +1074,8 @@
     "Collector’s mark: J. Burleigh James (Lugt 1425)"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -996,10 +1086,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art",
   "accession_number": "B1981.25.1872",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 42942",
   "title": "John Bull and the A-assa-r!!",
   "creators": "unknown artist",
+  "creator_names": "Unknown",
   "creator_roles": "Primary Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1802",
@@ -1032,9 +1125,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:53:15Z",
+  "harvested_at": "2026-10-26T17:27:59Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -1045,6 +1139,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1055,10 +1151,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art | YCBA Exhibit set for \"Papermaking and The Art of Watercolor in Eighteenth-Century Britain: Paul Sandby's \"View of…Mr. Whatman's Turkey Mill\" (Yale Center for British Art, 2006-02-22 - 2006-06-04)\"",
   "accession_number": "B1977.14.5910",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 9738",
   "title": "The Fallen Tree",
   "creators": "Robert Hills",
+  "creator_names": "Robert Hills",
   "creator_roles": "Primary Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/fe72ff15-5e00-4766-8080-8ae7f46c1c34",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1804",
@@ -1091,9 +1190,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:53:18Z",
+  "harvested_at": "2026-10-26T17:28:05Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/fe72ff15-5e00-4766-8080-8ae7f46c1c34",
@@ -1111,6 +1211,8 @@
     "Watermark: J. Whatman | 1794"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1121,10 +1223,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art",
   "accession_number": "B1998.14.109",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 69041",
   "title": "The Portrait",
   "creators": "George Cruikshank",
+  "creator_names": "George Cruikshank",
   "creator_roles": "Primary Artist, Print made by",
   "creator_uris": "https://lux.collections.yale.edu/data/person/8e017847-6ed0-4847-8546-d334adf576aa",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1836",
@@ -1157,9 +1262,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:53:23Z",
+  "harvested_at": "2026-10-26T17:28:11Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/8e017847-6ed0-4847-8546-d334adf576aa",
@@ -1170,6 +1276,8 @@
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1180,10 +1288,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art",
   "accession_number": "B1977.14.7916",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 51592",
   "title": "Corinth, Cenchrea",
   "creators": "Edward Francis Finden",
+  "creator_names": "Edward Francis Finden",
   "creator_roles": "Primary Artist, Print made by",
   "creator_uris": "https://lux.collections.yale.edu/data/person/f12cb7f3-87f7-431e-8eb5-6c994118d0b2",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1834",
@@ -1216,9 +1327,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:53:28Z",
+  "harvested_at": "2026-10-26T17:28:17Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/f12cb7f3-87f7-431e-8eb5-6c994118d0b2",
@@ -1235,6 +1347,8 @@
     "Inscribed in graphite, lower left: \"593 E.P. Touched\"; inscribed on verso in graphite, upper center: \"Corinth engraved for Finden's Bible\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1245,10 +1359,13 @@
   "department": "Prints and Drawings Collection, Yale Center for British Art",
   "accession_number": "B1970.3.1158",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 23003",
   "title": "The Miraculous Draught of Fishes",
   "creators": "John Simon",
+  "creator_names": "John Simon",
   "creator_roles": "Primary Artist, Print made by",
   "creator_uris": "https://lux.collections.yale.edu/data/person/9f4cfdba-b579-489b-9b57-4d57dc4f7ff4",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "undated",
@@ -1281,9 +1398,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:53:32Z",
+  "harvested_at": "2026-10-26T17:28:23Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/9f4cfdba-b579-489b-9b57-4d57dc4f7ff4",
@@ -1302,6 +1420,8 @@
     "Watermark"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  }
 ]

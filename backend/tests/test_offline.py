@@ -51,7 +51,8 @@ def test_api_lists_and_details():
     assert page["total"] == 20 and page["items"][0]["image_usable"]                 # printable first
     oboe = client.get("/api/objects", params={"q": "oboe"}).json()["items"][0]
     d = client.get(f"/api/objects/{oboe['id']}").json()
-    assert d["maker"].startswith("Maker: (Made by) Thomas Cahusac") and d["dimensions"] == "Overall length: 58.4 cm"
+    assert "Thomas Cahusac" in d["maker"] and d["dimensions"] == "Overall length: 58.4 cm"
+    assert d["creators_display"].startswith("Maker: (Made by) Thomas Cahusac")    # the museum's full line, for the page
 
 
 def test_browsing_mixes_departments_and_folds_lookalikes():

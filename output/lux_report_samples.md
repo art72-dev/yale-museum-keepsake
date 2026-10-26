@@ -1,6 +1,6 @@
 # LUX samples: 20 records per museum
 
-Generated 2026-10-25 22:56 by `harvest/lux_harvest.py report data/lux/samples`. Counts checked against LUX on 2026-10-24.
+Generated 2026-10-26 13:43 by `harvest/lux_harvest.py report data/lux/samples`. Counts checked against LUX on 2026-10-24.
 
 ## 1. Holding units LUX uses
 
@@ -24,17 +24,15 @@ LUX holds **14,807,311** physical objects (`recordType: HumanMadeObject`). Every
 |---|---|---:|---:|---:|---:|---|
 | Yale University Library | `yale_library` | 12,007,256 | 89,196 | 180 | 20 | current |
 | Yale Peabody Museum | `peabody` | 2,311,647 | 742,355 | 2,111 | 20 | current |
-| Yale University Art Gallery | `yuag` | 223,609 | 195,901 | 4,104 | 20 | first pass* |
-| Yale Center for British Art | `ycba` | 134,343 | 48,775 | 589 | 20 | first pass* |
-| Paul Mellon Centre (UK) | `paul_mellon_centre` | 58,376 | 0 | 12 | 20 | first pass* |
-| Lens Media Lab | `lens_media_lab` | 7,249 | 7,240 | 0 | 20 | first pass* |
-| Yale Morris Steinert Collection of Musical Instruments | `musical_instruments` | 979 | 791 | 0 | 20 | first pass* |
-| Elizabethan Club | `elizabethan_club` | 452 | 75 | 0 | 20 | first pass* |
-| Yale Campus Art | `campus_art` | 188 | 187 | 1 | 20 | first pass* |
-| Babylonian Collection, Yale Peabody Museum | `babylonian_collection` | 40,319 | 27,353 | 176 | 20 | first pass* |
+| Yale University Art Gallery | `yuag` | 223,609 | 195,901 | 4,104 | 20 | current |
+| Yale Center for British Art | `ycba` | 134,343 | 48,775 | 589 | 20 | current |
+| Paul Mellon Centre (UK) | `paul_mellon_centre` | 58,376 | 0 | 12 | 20 | current |
+| Lens Media Lab | `lens_media_lab` | 7,249 | 7,240 | 0 | 20 | current |
+| Yale Morris Steinert Collection of Musical Instruments | `musical_instruments` | 979 | 791 | 0 | 20 | current |
+| Elizabethan Club | `elizabethan_club` | 452 | 75 | 0 | 20 | current |
+| Yale Campus Art | `campus_art` | 188 | 187 | 1 | 20 | current |
+| Babylonian Collection, Yale Peabody Museum | `babylonian_collection` | 40,319 | 27,353 | 176 | 20 | current |
 | Lewis Walpole Library, Yale University Library | `lewis_walpole_library` | 69,350 | 22,991 | 51 | 20 | current |
-
-\* Fetched with the first version of the field mapping, before resolved creator/collector names, `creator_source`, `other_identifiers` and linked-work lookups for library items were added. Those columns show – below. Rights categories and dates are re-derived for them, so sections 4 and 5 are comparable. `sample --resume` brings them up to date.
 
 ## 3. Field coverage (% of records with a value)
 
@@ -43,13 +41,13 @@ LUX holds **14,807,311** physical objects (`recordType: HumanMadeObject`). Every
 | lux_uri | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% |
 | accession_number | 100% | 100% | 90% | 100% | 70% | 100% | 100% | 100% | 100% | 100% | 100% | 96% |
 | title | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% |
-| creators | 20% | 0% | 75% | 100% | 0% | 100% | 100% | 0% | 100% | 0% | 95% | 54% |
-| creator_names | 20% | 0% | – | – | – | – | – | – | – | – | 95% | 39% |
-| creator_uris | 20% | 0% | 75% | 100% | 0% | 50% | 100% | 0% | 100% | 0% | 0% | 40% |
+| creators | 20% | 0% | 75% | 100% | 95% | 100% | 100% | 90% | 100% | 0% | 95% | 70% |
+| creator_names | 20% | 0% | 75% | 100% | 95% | 50% | 100% | 90% | 100% | 0% | 95% | 66% |
+| creator_uris | 20% | 0% | 75% | 100% | 95% | 50% | 100% | 90% | 100% | 0% | 95% | 66% |
 | collectors | 0% | 20% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 2% |
-| date_display | 100% | 15% | 100% | 100% | 0% | 100% | 100% | 0% | 95% | 0% | 100% | 65% |
-| date_earliest_year | 95% | 15% | 95% | 100% | 0% | 100% | 85% | 0% | 95% | 0% | 100% | 62% |
-| date_latest_year | 95% | 15% | 95% | 100% | 0% | 100% | 85% | 0% | 95% | 0% | 100% | 62% |
+| date_display | 100% | 15% | 100% | 100% | 0% | 100% | 100% | 95% | 100% | 0% | 100% | 74% |
+| date_earliest_year | 95% | 15% | 95% | 100% | 0% | 100% | 85% | 85% | 95% | 0% | 100% | 70% |
+| date_latest_year | 95% | 15% | 95% | 100% | 0% | 100% | 85% | 85% | 95% | 0% | 100% | 70% |
 | object_type | 100% | 0% | 100% | 100% | 0% | 0% | 100% | 100% | 100% | 0% | 100% | 64% |
 | classification | 0% | 100% | 80% | 10% | 0% | 100% | 100% | 0% | 65% | 100% | 0% | 50% |
 | medium | 0% | 15% | 90% | 100% | 0% | 0% | 0% | 0% | 95% | 100% | 0% | 36% |
@@ -68,7 +66,7 @@ LUX holds **14,807,311** physical objects (`recordType: HumanMadeObject`). Every
 | image_rights_statement | 100% | 100% | 100% | 100% | 0% | 100% | 100% | 100% | 100% | 100% | 85% | 90% |
 | lux_url | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% |
 
-Empty values across all records: alt_text 220, collectors 216, description 195, materials 149, credit_line 144, medium 140, creator_uris 131, classification 109, creators 102, date_earliest_year 83, date_latest_year 83, dimensions 80, object_type 80, date_display 78, museum_page_url 61, access_statement 40, creator_names 36, image_rights_statement 23, iiif_manifest_url 20, thumbnail_url 20, image_url 20, accession_number 8.
+Empty values across all records: alt_text 220, collectors 216, description 195, materials 149, credit_line 144, medium 140, classification 109, dimensions 80, object_type 80, creator_names 75, creator_uris 75, date_earliest_year 66, date_latest_year 66, creators 65, museum_page_url 61, date_display 58, access_statement 40, image_rights_statement 23, iiif_manifest_url 20, thumbnail_url 20, image_url 20, accession_number 8.
 
 ## 4. Image rights
 
@@ -113,8 +111,10 @@ Flag reasons: image rights: Unclear (may be in copyright) (29); image rights: No
 - Display date says 'n.d.' but LUX gives a year range (campus_art)
 - Display date says 'n.d.' but LUX gives a year range (yuag)
 - Display date says 'undated' but LUX gives a year range (ycba) × 5
+- Made before 1900 but image flagged: Unclear (may be in copyright) (elizabethan_club) × 17
 - More than 50 images in one manifest, e.g. every page of a book (elizabethan_club) × 8
 - More than 50 images in one manifest, e.g. every page of a book (yale_library) × 2
+- No accession number, only system-assigned numbers (yuag) × 2
 - Object number has no type label in LUX (lens_media_lab) × 20
 - Usable on the strength of a manifest-level licence, not an image-level one (babylonian_collection) × 20
 - Usable on the strength of a manifest-level licence, not an image-level one (peabody) × 20

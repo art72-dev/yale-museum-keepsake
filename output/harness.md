@@ -1,6 +1,6 @@
 # Yale Museum Keepsake: how the system works
 
-_Last updated 2026-10-25, Step 4: the scanner (three agents)._
+_Last updated 2026-10-26, Problem 13: objects visitors add themselves (problem numbers as in `AI_prompts.md`)._
 
 ## 1. The pieces
 

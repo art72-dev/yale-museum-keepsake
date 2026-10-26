@@ -2,9 +2,9 @@
 
 A website for people visiting Yale's museums. While you walk the galleries, you save the art, instruments, fossils and artifacts you like, by tapping ♡ or by **snapping a photo of the wall label**. An AI agent writes a short, true description of each piece using only the museum's own records. Then your favorites become a book you can print and take home.
 
-**Status:** The app runs on the test dataset of 160 objects from 6 museums. The full harvest from Yale's [LUX](https://lux.collections.yale.edu) platform is approved and waiting for LUX to lift a rate-limit block (see "Getting the data").
+**Status:** The app runs on the test dataset of 160 objects from 6 museums (20 per museum, refreshed from LUX on October 26). Yale's [LUX](https://lux.collections.yale.edu) platform blocked our address from October 24 until October 26 at 1:24 PM. The approved full harvest (option A, about 8,200 objects) started then and takes about 10 hours at one request every 2 seconds, so it finishes after the deadline. To use it, set `KEEPSAKE_DATA=data/lux/full` (see "Test data vs. full data").
 
-**Report and slides:** open [`report.html`](report.html) (prints to 13 letter pages) and [`slides.html`](slides.html) (10 slides; arrow keys to move, F for full screen) straight from the folder. Every image is embedded, so each is a single file. To change them, edit `report/report_src.html` or `report/slides_src.html` and run `python3 build.py` in `report/`.
+**Report and slides:** open [`report.html`](report.html) (prints to 14 letter pages) and [`slides.html`](slides.html) (10 slides; arrow keys to move, F for full screen) straight from the folder. Every image is embedded, so each is a single file. To change them, edit `report/report_src.html` or `report/slides_src.html` and run `python3 build.py` in `report/`.
 
 ## What's in it
 

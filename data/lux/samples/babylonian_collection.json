@@ -7,10 +7,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 027191",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.027191 | original catalog number: YBC 13777 (original catalog number) | CDLI number: P312581 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1843755",
   "title": "Tablet--tag pierced for suspension. Record of workers. Early Old Babylonian. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -43,9 +46,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:00:08Z",
+  "harvested_at": "2026-10-26T17:39:14Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -55,6 +59,8 @@
     "Other Attributes: Date = SUEL.--.12.12?, Genre = archival, Lines = o. 5; r. 3, Primary Publication = unpublished, Sealed Inscribed = yes, Sealing = same seal as YOS 14, pltCXXI, seal 101: E$ub-el, ir3 Abi-sare, dumu Ganinum, Text Date = reign from other texts in archive, Transliteration = 2 erin2-$uhub 8 erin2-sig4-il2-il2(?) 1 erin2-ugula 37 erin2-hi-a ugula Sin-malik ki$ib Emsium; Lu-igisa archive, Period = Early Old Babylonian"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -65,10 +71,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 004900",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.004900 | original catalog number: NBC 01927 (original catalog number) | CDLI number: P106540 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1821464",
   "title": "Tablet. Delivery of leather containers. Ur III. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -101,9 +110,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:00:11Z",
+  "harvested_at": "2026-10-26T17:39:18Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -113,6 +123,8 @@
     "Other Attributes: Date = AS.01.00.00, Genre = archival, Lines = o. 7; r. 7, Primary Publication = BIN 5, 106 (C), Royal = $ulgi, Sealed Inscribed = yes, Sealing = ur-d.li9-si4 ensi2 umma.ki ir11-zu (seal dedicated to d.$ul-gi nita-kalag-ga lugal uri5.ki-ma lugal an-ub-da limmu2-ba), Transliteration = ku$.ummud ki a-kal-la a$gab-ta ki$ib ensi2-ka, Period = Ur III"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -123,10 +135,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 015756",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.015756 | original catalog number: YBC 01015 (original catalog number) | CDLI number: P144147 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1832320",
   "title": "Tablet. Record concerning standards. Ur III. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -159,9 +174,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:00:14Z",
+  "harvested_at": "2026-10-26T17:39:22Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -171,6 +187,8 @@
     "Other Attributes: Date = $.42.12.00, Genre = archival, Lines = o. 4; r. 5, Primary Publication = SAT No. 947 (T), Sealed Inscribed = no, Transliteration = $u-nir, Period = Ur III"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -181,10 +199,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 010469",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.010469 | original catalog number: NBC 07483 (original catalog number) | CDLI number: P236764 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1827033",
   "title": "Tablet. List of workers. Early Old Babylonian. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -217,9 +238,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:00:17Z",
+  "harvested_at": "2026-10-26T17:39:26Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -229,6 +251,8 @@
     "Other Attributes: Date = I$IR.07.10.04, Genre = archival, Lines = o. 10; r. 11; te. 2; le. 3, Primary Publication = BIN 10, 220 (C), Period = Early Old Babylonian"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -239,10 +263,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 006583",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.006583 | original catalog number: NBC 03608 (original catalog number) | CDLI number: P290527 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1823147",
   "title": "Tablet. Record concerning field work. Ur III. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -275,9 +302,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:00:20Z",
+  "harvested_at": "2026-10-26T17:39:30Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -287,6 +315,8 @@
     "Other Attributes: Date = AS.08.00.00, Genre = archival, Lines = o. 3+ ; r. 5, Primary Publication = BPOA 7, 2371 (T), Sealed Inscribed = yes, Sealing = $e$-kal-la dub-sar dumu tir-gu, Transliteration = a2 erin2 a2 $e gur10, Period = Ur III"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -297,10 +327,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 032615",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.032615 | original catalog number: RBC 02322 (original catalog number) | YPM EMu IRN: ypm:ecatalogue:irn:1849179",
   "title": "Stamp seal, stem-shaped with circular base. Curves and volutes (symmetrical pattern). Early Bronze Age. Anatolia. Bronze.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -333,9 +366,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:00:23Z",
+  "harvested_at": "2026-10-26T17:39:34Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -345,6 +379,8 @@
     "Other Attributes: Primary Publication = unpublished, Lines = anepigraphic"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -355,10 +391,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 008812",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.008812 | original catalog number: NBC 05831 (original catalog number) | CDLI number: P212610 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1825376",
   "title": "Tablet. Account of wooden lances received. Late Early Dynastic. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -391,9 +430,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:00:26Z",
+  "harvested_at": "2026-10-26T17:39:38Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -403,6 +443,8 @@
     "Other Attributes: Citations = cf Powell, HUCA 49, 1978, 18, Date = 00.00.00.00, Genre = archival, Lines = o. 4, Primary Publication = BIN 8, 32 (C), Sealed Inscribed = no, Transliteration = LZG, Period = Late Early Dynastic"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -413,10 +455,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 037308",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.037308 | YPM Accession Number: YPM.13047 | original catalog number: NCBS 00411 (original catalog number) | YPM EMu IRN: ypm:ecatalogue:irn:1853872",
   "title": "Cylinder seal. Figure on horse confronting hero with drawn bow, crescent, triangular fill. Neo-Assyrian. Brownish limestone.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -449,9 +494,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:00:29Z",
+  "harvested_at": "2026-10-26T17:39:42Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -464,6 +510,8 @@
     "Accession YPM.13047, rcvd. via donation, 1966-1967"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -474,10 +522,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 013686",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.013686 | original catalog number: NBC 10723 (original catalog number) | CDLI number: P105038 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1830250",
   "title": "Tablet fragment. Disbursement of flour. Ur III. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -510,9 +561,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:00:32Z",
+  "harvested_at": "2026-10-26T17:39:46Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -522,6 +574,8 @@
     "Other Attributes: Date = $.47.07.00, Genre = archival, Lines = o. 5+ ;r. 6+ ; te. 2, Primary Publication = unpublished, Sealed Inscribed = no, Transliteration = zi-ga zi3, Period = Ur III"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -532,10 +586,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 036120",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.036120 | original catalog number: NCBT 01575 (original catalog number) | CDLI number: P303621 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1852684",
   "title": "Tablet. Record concerning guru$ employed to move boats. Ur III. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -568,9 +625,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:00:36Z",
+  "harvested_at": "2026-10-26T17:39:50Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -580,6 +638,8 @@
     "Other Attributes: Date = 00.00.12.00, Genre = archival, Lines = o. 5+ ; r. 3+ ?, Primary Publication = BPOA 7, 2837 (T), Sealed Inscribed = yes, Sealing = lu2-gi-na dub-sar dumu da-da, Period = Ur III"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -590,10 +650,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 030124",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.030124 | original catalog number: YBC 16891 (original catalog number) | CDLI number: P498355 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1846688",
   "title": "Tablet. Cattle withdrawn from Abba-Enlilgin. Ur III. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -626,9 +689,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:00:40Z",
+  "harvested_at": "2026-10-26T17:39:54Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -638,6 +702,8 @@
     "Other Attributes: Date = IS.01.06.02, Genre = archival, Lines = o. 12; r. 12; le. 1, Primary Publication = unpublished, Sealed Inscribed = yes, Sealing = $u-Sin, Transliteration = 2 seals: (1) nu-ur2-d.EN.ZU dub-sar dumu i-di3-ir3-ra ir11-zu (seal dedicated to d.$u-d.EN.ZU lugal kalag-ga lugal uri5.ki-ma lugal an-ub-da limmu2-ba ) (2) ur-d.en-[lil2-la2] dub sar dumu [...], Period = Ur III"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -648,10 +714,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 025560",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.025560 | original catalog number: YBC 11764 (original catalog number) | CDLI number: P144565 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1842124",
   "title": "Tablet. Delivery of flour and oil for the ensi2. Ur III. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -684,9 +753,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:00:45Z",
+  "harvested_at": "2026-10-26T17:39:58Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -696,6 +766,8 @@
     "Other Attributes: Date = $S.03.06.--, Genre = archival, Lines = o. 7; r. 5, Primary Publication = SAT No. 1365 (T), Royal = $u-Sin, Sealed Inscribed = yes, Sealing = a-a-kal-la ensi2 umma.ki ir11-zu (seal dedicated to d.$u-d.EN.ZU lugal kalag-ga lugal uri5.ki-ma lugal an-ub-da limmu2-ba), Period = Ur III"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -706,10 +778,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 023277",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.023277 | original catalog number: YBC 09222 (original catalog number) | CDLI number: P309944 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1839841",
   "title": "Tablet. Personal guarantee. Neo-Babylonian. Clay. Witnessed.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -742,9 +817,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:00:49Z",
+  "harvested_at": "2026-10-26T17:40:03Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -754,6 +830,8 @@
     "Other Attributes: Date = NBK2.35.01.13, Genre = archival, Lines = o. 8; be. 2; r. 9; te. 2; le. 1, Primary Publication = unpublished, Transliteration = Eanna archive; legal transaction; high officials, Period = Neo-Babylonian"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -764,10 +842,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 015102",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.015102 | original catalog number: YBC 00361 (original catalog number) | CDLI number: P143291 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1831666",
   "title": "Tablet. Record concerning metal for Dadaga. Ur III. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -800,9 +881,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:00:52Z",
+  "harvested_at": "2026-10-26T17:40:07Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -812,6 +894,8 @@
     "Other Attributes: Date = $.34.05.00, Genre = archival, Lines = o. 4; r. 3, Primary Publication = SAT No. 92 (T), Sealed Inscribed = no, Transliteration = su-gan, Period = Ur III"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -822,10 +906,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 025532",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.025532 | original catalog number: YBC 11736 (original catalog number) | CDLI number: P311843 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1842096",
   "title": "Tablet. Legal document. Ur III. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -858,9 +945,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:00:56Z",
+  "harvested_at": "2026-10-26T17:40:11Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -870,6 +958,8 @@
     "Other Attributes: Assigned = Hallo; to be transliterated by Sigrist; Bodine 2004, Date = 00.00.00.00, Genre = archival, Lines = o. 6; r. 5, Primary Publication = unpublished, Sealed Inscribed = no, Period = Ur III"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -880,10 +970,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 014984",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.014984 | original catalog number: YBC 00243 (original catalog number) | CDLI number: P143675 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1831548",
   "title": "Tablet. Inspection tablet. Ur III. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -916,9 +1009,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:01:01Z",
+  "harvested_at": "2026-10-26T17:40:15Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -928,6 +1022,8 @@
     "Other Attributes: Date = $.46.05.02, Genre = archival, Lines = o. 14; r. 7, Primary Publication = SAT No. 475 (T), Sealed Inscribed = no, Text Date = mu-us2-sa ur-bi2-lum.ki, Transliteration = gurum2(igi-gar)-ak $e-du3-a u3 im-ur3-ra, Period = Ur III"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -938,10 +1034,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 030661",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.030661 | original catalog number: RBC 00367 (original catalog number) | CDLI number: P506598 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1847225",
   "title": "Tablet. Expenditure of small cattle. Ur III. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -974,9 +1073,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:01:09Z",
+  "harvested_at": "2026-10-26T17:40:19Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -986,6 +1086,8 @@
     "Other Attributes: Date = $S.02.03.14, Genre = archival, Lines = o. 7; r. 7; te. 1; le. 1, Primary Publication = unpublished, Sealed Inscribed = no, Period = Ur III"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -996,10 +1098,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 028029",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.028029 | original catalog number: YBC 14612 (original catalog number) | CDLI number: P210629 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1844593",
   "title": "Tablet. Bovines for the kitchen. Ur III. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -1032,9 +1137,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:01:16Z",
+  "harvested_at": "2026-10-26T17:40:23Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -1044,6 +1150,8 @@
     "Other Attributes: Date = AS.08.04.06, Genre = archival, Lines = o. 4 ; r. 4 ; le. 1, Primary Publication = BPOA 6, 863 (T), Royal = Amar-Sin, Sealed Inscribed = yes, Sealing = ur-d.ba-ba6 dub-sar ir11-zu (seal dedicated to d.amar-d.EN.ZU lugal kalag-ga lugal uri5.ki-ma lugal an-ub-da limmu2-ba), Period = Ur III"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1054,10 +1162,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 009601",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.009601 | original catalog number: NBC 06617 (original catalog number) | CDLI number: P286274 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1826165",
   "title": "Tablet fragment. Letter. Old Assyrian. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -1090,9 +1201,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:01:22Z",
+  "harvested_at": "2026-10-26T17:40:27Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -1102,6 +1214,8 @@
     "Other Attributes: Date = 00.00.00.00, Genre = archival, Lines = r. 10, Primary Publication = Sayce, Babyloniaca 6, 1912, 188, 192, No9 (C, T), Period = Old Assyrian"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1112,10 +1226,13 @@
   "department": "Babylonian Collection, Yale Peabody Museum",
   "accession_number": "YPM BC 028788",
   "accession_number_type": "YPM External Catalog Number",
+  "other_identifiers": "YPM Internal Catalog Number: BC.028788 | original catalog number: YBC 15526 (original catalog number) | CDLI number: P312729 (CDLI number) | YPM EMu IRN: ypm:ecatalogue:irn:1845352",
   "title": "Tablet. Too poorly preserved to assess. Neo-Babylonian. Clay.",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "",
@@ -1148,9 +1265,10 @@
   "image_rights_level": "manifest",
   "object_copyright": "",
   "image_rights_category": "CC0",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T22:01:26Z",
+  "harvested_at": "2026-10-26T17:40:31Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -1160,6 +1278,8 @@
     "Other Attributes: Date = 00.00.00.00, Genre = archival, Lines = o. 6; be. 2; r. 4+ or o. 8; r. 4 unpublished, Period = Neo-Babylonian"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  }
 ]

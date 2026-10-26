@@ -7,10 +7,13 @@
   "department": "Asian Art Collection, Yale University Art Gallery | Ceremonial Dress from Southwest China: The Ann B. Goodman Collection, Yale University Art Gallery, New Haven, Conn., 2019-09-06 to 2020-01-05",
   "accession_number": "2015.125.458",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 209803",
   "title": "Apron",
   "creators": "Maker: Unknown",
+  "creator_names": "Unknown",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "20th century",
@@ -43,9 +46,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Undetermined",
   "image_rights_category": "Copyright undetermined",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Copyright undetermined",
-  "harvested_at": "2026-10-24T21:50:53Z",
+  "harvested_at": "2026-10-26T17:24:28Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -63,6 +67,8 @@
     "Pastoral Asia, Beijing, China, to 2007; Ann B. Goodman Collection, Cambridge, Mass., 2007–15; Yale University Art Gallery, New Haven, Conn."
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -73,10 +79,13 @@
   "department": "Numismatics Collection, Yale University Art Gallery",
   "accession_number": "2004.6.1382",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 111490",
   "title": "Coin of Augustus, Emperor of Rome from Thessalonica",
   "creators": "Artist: Unknown",
+  "creator_names": "Unknown",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "30–1 B.C.",
@@ -109,9 +118,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:50:57Z",
+  "harvested_at": "2026-10-26T17:24:31Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -132,6 +142,8 @@
     "Professor Dr. Peter Robert Franke and Leonore Franke, Munich, from about 1960 to 2004; Yale University Art Gallery, New Haven, Conn."
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -142,10 +154,13 @@
   "department": "Gerasa Collection, Yale University",
   "accession_number": "",
   "accession_number_type": "",
+  "other_identifiers": "System-Assigned Number: GA2740 | System-Assigned Number: 353398 | System-Assigned Number: LB 4, Calculations",
   "title": "Jerash Level Book 4, Calculations",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "n.d.",
@@ -178,15 +193,18 @@
   "image_rights_level": "image",
   "object_copyright": "",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:50:59Z",
+  "harvested_at": "2026-10-26T17:24:37Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [
    "Jerash"
   ],
   "_statements": {},
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/1698bcde-b828-4a92-8ab9-1a3186f6a4b7",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -197,10 +215,13 @@
   "department": "Prints and Drawings Collection, Yale University Art Gallery",
   "accession_number": "1977.102",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 54273",
   "title": "Two Points of Neurasthenic Pain",
   "creators": "Artist: John Wilde (American, 1919–2006)",
+  "creator_names": "John Wilde",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/11459aba-4a8b-45e1-a419-30e7f73205cf",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "mid–late 20th century",
@@ -233,9 +254,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Artist/Estate/Foundation",
   "image_rights_category": "Not assigned",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Not assigned",
-  "harvested_at": "2026-10-24T21:51:05Z",
+  "harvested_at": "2026-10-26T17:24:43Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/11459aba-4a8b-45e1-a419-30e7f73205cf",
@@ -253,6 +275,8 @@
     "signed and inscribed, upper right: \"Two points of Neurasthenic Pain. Demonstration in the interest of medicine. John. Wilde.\"; lower right: \"myself, mustache in the grand manner, describing two points of neurasthenic pain\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -263,10 +287,13 @@
   "department": "Numismatics Collection, Yale University Art Gallery",
   "accession_number": "2001.87.55385",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 215666",
   "title": "1 Penny of George VI, King of Great Britain from Board of Revenue",
   "creators": "Artist: Unknown",
+  "creator_names": "Unknown",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1948",
@@ -299,9 +326,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:51:08Z",
+  "harvested_at": "2026-10-26T17:24:47Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -322,6 +350,8 @@
     "Yale University Library, New Haven, Conn., by 2001; transferred to the Yale University Art Gallery, New Haven, Conn., 2001"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -332,10 +362,13 @@
   "department": "Numismatics Collection, Yale University Art Gallery",
   "accession_number": "2001.87.36582",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 188948",
   "title": "5 Cents of Elizabeth II, Queen of Great Britain from Ottawa",
   "creators": "Artist: Mary Gillick (British, 1881–1965) | Artist: George Kruger Gray (British, 1880–1943)",
+  "creator_names": "Mary Gillick | George Kruger Gray",
   "creator_roles": "Artist | Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/d441f1e8-2693-49dc-bcdf-69a91ac3319f | https://lux.collections.yale.edu/data/person/5cd92b74-f3a8-4c7e-895d-24be27093e7e",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1953",
@@ -368,9 +401,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Undetermined",
   "image_rights_category": "Copyright undetermined",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Copyright undetermined",
-  "harvested_at": "2026-10-24T21:51:11Z",
+  "harvested_at": "2026-10-26T17:24:55Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/d441f1e8-2693-49dc-bcdf-69a91ac3319f",
@@ -396,6 +430,8 @@
     "Yale University Library, New Haven, Conn., by 2001; transferred to the Yale University Art Gallery, New Haven, Conn., 2001"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -406,10 +442,13 @@
   "department": "Numismatics Collection, Yale University Art Gallery",
   "accession_number": "2021.84.79",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 293970",
   "title": "Denarius of Faustina Junior Augusta from Roman Empire",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "147–75",
@@ -442,9 +481,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public Domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:51:16Z",
+  "harvested_at": "2026-10-26T17:25:02Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -462,6 +502,8 @@
     "Probably Yale University Library, New Haven, Conn., until about 1960’s. Sale, Skinner Auctions, Marlborough, February 12, 2020, lot 1002; sold to private collection, February 12, 2020; sold to private collection, Amherst, Mass.; sold to private collection; sale, Classical Numismatics Group Keystone Auction, February 17, 2021, lot 79; sold to the Yale University Art Gallery, New Haven, Conn., 2021\r\n\r\nNote 1: Hand-written inscriptions on the boxes and index cards that sold alongside the coin at Skinner and CNG suggest the coin was formerly with the Yale University Library. The circumstance of transfer of the coin from Yale’s collections is unclear. The Gallery welcomes information that would further clarify the coin’s ownership history."
    ]
   },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/8637331a-bb54-4d57-aba0-d1e76b04cd3b",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -472,10 +514,13 @@
   "department": "Prints and Drawings Collection, Yale University Art Gallery",
   "accession_number": "1970.7.3a-f",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 14476",
   "title": "6 etchings from \"The Set of the Goats\"",
   "creators": "Artist: Nicolaes Berchem (Dutch, 1620–1683)",
+  "creator_names": "Claes Berghem",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/83b27857-cb36-4f15-8991-d03fea249807",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "n.d.",
@@ -508,9 +553,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:51:18Z",
+  "harvested_at": "2026-10-26T17:25:07Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/83b27857-cb36-4f15-8991-d03fea249807",
@@ -525,6 +571,8 @@
     "Inscr. on plate of title page, LC: \"ANIMALIA/ad vivum delineata, etaqua touti aeri impressa/studio et arte NICOLAI BERCHEMI"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -535,10 +583,13 @@
   "department": "Numismatics Collection, Yale University Art Gallery",
   "accession_number": "2001.87.60580",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 224524",
   "title": "1 Pfennig of Ernest II",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1856",
@@ -571,13 +622,16 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:51:22Z",
+  "harvested_at": "2026-10-26T17:25:13Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/698f0191-6ced-4358-a2e4-63932e968650",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -588,10 +642,13 @@
   "department": "Numismatics Collection, Yale University Art Gallery",
   "accession_number": "2001.87.59294",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 223238",
   "title": "Thaler of Albert of Brandenburg",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1538",
@@ -624,13 +681,16 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:51:26Z",
+  "harvested_at": "2026-10-26T17:25:19Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
   "_statements": {},
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/63231d08-1be0-4a78-bce5-42f02d6640f1",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -641,10 +701,13 @@
   "department": "Numismatics Collection, Yale University Art Gallery",
   "accession_number": "2001.87.16483",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 148138",
   "title": "Antoninianus of Gallienus, Emperor of Rome from Rome",
   "creators": "Artist: Unknown",
+  "creator_names": "Unknown",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "A.D. 253–68",
@@ -677,9 +740,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:51:28Z",
+  "harvested_at": "2026-10-26T17:25:23Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -697,6 +761,8 @@
     "Yale University Library, New Haven, Conn., by 2001; transferred to the Yale University Art Gallery, New Haven, Conn., 2001"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -707,10 +773,13 @@
   "department": "Prints and Drawings Collection, Yale University Art Gallery | Everything Is Dada, Yale University Art Gallery, New Haven, Conn., 2016-02-12 to 2016-07-03",
   "accession_number": "1953.6.145",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 50997",
   "title": "Head of a Man",
   "creators": "Artist: Suzanne Duchamp (French, 1889–1963)",
+  "creator_names": "Suzanne Duchamp",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/318d1562-145e-4389-9b86-497d73d58145",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1921",
@@ -743,9 +812,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:51:32Z",
+  "harvested_at": "2026-10-26T17:25:29Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/318d1562-145e-4389-9b86-497d73d58145",
@@ -769,6 +839,8 @@
     "Signed in plate l.l. \"Suzanne Duchamp\"\r\nSigned in pencil l.r. \"Suzanne Duchamp (1921)\""
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -779,10 +851,13 @@
   "department": "Ancient Art Collection, Yale University Art Gallery",
   "accession_number": "2019.96.6",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 274983",
   "title": "Head of a Woman",
   "creators": "Artist: Unknown",
+  "creator_names": "Unknown",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "ca. 900 B.C.",
@@ -815,9 +890,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:51:35Z",
+  "harvested_at": "2026-10-26T17:25:33Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -832,6 +908,8 @@
     "Ex-collection Ada (Mrs. William H) S. Moore, 1940s"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -842,10 +920,13 @@
   "department": "Ancient Art Collection, Yale University Art Gallery | Roman in the Provinces: Art on the Periphery of Empire, McMullen Museum of Art, Chestnut Hill, Mass., 2015-02-14 to 2015-05-31 | Roman in the Provinces: Art on the Periphery of Empire, Yale University Art Gallery, New Haven, Conn., 2014-08-22 to 2015-01-04",
   "accession_number": "1930.460",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 4372",
   "title": "Agate Glass Bottle",
   "creators": "Maker: Unknown",
+  "creator_names": "Unknown",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1st century A.D.",
@@ -878,9 +959,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:51:38Z",
+  "harvested_at": "2026-10-26T17:25:37Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -901,6 +983,8 @@
     "n.s."
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -911,10 +995,13 @@
   "department": "Ancient Art Collection, Yale University Art Gallery",
   "accession_number": "1912.408",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 1092",
   "title": "Spouted Jug",
   "creators": "Maker: Unknown",
+  "creator_names": "Unknown",
   "creator_roles": "Maker",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "A.D. 326–614",
@@ -947,9 +1034,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:51:47Z",
+  "harvested_at": "2026-10-26T17:25:41Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -964,6 +1052,8 @@
     "n.s."
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -974,10 +1064,13 @@
   "department": "Photography Collection, Yale University Art Gallery | August Sander’s People of the 20th Century, Yale University Art Gallery, New Haven, Conn., 2026-02-27 to 2026-06-28",
   "accession_number": "2025.34.333",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 334233",
   "title": "Priest with Family",
   "creators": "Artist: August Sander (German, 1876–1964) | Printer: Gerd Sander (German, 1940–2021)",
+  "creator_names": "August Sander | Gerd Sander",
   "creator_roles": "Artist | Printer",
   "creator_uris": "https://lux.collections.yale.edu/data/person/f8466fa9-77be-47d7-89c9-a5510f5ed114 | https://lux.collections.yale.edu/data/person/fe36cf75-3fc0-4967-9de2-a164b61c4ce7",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1911–14, printed ca. 1990–99",
@@ -1010,9 +1103,10 @@
   "image_rights_level": "image",
   "object_copyright": "© Die Photographische Sammlung / SK Stiftung Kultur - August Sander Archiv, Cologne / ARS, NY",
   "image_rights_category": "In copyright / restricted",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: In copyright / restricted",
-  "harvested_at": "2026-10-24T21:51:51Z",
+  "harvested_at": "2026-10-26T17:25:49Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/f8466fa9-77be-47d7-89c9-a5510f5ed114",
@@ -1046,6 +1140,8 @@
     "Recent Acquisition"
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1056,10 +1152,13 @@
   "department": "Dura-Europos Collection, Yale University",
   "accession_number": "",
   "accession_number_type": "",
+  "other_identifiers": "System-Assigned Number: DA4973 | System-Assigned Number: 346812 | System-Assigned Number: h31a",
   "title": "Plan: m7, nw quarter",
   "creators": "Van W. Knox",
+  "creator_names": "Van W. Knox",
   "creator_roles": "",
   "creator_uris": "https://lux.collections.yale.edu/data/person/3cb51ef1-33a0-4ee5-ad56-f4f9e4976e60",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "photographed 1934–35",
@@ -1092,9 +1191,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:51:55Z",
+  "harvested_at": "2026-10-26T17:25:55Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/3cb51ef1-33a0-4ee5-ad56-f4f9e4976e60",
@@ -1110,6 +1210,8 @@
    "صورة أرشيفية لدورا أوروبوس، معرض فنون جامعة ييل رقم نيجاتيف الصورة h31a"
   ],
   "_statements": {},
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1120,10 +1222,13 @@
   "department": "Numismatics Collection, Yale University Art Gallery | Dura-Europos Collection, Yale University",
   "accession_number": "1938.6000.1786",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 144235",
   "title": "Coin of Gordian III, Emperor of Rome from Nisibis",
   "creators": "Artist: Unknown",
+  "creator_names": "Unknown",
   "creator_roles": "Artist",
   "creator_uris": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "A.D. 242–44",
@@ -1156,9 +1261,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:51:58Z",
+  "harvested_at": "2026-10-26T17:25:59Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/person/03ed33fa-1b1c-4fe0-9cba-614698dc94cd",
@@ -1179,6 +1285,8 @@
     "Excavated by the Yale-French Excavations at Dura-Europos, present-day Syria, 1928–37; Yale University Library, New Haven Conn., 1938–2001; Yale University Art Gallery, New Haven, Conn."
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1189,10 +1297,13 @@
   "department": "Numismatics Collection, Yale University Art Gallery",
   "accession_number": "2019.124.2856",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 299035",
   "title": "Stock Certificate Specimen of 100 Shares of Gulf Power Company",
   "creators": "Manufacturer: American Bank Note Company (American, 1858–present) | Issuer: Gulf Power Company",
+  "creator_names": "American Bank Note Company | Gulf Power Company",
   "creator_roles": "Manufacturer | Issuer",
   "creator_uris": "https://lux.collections.yale.edu/data/group/e2173485-9516-45b8-b706-17c090f606f3 | https://lux.collections.yale.edu/data/group/ab5d6ce7-63f6-4c85-8a41-83353ab866a3",
+  "creator_source": "object",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1900–1999",
@@ -1225,9 +1336,10 @@
   "image_rights_level": "image",
   "object_copyright": "Copyright Undetermined",
   "image_rights_category": "Copyright undetermined",
+  "image_rights_note": "",
   "image_usable": "no",
   "image_flag_reason": "image rights: Copyright undetermined",
-  "harvested_at": "2026-10-24T21:52:04Z",
+  "harvested_at": "2026-10-26T17:26:07Z",
   "_creators": [
    {
     "uri": "https://lux.collections.yale.edu/data/group/e2173485-9516-45b8-b706-17c090f606f3",
@@ -1247,6 +1359,8 @@
     "American Bank Note Company Archives, New York; Arthur H. Morowitz, New York, 2019; Yale University Art Gallery, New Haven, Conn."
    ]
   },
+  "_linked_work": "",
+  "_manifest_notes": {},
   "sample_scope": "images"
  },
  {
@@ -1257,10 +1371,13 @@
   "department": "Numismatics Collection, Yale University Art Gallery",
   "accession_number": "2001.87.45419",
   "accession_number_type": "Accession Number",
+  "other_identifiers": "System-Assigned Number: 198879",
   "title": "1 Cent of Juliana of the Netherlands from Utrecht",
   "creators": "",
+  "creator_names": "",
   "creator_roles": "",
   "creator_uris": "",
+  "creator_source": "",
   "collectors": "",
   "collector_uris": "",
   "date_display": "1950",
@@ -1293,9 +1410,10 @@
   "image_rights_level": "image",
   "object_copyright": "Public domain",
   "image_rights_category": "No Copyright - United States",
+  "image_rights_note": "",
   "image_usable": "yes",
   "image_flag_reason": "",
-  "harvested_at": "2026-10-24T21:52:07Z",
+  "harvested_at": "2026-10-26T17:26:13Z",
   "_creators": [],
   "_collectors": [],
   "_other_names": [],
@@ -1307,6 +1425,8 @@
     "Yale University Library, New Haven, Conn., by 2001; transferred to the Yale University Art Gallery, New Haven, Conn., 2001"
    ]
   },
+  "_linked_work": "https://lux.collections.yale.edu/data/visual/8705f854-7c06-4191-b2e7-77742c7245c8",
+  "_manifest_notes": {},
   "sample_scope": "images"
  }
 ]

@@ -497,5 +497,20 @@
    "credit_line",
    "museum"
   ]
+ },
+ "628d1013-8bc2-4160-af17-b5fcd2088a55|gpt-6-luna|3163709b|1baca657": {
+  "headline": "Ivory rings and a swallowtail key",
+  "blurb": "Thomas Cahusac made this English oboe around 1750. It comes in three pieces, joined with ivory rings, and has two circular brass keys, one shaped like a swallowtail. The oboe measures 58.4 centimetres in overall length. It is part of Yale’s Morris Steinert Collection of Musical Instruments, where it is identified as object 3425.2002.",
+  "look_closer": "Look for the two circular brass keys, including the one with a swallowtail shape.",
+  "facts_used": [
+   "title",
+   "maker",
+   "creators_display",
+   "date",
+   "description",
+   "dimensions",
+   "museum",
+   "accession_number"
+  ]
  }
 }
